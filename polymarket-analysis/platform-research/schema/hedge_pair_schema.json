@@ -1,0 +1,35 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Platform Hedge Pair Candidate",
+  "type": "object",
+  "required": [
+    "pair_id",
+    "platform_a",
+    "platform_b",
+    "record_a_index",
+    "record_b_index",
+    "time_gap_minutes",
+    "match_score"
+  ],
+  "properties": {
+    "pair_id": { "type": "string" },
+    "platform_a": { "type": "string" },
+    "platform_b": { "type": "string" },
+    "record_a_index": { "type": "integer" },
+    "record_b_index": { "type": "integer" },
+    "time_gap_minutes": { "type": "number" },
+    "event_gap_hours": { "type": ["number", "null"] },
+    "match_score": { "type": "number" },
+    "same_category": { "type": "boolean" },
+    "same_matchup_key": { "type": "boolean" },
+    "same_event_day": { "type": "boolean" },
+    "same_market_family": { "type": "boolean" },
+    "opposite_signal_hint": { "type": "boolean" },
+    "record_a": { "type": "object" },
+    "record_b": { "type": "object" },
+    "notes": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  }
+}

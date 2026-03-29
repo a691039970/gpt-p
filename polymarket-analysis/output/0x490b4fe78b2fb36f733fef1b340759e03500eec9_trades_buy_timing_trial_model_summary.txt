@@ -1,0 +1,28 @@
+﻿Trial model
+
+Rules
+- Categories: Basketball, Dota2, CS2, LoL
+- Price: 0.2 to 0.6
+- Time window baseline: -10 to 180 minutes versus start
+- High conviction windows:
+  Basketball: 0 to 90 minutes before start
+  Dota2: -5 to 60 minutes versus start
+  CS2: -5 to 120 minutes versus start
+  LoL: -10 to 30 minutes versus start
+
+Coverage
+- Total buys: 411
+- Candidate signals: 168 (40.88%)
+- High conviction signals: 123 (29.93%)
+
+High conviction by category
+
+Category   Count AvgPrice AvgMinutesBeforeStart
+--------   ----- -------- ---------------------
+Basketball    44   0.4606                 30.16
+CS2           43   0.4103                 40.09
+LoL           19   0.3669                  3.69
+Dota2         17   0.4392                 39.74
+
+
+

@@ -1,0 +1,13 @@
+﻿
+Category   Trades AvgMinutesBeforeStart MedianApproxMinutesBeforeStart
+--------   ------ --------------------- ------------------------------
+CS2           122                499.96                          86.05
+Basketball    104                128.97                          78.38
+Dota2          75                159.07                          39.78
+LoL            55                496.48                          -3.35
+Other          28                 260.2                          78.78
+CoD            14                437.25                         164.12
+Valorant       13                227.56                         128.27
+
+
+

@@ -1,0 +1,1354 @@
+﻿[
+    {
+        "slug":  "codmw-crr-par-2026-03-27",
+        "title":  "Call of Duty: Carolina Royal Ravens vs Paris Gentle Mates (BO5) - Call of Duty League Major 2 Playoffs",
+        "gameStartTime":  "2026-03-27T14:10:00.0000000Z",
+        "marketStart":  "2026-03-24",
+        "endDate":  "2026-03-27",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "codmw-g2m-riyf-2026-03-27",
+        "title":  "Call of Duty: G2 Minnesota vs Riyadh Falcons (BO5) - Call of Duty League Major 2 Playoffs",
+        "gameStartTime":  "2026-03-27T17:50:00.0000000Z",
+        "marketStart":  "2026-03-24",
+        "endDate":  "2026-03-27",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "codmw-lat1-faz-2026-03-27-game2",
+        "title":  "Call of Duty: Los Angeles Thieves vs FaZe Vegas - Game 2 Winner",
+        "gameStartTime":  "2026-03-27T15:50:00.0000000Z",
+        "marketStart":  "2026-03-24",
+        "endDate":  "2026-03-27",
+        "sportsMarketType":  "child_moneyline"
+    },
+    {
+        "slug":  "codmw-par-faz-2026-03-28-game3",
+        "title":  "Call of Duty: Paris Gentle Mates vs FaZe Vegas - Game 3 Winner",
+        "gameStartTime":  "2026-03-28T14:10:00.0000000Z",
+        "marketStart":  "2026-03-28",
+        "endDate":  "2026-03-28",
+        "sportsMarketType":  "child_moneyline"
+    },
+    {
+        "slug":  "codmw-tor-tex-2026-03-22",
+        "title":  "Call of Duty: Toronto KOI vs OpTic Texas (BO5) - Call of Duty League Stage 2 Major Qualifiers Qualifiers",
+        "gameStartTime":  "2026-03-22T23:30:00.0000000Z",
+        "marketStart":  "2026-03-16",
+        "endDate":  "2026-03-23",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "codmw-tor-tex-2026-03-22-game2",
+        "title":  "Call of Duty: Toronto KOI vs OpTic Texas - Game 2 Winner",
+        "gameStartTime":  "2026-03-22T23:30:00.0000000Z",
+        "marketStart":  "2026-03-16",
+        "endDate":  "2026-03-23",
+        "sportsMarketType":  "child_moneyline"
+    },
+    {
+        "slug":  "codmw-tor-van-2026-03-27-game1",
+        "title":  "Call of Duty: Toronto KOI vs Vancouver Surge - Game 1 Winner",
+        "gameStartTime":  "2026-03-27T14:10:00.0000000Z",
+        "marketStart":  "2026-03-24",
+        "endDate":  "2026-03-27",
+        "sportsMarketType":  "child_moneyline"
+    },
+    {
+        "slug":  "cs2-1win-nemi1-2026-03-27",
+        "title":  "Counter-Strike: 1WIN vs Nemiga (BO3) - ESL Challenger League Europe Cup #2 Playoffs",
+        "gameStartTime":  "2026-03-27T18:00:00.0000000Z",
+        "marketStart":  "2026-03-26",
+        "endDate":  "2026-03-28",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "cs2-9z-gh-2026-03-26",
+        "title":  "Counter-Strike: 9z vs Game Hunters (BO3) - FERJEE In House Group B",
+        "gameStartTime":  "2026-03-26T21:00:00.0000000Z",
+        "marketStart":  "2026-03-23",
+        "endDate":  "2026-03-27",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "cs2-all-eye-2026-03-28",
+        "title":  "Counter-Strike: Alliance vs EYEBALLERS (BO3) - Journey Playoffs",
+        "gameStartTime":  "2026-03-28T17:00:00.0000000Z",
+        "marketStart":  "2026-03-28",
+        "endDate":  "2026-03-28",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "cs2-ast-hs2-2026-03-27",
+        "title":  "Counter-Strike: ASTRAL vs HyperSpirit (BO3) - LORGAR RANKINGS Closed Qualifier Group D",
+        "gameStartTime":  "2026-03-27T16:00:00.0000000Z",
+        "marketStart":  "2026-03-27",
+        "endDate":  "2026-03-27",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "cs2-atrix-paina-2026-03-27",
+        "title":  "Counter-Strike: Atrix Esports vs paiN Academy (BO3) - BetBoom Storm Group Stage",
+        "gameStartTime":  "2026-03-27T20:10:00.0000000Z",
+        "marketStart":  "2026-03-24",
+        "endDate":  "2026-03-28",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "cs2-aur1-mglz-2026-03-27",
+        "title":  "Counter-Strike: Aurora Gaming vs TheMongolz (BO3) - BLAST Open Rotterdam Playoffs",
+        "gameStartTime":  "2026-03-27T14:00:00.0000000Z",
+        "marketStart":  "2026-03-24",
+        "endDate":  "2026-03-27",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "cs2-aur1-mglz-2026-03-27-game1",
+        "title":  "Counter-Strike: Aurora Gaming vs TheMongolz - Map 1 Winner",
+        "gameStartTime":  "2026-03-27T14:00:00.0000000Z",
+        "marketStart":  "2026-03-24",
+        "endDate":  "2026-03-27",
+        "sportsMarketType":  "child_moneyline"
+    },
+    {
+        "slug":  "cs2-bb3-sin2-2026-03-26",
+        "title":  "Counter-Strike: BetBoom Team vs Sinners (BO3) - BC Game Masters Championship Playoffs",
+        "gameStartTime":  "2026-03-26T12:00:00.0000000Z",
+        "marketStart":  "2026-03-25",
+        "endDate":  "2026-03-26",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "cs2-bb3-sin2-2026-03-26-game1",
+        "title":  "Counter-Strike: BetBoom Team vs Sinners - Map 1 Winner",
+        "gameStartTime":  "2026-03-26T12:00:00.0000000Z",
+        "marketStart":  "2026-03-25",
+        "endDate":  "2026-03-26",
+        "sportsMarketType":  "child_moneyline"
+    },
+    {
+        "slug":  "cs2-bca-js1-2026-03-27",
+        "title":  "Counter-Strike: Betclic Apogee Esports vs Johnny Speeds (BO3) - Journey Playoffs",
+        "gameStartTime":  "2026-03-27T14:00:00.0000000Z",
+        "marketStart":  "2026-03-26",
+        "endDate":  "2026-03-27",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "cs2-big5-sin2-2026-03-29",
+        "title":  "Counter-Strike: BIG vs Sinners (BO1) - Roman Imperium Cup Group C",
+        "gameStartTime":  "2026-03-29T10:15:00.0000000Z",
+        "marketStart":  "2026-03-25",
+        "endDate":  "2026-03-29",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "cs2-bst-wc1-2026-03-28",
+        "title":  "Counter-Strike: BESTIA vs Wildcard (BO1) - Roman Imperium Cup Group A",
+        "gameStartTime":  "2026-03-28T10:30:00.0000000Z",
+        "marketStart":  "2026-03-24",
+        "endDate":  "2026-03-28",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "cs2-cs1-fxw7-2026-03-28",
+        "title":  "Counter-Strike: CYBERSHOKE Esports vs Fluxo W7M (BO1) - Roman Imperium Cup Group B",
+        "gameStartTime":  "2026-03-28T22:00:00.0000000Z",
+        "marketStart":  "2026-03-24",
+        "endDate":  "2026-03-29",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "cs2-esc1-ace1-2026-03-29",
+        "title":  "Counter-Strike: ESC Gaming vs Acend (BO1) - Roman Imperium Cup Group D",
+        "gameStartTime":  "2026-03-29T17:45:00.0000000Z",
+        "marketStart":  "2026-03-26",
+        "endDate":  "2026-03-29",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "cs2-fal2-furia-2026-03-23",
+        "title":  "Counter-Strike: Team Falcons vs FURIA (BO3) - BLAST Open Rotterdam Group A",
+        "gameStartTime":  "2026-03-23T13:30:00.0000000Z",
+        "marketStart":  "2026-03-22",
+        "endDate":  "2026-03-23",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "cs2-fal2-furia-2026-03-23-total-games-2pt5",
+        "title":  "Games Total: O/U 2.5",
+        "gameStartTime":  "2026-03-23T13:30:00.0000000Z",
+        "marketStart":  "2026-03-22",
+        "endDate":  "2026-03-23",
+        "sportsMarketType":  "totals"
+    },
+    {
+        "slug":  "cs2-fal2-prv-2026-03-27-game1",
+        "title":  "Counter-Strike: Team Falcons vs PARIVISION - Map 1 Winner",
+        "gameStartTime":  "2026-03-27T16:35:00.0000000Z",
+        "marketStart":  "2026-03-24",
+        "endDate":  "2026-03-27",
+        "sportsMarketType":  "child_moneyline"
+    },
+    {
+        "slug":  "cs2-fal2-prv-2026-03-27-game2",
+        "title":  "Counter-Strike: Team Falcons vs PARIVISION - Map 2 Winner",
+        "gameStartTime":  "2026-03-27T16:35:00.0000000Z",
+        "marketStart":  "2026-03-24",
+        "endDate":  "2026-03-27",
+        "sportsMarketType":  "child_moneyline"
+    },
+    {
+        "slug":  "cs2-fal2-prv-2026-03-27-map-handicap-away-1pt5",
+        "title":  "Map Handicap: FAL (-1.5) vs PARIVISION (+1.5)",
+        "gameStartTime":  "2026-03-27T16:35:00.0000000Z",
+        "marketStart":  "2026-03-24",
+        "endDate":  "2026-03-27",
+        "sportsMarketType":  "map_handicap"
+    },
+    {
+        "slug":  "cs2-fxw7-saw2-2026-03-28",
+        "title":  "Counter-Strike: Fluxo W7M vs SAW (BO1) - Roman Imperium Cup Group B",
+        "gameStartTime":  "2026-03-28T20:00:00.0000000Z",
+        "marketStart":  "2026-03-24",
+        "endDate":  "2026-03-29",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "cs2-g2-sin2-2026-03-25",
+        "title":  "Counter-Strike: G2 vs Sinners (BO3) - BC Game Masters Championship Playoffs",
+        "gameStartTime":  "2026-03-25T19:00:00.0000000Z",
+        "marketStart":  "2026-03-25",
+        "endDate":  "2026-03-26",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "cs2-gg5-shin-2026-03-26",
+        "title":  "Counter-Strike: Gaimin Gladiators vs ShindeN (BO3) - FERJEE In House Group A",
+        "gameStartTime":  "2026-03-26T13:20:00.0000000Z",
+        "marketStart":  "2026-03-23",
+        "endDate":  "2026-03-26",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "cs2-hero-tri9-2026-03-25",
+        "title":  "Counter-Strike: Heroic vs Tricked (BO3) - BC Game Masters Championship Playoffs",
+        "gameStartTime":  "2026-03-25T15:00:00.0000000Z",
+        "marketStart":  "2026-03-25",
+        "endDate":  "2026-03-25",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "cs2-hero-tri9-2026-03-25-game2",
+        "title":  "Counter-Strike: Heroic vs Tricked - Map 2 Winner",
+        "gameStartTime":  "2026-03-25T15:00:00.0000000Z",
+        "marketStart":  "2026-03-25",
+        "endDate":  "2026-03-25",
+        "sportsMarketType":  "child_moneyline"
+    },
+    {
+        "slug":  "cs2-hotu-big5-2026-03-26",
+        "title":  "Counter-Strike: HOTU vs BIG (BO3) - BC Game Masters Championship Playoffs",
+        "gameStartTime":  "2026-03-26T12:00:00.0000000Z",
+        "marketStart":  "2026-03-25",
+        "endDate":  "2026-03-26",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "cs2-hotu-ice-2026-03-25",
+        "title":  "Counter-Strike: HOTU vs Inner Circle Esports (BO3) - BC Game Masters Championship Playoffs",
+        "gameStartTime":  "2026-03-25T15:15:00.0000000Z",
+        "marketStart":  "2026-03-25",
+        "endDate":  "2026-03-25",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "cs2-hs2-inf6-2026-03-29",
+        "title":  "Counter-Strike: HyperSpirit vs Infinite (BO1) - DraculaN Group D",
+        "gameStartTime":  "2026-03-29T10:30:00.0000000Z",
+        "marketStart":  "2026-03-18",
+        "endDate":  "2026-03-29",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "cs2-mana-lilmix-2026-03-27",
+        "title":  "Counter-Strike: MANA eSports vs Lilmix (BO3) - CCT Europe Closed Qualifier: Series #20 Group C",
+        "gameStartTime":  "2026-03-27T15:15:00.0000000Z",
+        "marketStart":  "2026-03-27",
+        "endDate":  "2026-03-27",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "cs2-mglz-ts7-2026-03-23",
+        "title":  "Counter-Strike: TheMongolz vs Spirit (BO3) - BLAST Open Rotterdam Group B",
+        "gameStartTime":  "2026-03-23T20:45:00.0000000Z",
+        "marketStart":  "2026-03-22",
+        "endDate":  "2026-03-24",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "cs2-mglz-ts7-2026-03-23-game2",
+        "title":  "Counter-Strike: TheMongolz vs Spirit - Map 2 Winner",
+        "gameStartTime":  "2026-03-23T20:45:00.0000000Z",
+        "marketStart":  "2026-03-22",
+        "endDate":  "2026-03-24",
+        "sportsMarketType":  "child_moneyline"
+    },
+    {
+        "slug":  "cs2-mglz-ts7-2026-03-23-map-handicap-home-1pt5",
+        "title":  "Map Handicap: TS (-1.5) vs TheMongolz (+1.5)",
+        "gameStartTime":  "2026-03-23T20:45:00.0000000Z",
+        "marketStart":  "2026-03-22",
+        "endDate":  "2026-03-24",
+        "sportsMarketType":  "map_handicap"
+    },
+    {
+        "slug":  "cs2-navi-prv-2026-03-28",
+        "title":  "Counter-Strike: Natus Vincere vs PARIVISION (BO3) - BLAST Open Rotterdam Playoffs",
+        "gameStartTime":  "2026-03-28T16:50:00.0000000Z",
+        "marketStart":  "2026-03-27",
+        "endDate":  "2026-03-28",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "cs2-navi-prv-2026-03-28-game1",
+        "title":  "Counter-Strike: Natus Vincere vs PARIVISION - Map 1 Winner",
+        "gameStartTime":  "2026-03-28T16:50:00.0000000Z",
+        "marketStart":  "2026-03-27",
+        "endDate":  "2026-03-28",
+        "sportsMarketType":  "child_moneyline"
+    },
+    {
+        "slug":  "cs2-nemi1-mana-2026-03-22",
+        "title":  "Counter-Strike: Nemiga vs MANA eSports (BO3) - ESL Challenger League Europe Cup #2 Playoffs",
+        "gameStartTime":  "2026-03-22T18:00:00.0000000Z",
+        "marketStart":  "2026-03-22",
+        "endDate":  "2026-03-23",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "cs2-nrg-furia-2026-03-22",
+        "title":  "Counter-Strike: NRG vs FURIA (BO3) - BLAST Open Rotterdam Group A",
+        "gameStartTime":  "2026-03-22T14:30:00.0000000Z",
+        "marketStart":  "2026-03-20",
+        "endDate":  "2026-03-22",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "cs2-odk-mars-2026-03-26",
+        "title":  "Counter-Strike: ODDIK vs Marsborne (BO3) - FERJEE In House Group B",
+        "gameStartTime":  "2026-03-26T21:00:00.0000000Z",
+        "marketStart":  "2026-03-23",
+        "endDate":  "2026-03-27",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "cs2-pain-bhe-2026-03-27-game2",
+        "title":  "Counter-Strike: paiN vs Bounty Hunters Esports - Map 2 Winner",
+        "gameStartTime":  "2026-03-27T20:00:00.0000000Z",
+        "marketStart":  "2026-03-23",
+        "endDate":  "2026-03-28",
+        "sportsMarketType":  "child_moneyline"
+    },
+    {
+        "slug":  "cs2-prv-ts7-2026-03-21",
+        "title":  "Counter-Strike: PARIVISION vs Spirit (BO3) - BLAST Open Rotterdam Group B",
+        "gameStartTime":  "2026-03-21T18:40:00.0000000Z",
+        "marketStart":  "2026-03-19",
+        "endDate":  "2026-03-22",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "cs2-prv-vit-2026-03-23",
+        "title":  "Counter-Strike: PARIVISION vs Vitality (BO3) - BLAST Open Rotterdam Group B",
+        "gameStartTime":  "2026-03-23T17:45:00.0000000Z",
+        "marketStart":  "2026-03-22",
+        "endDate":  "2026-03-23",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "cs2-prv-vit-2026-03-23-game1",
+        "title":  "Counter-Strike: PARIVISION vs Vitality - Map 1 Winner",
+        "gameStartTime":  "2026-03-23T17:45:00.0000000Z",
+        "marketStart":  "2026-03-22",
+        "endDate":  "2026-03-23",
+        "sportsMarketType":  "child_moneyline"
+    },
+    {
+        "slug":  "cs2-prv-vit-2026-03-23-map-handicap-home-1pt5",
+        "title":  "Map Handicap: VIT (-1.5) vs PARIVISION (+1.5)",
+        "gameStartTime":  "2026-03-23T17:45:00.0000000Z",
+        "marketStart":  "2026-03-22",
+        "endDate":  "2026-03-23",
+        "sportsMarketType":  "map_handicap"
+    },
+    {
+        "slug":  "cs2-red9-bhe-2026-03-28-map-handicap-away-1pt5",
+        "title":  "Map Handicap: RED (-1.5) vs Bounty Hunters Esports (+1.5)",
+        "gameStartTime":  "2026-03-28T19:30:00.0000000Z",
+        "marketStart":  "2026-03-28",
+        "endDate":  "2026-03-29",
+        "sportsMarketType":  "map_handicap"
+    },
+    {
+        "slug":  "cs2-regain-o49-2026-03-22-map-handicap-home-1pt5",
+        "title":  "Map Handicap: O49 (-1.5) vs regain (+1.5)",
+        "gameStartTime":  "2026-03-23T02:00:00.0000000Z",
+        "marketStart":  "2026-03-22",
+        "endDate":  "2026-03-23",
+        "sportsMarketType":  "map_handicap"
+    },
+    {
+        "slug":  "cs2-sin2-big5-2026-03-26",
+        "title":  "Counter-Strike: Sinners vs BIG (BO3) - BC Game Masters Championship Playoffs",
+        "gameStartTime":  "2026-03-26T18:15:00.0000000Z",
+        "marketStart":  "2026-03-26",
+        "endDate":  "2026-03-27",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "cs2-sng2-msq-2026-03-22",
+        "title":  "Counter-Strike: Sangal vs Mousquetaires (BO3) - ESL Challenger League Europe Cup #2 Playoffs",
+        "gameStartTime":  "2026-03-22T18:00:00.0000000Z",
+        "marketStart":  "2026-03-22",
+        "endDate":  "2026-03-23",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "cs2-sng2-msq-2026-03-22-map-handicap-away-1pt5",
+        "title":  "Map Handicap: SNG (-1.5) vs Mousquetaires (+1.5)",
+        "gameStartTime":  "2026-03-22T18:00:00.0000000Z",
+        "marketStart":  "2026-03-22",
+        "endDate":  "2026-03-23",
+        "sportsMarketType":  "map_handicap"
+    },
+    {
+        "slug":  "cs2-spo-cce-2026-03-25-game1",
+        "title":  "Counter-Strike: SportsBetExpert vs Chicken Coop Esports - Map 1 Winner",
+        "gameStartTime":  "2026-03-26T02:20:00.0000000Z",
+        "marketStart":  "2026-03-24",
+        "endDate":  "2026-03-26",
+        "sportsMarketType":  "child_moneyline"
+    },
+    {
+        "slug":  "cs2-spo-cce-2026-03-27-game2",
+        "title":  "Counter-Strike: SportsBetExpert vs Chicken Coop Esports - Map 2 Winner",
+        "gameStartTime":  "2026-03-28T02:00:00.0000000Z",
+        "marketStart":  "2026-03-27",
+        "endDate":  "2026-03-28",
+        "sportsMarketType":  "child_moneyline"
+    },
+    {
+        "slug":  "cs2-tl1-mglz-2026-03-22-map-handicap-home-1pt5",
+        "title":  "Map Handicap: MGLZ (-1.5) vs Liquid (+1.5)",
+        "gameStartTime":  "2026-03-22T17:45:00.0000000Z",
+        "marketStart":  "2026-03-22",
+        "endDate":  "2026-03-22",
+        "sportsMarketType":  "map_handicap"
+    },
+    {
+        "slug":  "cs2-tyloo-fal2-2026-03-22-game1",
+        "title":  "Counter-Strike: TYLOO vs Team Falcons - Map 1 Winner",
+        "gameStartTime":  "2026-03-22T11:00:00.0000000Z",
+        "marketStart":  "2026-03-21",
+        "endDate":  "2026-03-22",
+        "sportsMarketType":  "child_moneyline"
+    },
+    {
+        "slug":  "cs2-uno-keyd-2026-03-20",
+        "title":  "Counter-Strike: UNO MILLE vs Keyd (BO3) - ESL Challenger League South America Cup #2 Playoffs",
+        "gameStartTime":  "2026-03-20T22:00:00.0000000Z",
+        "marketStart":  "2026-03-15",
+        "endDate":  "2026-03-21",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "cs2-uno-pcy-2026-03-22",
+        "title":  "Counter-Strike: UNO MILLE vs Procyon Gaming (BO3) - ESL Challenger League South America Cup #2 Playoffs",
+        "gameStartTime":  "2026-03-22T22:00:00.0000000Z",
+        "marketStart":  "2026-03-22",
+        "endDate":  "2026-03-23",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "cs2-vit-aur1-2026-03-28-game1",
+        "title":  "Counter-Strike: Vitality vs Aurora Gaming - Map 1 Winner",
+        "gameStartTime":  "2026-03-28T14:10:00.0000000Z",
+        "marketStart":  "2026-03-27",
+        "endDate":  "2026-03-28",
+        "sportsMarketType":  "child_moneyline"
+    },
+    {
+        "slug":  "cs2-vit-aur1-2026-03-28-game2",
+        "title":  "Counter-Strike: Vitality vs Aurora Gaming - Map 2 Winner",
+        "gameStartTime":  "2026-03-28T14:10:00.0000000Z",
+        "marketStart":  "2026-03-27",
+        "endDate":  "2026-03-28",
+        "sportsMarketType":  "child_moneyline"
+    },
+    {
+        "slug":  "cs2-vit-navi-2026-03-29",
+        "title":  "Counter-Strike: Vitality vs Natus Vincere (BO5) - BLAST Open Rotterdam Playoffs",
+        "gameStartTime":  "2026-03-29T10:30:00.0000000Z",
+        "marketStart":  "2026-03-28",
+        "endDate":  "2026-03-29",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "cs2-vit-navi-2026-03-29-game2",
+        "title":  "Counter-Strike: Vitality vs Natus Vincere - Map 2 Winner",
+        "gameStartTime":  "2026-03-29T10:30:00.0000000Z",
+        "marketStart":  "2026-03-28",
+        "endDate":  "2026-03-29",
+        "sportsMarketType":  "child_moneyline"
+    },
+    {
+        "slug":  "cs2-vit-navi-2026-03-29-map-handicap-away-1pt5",
+        "title":  "Map Handicap: VIT (-1.5) vs Natus Vincere (+1.5)",
+        "gameStartTime":  "2026-03-29T10:30:00.0000000Z",
+        "marketStart":  "2026-03-28",
+        "endDate":  "2026-03-29",
+        "sportsMarketType":  "map_handicap"
+    },
+    {
+        "slug":  "cs2-zerote-bbp-2026-03-28",
+        "title":  "Counter-Strike: ex-Zero Tenacity vs Bebop (BO3) - CCT Europe Closed Qualifier: Series #20 Play-In",
+        "gameStartTime":  "2026-03-28T12:00:00.0000000Z",
+        "marketStart":  "2026-03-27",
+        "endDate":  "2026-03-28",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "dota2-aur1-pari-2026-03-28",
+        "title":  "Dota 2: Aurora vs PARIVISION (BO3) - ESL One Birmingham Playoffs",
+        "gameStartTime":  "2026-03-28T12:00:00.0000000Z",
+        "marketStart":  "2026-03-27",
+        "endDate":  "2026-03-28",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "dota2-aur1-pari-2026-03-28-total-games-2pt5",
+        "title":  "Games Total: O/U 2.5",
+        "gameStartTime":  "2026-03-28T12:00:00.0000000Z",
+        "marketStart":  "2026-03-27",
+        "endDate":  "2026-03-28",
+        "sportsMarketType":  "totals"
+    },
+    {
+        "slug":  "dota2-flc-pari-2026-03-27",
+        "title":  "Dota 2: Team Falcons vs PARIVISION (BO3) - ESL One Birmingham Playoffs",
+        "gameStartTime":  "2026-03-27T16:05:00.0000000Z",
+        "marketStart":  "2026-03-25",
+        "endDate":  "2026-03-27",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "dota2-flc-pari-2026-03-27-game1",
+        "title":  "Dota 2: Team Falcons vs PARIVISION - Game 1 Winner",
+        "gameStartTime":  "2026-03-27T16:05:00.0000000Z",
+        "marketStart":  "2026-03-25",
+        "endDate":  "2026-03-27",
+        "sportsMarketType":  "child_moneyline"
+    },
+    {
+        "slug":  "dota2-gl-pari-2026-03-25",
+        "title":  "Dota 2: GamerLegion vs PARIVISION (BO1) - ESL One Birmingham Group A",
+        "gameStartTime":  "2026-03-25T18:05:00.0000000Z",
+        "marketStart":  "2026-03-25",
+        "endDate":  "2026-03-26",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "dota2-mouz-xtreme-2026-03-27-game1",
+        "title":  "Dota 2: MOUZ vs Xtreme Gaming - Game 1 Winner",
+        "gameStartTime":  "2026-03-27T12:00:00.0000000Z",
+        "marketStart":  "2026-03-25",
+        "endDate":  "2026-03-27",
+        "sportsMarketType":  "child_moneyline"
+    },
+    {
+        "slug":  "dota2-mouz-xtreme-2026-03-27-game2",
+        "title":  "Dota 2: MOUZ vs Xtreme Gaming - Game 2 Winner",
+        "gameStartTime":  "2026-03-27T12:00:00.0000000Z",
+        "marketStart":  "2026-03-25",
+        "endDate":  "2026-03-27",
+        "sportsMarketType":  "child_moneyline"
+    },
+    {
+        "slug":  "dota2-nemiga-lynx-2026-03-23",
+        "title":  "Dota 2: Nemiga Gaming vs Team Lynx (BO3) - European Pro League Playoffs",
+        "gameStartTime":  "2026-03-23T19:00:00.0000000Z",
+        "marketStart":  "2026-03-23",
+        "endDate":  "2026-03-24",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "dota2-ts8-xtreme-2026-03-27",
+        "title":  "Dota 2: Team Spirit vs Xtreme Gaming (BO3) - ESL One Birmingham Playoffs",
+        "gameStartTime":  "2026-03-27T19:10:00.0000000Z",
+        "marketStart":  "2026-03-27",
+        "endDate":  "2026-03-28",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "dota2-ts8-xtreme-2026-03-27-game1",
+        "title":  "Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner",
+        "gameStartTime":  "2026-03-27T19:10:00.0000000Z",
+        "marketStart":  "2026-03-27",
+        "endDate":  "2026-03-28",
+        "sportsMarketType":  "child_moneyline"
+    },
+    {
+        "slug":  "dota2-ty-ts8-2026-03-26",
+        "title":  "Dota 2: Team Yandex vs Team Spirit (BO3) - ESL One Birmingham Playoffs",
+        "gameStartTime":  "2026-03-26T12:00:00.0000000Z",
+        "marketStart":  "2026-03-25",
+        "endDate":  "2026-03-26",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "dota2-ty-ts8-2026-03-26-game1",
+        "title":  "Dota 2: Team Yandex vs Team Spirit - Game 1 Winner",
+        "gameStartTime":  "2026-03-26T12:00:00.0000000Z",
+        "marketStart":  "2026-03-25",
+        "endDate":  "2026-03-26",
+        "sportsMarketType":  "child_moneyline"
+    },
+    {
+        "slug":  "dota2-ty-xtreme-2026-03-29",
+        "title":  "Dota 2: Team Yandex vs Xtreme Gaming (BO3) - ESL One Birmingham Playoffs",
+        "gameStartTime":  "2026-03-29T12:00:00.0000000Z",
+        "marketStart":  "2026-03-28",
+        "endDate":  "2026-03-29",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "dota2-vpp-nemiga-2026-03-26",
+        "title":  "Dota 2: VP.Prodigy vs Nemiga Gaming (BO3) - European Pro League Playoffs",
+        "gameStartTime":  "2026-03-26T17:00:00.0000000Z",
+        "marketStart":  "2026-03-26",
+        "endDate":  "2026-03-26",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "dota2-xtreme-og-2026-03-25-game1",
+        "title":  "Dota 2: Xtreme Gaming vs OG - Game 1 Winner",
+        "gameStartTime":  "2026-03-25T15:00:00.0000000Z",
+        "marketStart":  "2026-03-24",
+        "endDate":  "2026-03-25",
+        "sportsMarketType":  "child_moneyline"
+    },
+    {
+        "slug":  "dota2-xtreme-pari-2026-03-28",
+        "title":  "Dota 2: Xtreme Gaming vs PARIVISION (BO3) - ESL One Birmingham Playoffs",
+        "gameStartTime":  "2026-03-28T19:00:00.0000000Z",
+        "marketStart":  "2026-03-28",
+        "endDate":  "2026-03-29",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "dota2-xtreme-pari-2026-03-28-game2",
+        "title":  "Dota 2: Xtreme Gaming vs PARIVISION - Game 2 Winner",
+        "gameStartTime":  "2026-03-28T19:00:00.0000000Z",
+        "marketStart":  "2026-03-28",
+        "endDate":  "2026-03-28",
+        "sportsMarketType":  "child_moneyline"
+    },
+    {
+        "slug":  "dota2-yg-ivo-2026-03-26",
+        "title":  "Dota 2: Yangon Galacticos vs Ivory (BO3) - EPL World Series Southeast Asia Playoffs",
+        "gameStartTime":  "2026-03-26T04:20:00.0000000Z",
+        "marketStart":  "2026-03-25",
+        "endDate":  "2026-03-26",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "euroleague-barcelon-zvezda-2026-03-27",
+        "title":  "Barcelona vs. KK Crvena Zvezda",
+        "gameStartTime":  "2026-03-27T19:30:00.0000000Z",
+        "marketStart":  "2026-03-21",
+        "endDate":  "2026-03-27",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "lol-big1-kcb-2026-03-23",
+        "title":  "LoL: Berlin International Gaming vs Karmine Corp Blue (BO3) - EMEA Masters Playoffs",
+        "gameStartTime":  "2026-03-23T18:00:00.0000000Z",
+        "marketStart":  "2026-03-16",
+        "endDate":  "2026-03-24",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "lol-big1-kcb-2026-03-23-game2",
+        "title":  "LoL: Berlin International Gaming vs Karmine Corp Blue - Game 2 Winner",
+        "gameStartTime":  "2026-03-23T18:00:00.0000000Z",
+        "marketStart":  "2026-03-16",
+        "endDate":  "2026-03-24",
+        "sportsMarketType":  "child_moneyline"
+    },
+    {
+        "slug":  "lol-dog-blue-2026-03-26-game1",
+        "title":  "LoL: Dorado Gaming vs Blue Otter - Game 1 Winner",
+        "gameStartTime":  "2026-03-26T22:35:00.0000000Z",
+        "marketStart":  "2026-03-26",
+        "endDate":  "2026-03-27",
+        "sportsMarketType":  "child_moneyline"
+    },
+    {
+        "slug":  "lol-ff1-g2nord-2026-03-23-game1",
+        "title":  "LoL: French Flair vs G2 NORD - Game 1 Winner",
+        "gameStartTime":  "2026-03-23T16:00:00.0000000Z",
+        "marketStart":  "2026-03-16",
+        "endDate":  "2026-03-23",
+        "sportsMarketType":  "child_moneyline"
+    },
+    {
+        "slug":  "lol-ff1-g2nord-2026-03-23-game2",
+        "title":  "LoL: French Flair vs G2 NORD - Game 2 Winner",
+        "gameStartTime":  "2026-03-23T16:00:00.0000000Z",
+        "marketStart":  "2026-03-16",
+        "endDate":  "2026-03-23",
+        "sportsMarketType":  "child_moneyline"
+    },
+    {
+        "slug":  "lol-ff1-gal-2026-03-25-game1",
+        "title":  "LoL: French Flair vs Galions - Game 1 Winner",
+        "gameStartTime":  "2026-03-25T16:00:00.0000000Z",
+        "marketStart":  "2026-03-24",
+        "endDate":  "2026-03-25",
+        "sportsMarketType":  "child_moneyline"
+    },
+    {
+        "slug":  "lol-g2-blg-2026-03-22",
+        "title":  "LoL: G2 Esports vs Bilibili Gaming (BO5) - First Stand Playoffs",
+        "gameStartTime":  "2026-03-22T13:10:00.0000000Z",
+        "marketStart":  "2026-03-21",
+        "endDate":  "2026-03-22",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "lol-g2-blg-2026-03-22-game-handicap-home-1pt5",
+        "title":  "Game Handicap: BLG (-1.5) vs G2 Esports (+1.5)",
+        "gameStartTime":  "2026-03-22T13:10:00.0000000Z",
+        "marketStart":  "2026-03-21",
+        "endDate":  "2026-03-22",
+        "sportsMarketType":  "map_handicap"
+    },
+    {
+        "slug":  "lol-g2-blg-2026-03-22-game-handicap-home-2pt5",
+        "title":  "Game Handicap: BLG (-2.5) vs G2 Esports (+2.5)",
+        "gameStartTime":  "2026-03-22T13:10:00.0000000Z",
+        "marketStart":  "2026-03-21",
+        "endDate":  "2026-03-22",
+        "sportsMarketType":  "map_handicap"
+    },
+    {
+        "slug":  "lol-g2-blg-2026-03-22-total-games-3pt5",
+        "title":  "Games Total: O/U 3.5",
+        "gameStartTime":  "2026-03-22T13:10:00.0000000Z",
+        "marketStart":  "2026-03-21",
+        "endDate":  "2026-03-22",
+        "sportsMarketType":  "totals"
+    },
+    {
+        "slug":  "lol-hrts-use1-2026-03-23",
+        "title":  "LoL: Team Heretics Academy vs Unicorns Of Love Sexy Edition (BO3) - EMEA Masters Playoffs",
+        "gameStartTime":  "2026-03-23T16:00:00.0000000Z",
+        "marketStart":  "2026-03-16",
+        "endDate":  "2026-03-23",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "lol-kcb-koia-2026-03-25-game2",
+        "title":  "LoL: Karmine Corp Blue vs â Movistar KOI FÃ©nix - Game 2 Winner",
+        "gameStartTime":  "2026-03-25T17:55:00.0000000Z",
+        "marketStart":  "2026-03-24",
+        "endDate":  "2026-03-25",
+        "sportsMarketType":  "child_moneyline"
+    },
+    {
+        "slug":  "lol-kcb-me1-2026-03-31",
+        "title":  "LoL: Karmine Corp Blue vs Misa Esports (BO3) - EMEA Masters Playoffs",
+        "gameStartTime":  "2026-03-31T15:00:00.0000000Z",
+        "marketStart":  "2026-03-26",
+        "endDate":  "2026-03-31",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "lol-kc-vit-2026-03-28",
+        "title":  "LoL: Karmine Corp vs Team Vitality (BO3) - LEC Group Stage",
+        "gameStartTime":  "2026-03-28T15:45:00.0000000Z",
+        "marketStart":  "2026-03-20",
+        "endDate":  "2026-03-28",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "lol-kc-vit-2026-03-28-game1",
+        "title":  "LoL: Karmine Corp vs Team Vitality - Game 1 Winner",
+        "gameStartTime":  "2026-03-28T15:45:00.0000000Z",
+        "marketStart":  "2026-03-20",
+        "endDate":  "2026-03-28",
+        "sportsMarketType":  "child_moneyline"
+    },
+    {
+        "slug":  "lol-koia-gal-2026-03-24-game1",
+        "title":  "LoL: â Movistar KOI FÃ©nix vs Galions - Game 1 Winner",
+        "gameStartTime":  "2026-03-24T17:55:00.0000000Z",
+        "marketStart":  "2026-03-24",
+        "endDate":  "2026-03-24",
+        "sportsMarketType":  "child_moneyline"
+    },
+    {
+        "slug":  "lol-koia-gal-2026-03-24-game2",
+        "title":  "LoL: â Movistar KOI FÃ©nix vs Galions - Game 2 Winner",
+        "gameStartTime":  "2026-03-24T17:55:00.0000000Z",
+        "marketStart":  "2026-03-24",
+        "endDate":  "2026-03-24",
+        "sportsMarketType":  "child_moneyline"
+    },
+    {
+        "slug":  "lol-mvu-cnv-2026-03-26",
+        "title":  "LoL: Maryville University vs Conviction (BO3) - North American Challengers League Group Stage",
+        "gameStartTime":  "2026-03-27T01:30:00.0000000Z",
+        "marketStart":  "2026-03-26",
+        "endDate":  "2026-03-27",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "lol-mvu-cnv-2026-03-26-game1",
+        "title":  "LoL: Maryville University vs Conviction - Game 1 Winner",
+        "gameStartTime":  "2026-03-27T01:30:00.0000000Z",
+        "marketStart":  "2026-03-26",
+        "endDate":  "2026-03-27",
+        "sportsMarketType":  "child_moneyline"
+    },
+    {
+        "slug":  "lol-mvu-cnv-2026-03-26-game2",
+        "title":  "LoL: Maryville University vs Conviction - Game 2 Winner",
+        "gameStartTime":  "2026-03-27T01:30:00.0000000Z",
+        "marketStart":  "2026-03-26",
+        "endDate":  "2026-03-27",
+        "sportsMarketType":  "child_moneyline"
+    },
+    {
+        "slug":  "lol-sn-ctg-2026-03-27",
+        "title":  "LoL: Supernova vs Citadel Gaming (BO3) - North American Challengers League Group Stage",
+        "gameStartTime":  "2026-03-27T22:00:00.0000000Z",
+        "marketStart":  "2026-03-26",
+        "endDate":  "2026-03-28",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "lol-use1-sly-2026-03-25-game2",
+        "title":  "LoL: Unicorns Of Love Sexy Edition vs Solary - Game 2 Winner",
+        "gameStartTime":  "2026-03-25T17:30:00.0000000Z",
+        "marketStart":  "2026-03-24",
+        "endDate":  "2026-03-25",
+        "sportsMarketType":  "child_moneyline"
+    },
+    {
+        "slug":  "lol-wu-ccg-2026-03-26",
+        "title":  "LoL: Winthrop University vs CCG Esports (BO3) - North American Challengers League Group Stage",
+        "gameStartTime":  "2026-03-26T20:00:00.0000000Z",
+        "marketStart":  "2026-03-26",
+        "endDate":  "2026-03-27",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "lol-wu-ccg-2026-03-26-game1",
+        "title":  "LoL: Winthrop University vs CCG Esports - Game 1 Winner",
+        "gameStartTime":  "2026-03-26T20:00:00.0000000Z",
+        "marketStart":  "2026-03-26",
+        "endDate":  "2026-03-27",
+        "sportsMarketType":  "child_moneyline"
+    },
+    {
+        "slug":  "mlbb-twph-oe-2026-03-27",
+        "title":  "Mobile Legends Bang Bang: Twisted Minds PH vs Omega Esports (BO3) - MPL Philippines Regular Season",
+        "gameStartTime":  "2026-03-27T09:00:00.0000000Z",
+        "marketStart":  "2026-03-22",
+        "endDate":  "2026-03-27",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "nba-atl-bos-2026-03-27",
+        "title":  "Hawks vs. Celtics",
+        "gameStartTime":  "2026-03-27T23:30:00.0000000Z",
+        "marketStart":  "2026-03-21",
+        "endDate":  "2026-03-27",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "nba-atl-det-2026-03-25",
+        "title":  "Hawks vs. Pistons",
+        "gameStartTime":  "2026-03-25T23:00:00.0000000Z",
+        "marketStart":  "2026-03-19",
+        "endDate":  "2026-03-25",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "nba-atl-det-2026-03-25-total-229pt5",
+        "title":  "Hawks vs. Pistons: O/U 229.5",
+        "gameStartTime":  "2026-03-25T23:00:00.0000000Z",
+        "marketStart":  "2026-03-25",
+        "endDate":  "2026-03-25",
+        "sportsMarketType":  "totals"
+    },
+    {
+        "slug":  "nba-bkn-gsw-2026-03-25-total-217pt5",
+        "title":  "Nets vs. Warriors: O/U 217.5",
+        "gameStartTime":  "2026-03-26T02:00:00.0000000Z",
+        "marketStart":  "2026-03-25",
+        "endDate":  "2026-03-26",
+        "sportsMarketType":  "totals"
+    },
+    {
+        "slug":  "nba-bkn-lal-2026-03-27-1h-total-113pt5",
+        "title":  "Nets vs. Lakers: 1H O/U 113.5",
+        "gameStartTime":  "2026-03-28T02:30:00.0000000Z",
+        "marketStart":  "2026-03-27",
+        "endDate":  "2026-03-28",
+        "sportsMarketType":  "first_half_totals"
+    },
+    {
+        "slug":  "nba-bkn-lal-2026-03-27-total-222pt5",
+        "title":  "Nets vs. Lakers: O/U 222.5",
+        "gameStartTime":  "2026-03-28T02:30:00.0000000Z",
+        "marketStart":  "2026-03-27",
+        "endDate":  "2026-03-28",
+        "sportsMarketType":  "totals"
+    },
+    {
+        "slug":  "nba-dal-por-2026-03-27",
+        "title":  "Mavericks vs. Trail Blazers",
+        "gameStartTime":  "2026-03-28T02:00:00.0000000Z",
+        "marketStart":  "2026-03-21",
+        "endDate":  "2026-03-28",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "nba-den-phx-2026-03-24",
+        "title":  "Nuggets vs. Suns",
+        "gameStartTime":  "2026-03-25T03:00:00.0000000Z",
+        "marketStart":  "2026-03-18",
+        "endDate":  "2026-03-25",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "nba-den-phx-2026-03-24-spread-away-4pt5",
+        "title":  "Spread: Nuggets (-4.5)",
+        "gameStartTime":  "2026-03-25T03:00:00.0000000Z",
+        "marketStart":  "2026-03-24",
+        "endDate":  "2026-03-25",
+        "sportsMarketType":  "spreads"
+    },
+    {
+        "slug":  "nba-det-min-2026-03-28",
+        "title":  "Pistons vs. Timberwolves",
+        "gameStartTime":  "2026-03-28T21:30:00.0000000Z",
+        "marketStart":  "2026-03-22",
+        "endDate":  "2026-03-28",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "nba-det-min-2026-03-28-spread-home-1pt5",
+        "title":  "Spread: Timberwolves (-1.5)",
+        "gameStartTime":  "2026-03-28T21:30:00.0000000Z",
+        "marketStart":  "2026-03-27",
+        "endDate":  "2026-03-28",
+        "sportsMarketType":  "spreads"
+    },
+    {
+        "slug":  "nba-gsw-atl-2026-03-21-total-228pt5",
+        "title":  "Warriors vs. Hawks: O/U 228.5",
+        "gameStartTime":  "2026-03-22T00:00:00.0000000Z",
+        "marketStart":  "2026-03-21",
+        "endDate":  "2026-03-22",
+        "sportsMarketType":  "totals"
+    },
+    {
+        "slug":  "nba-gsw-dal-2026-03-23-1h-total-112pt5",
+        "title":  "Warriors vs. Mavericks: 1H O/U 112.5",
+        "gameStartTime":  "2026-03-24T01:30:00.0000000Z",
+        "marketStart":  "2026-03-23",
+        "endDate":  "2026-03-24",
+        "sportsMarketType":  "first_half_totals"
+    },
+    {
+        "slug":  "nba-hou-min-2026-03-25",
+        "title":  "Rockets vs. Timberwolves",
+        "gameStartTime":  "2026-03-26T01:30:00.0000000Z",
+        "marketStart":  "2026-03-19",
+        "endDate":  "2026-03-26",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "nba-lal-det-2026-03-23",
+        "title":  "Lakers vs. Pistons",
+        "gameStartTime":  "2026-03-23T23:00:00.0000000Z",
+        "marketStart":  "2026-03-17",
+        "endDate":  "2026-03-23",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "nba-lal-ind-2026-03-25-total-240pt5",
+        "title":  "Lakers vs. Pacers: O/U 240.5",
+        "gameStartTime":  "2026-03-25T23:00:00.0000000Z",
+        "marketStart":  "2026-03-25",
+        "endDate":  "2026-03-25",
+        "sportsMarketType":  "totals"
+    },
+    {
+        "slug":  "nba-mia-cle-2026-03-25-spread-home-3pt5",
+        "title":  "Spread: Cavaliers (-3.5)",
+        "gameStartTime":  "2026-03-25T23:30:00.0000000Z",
+        "marketStart":  "2026-03-24",
+        "endDate":  "2026-03-25",
+        "sportsMarketType":  "spreads"
+    },
+    {
+        "slug":  "nba-mia-cle-2026-03-25-total-243pt5",
+        "title":  "Heat vs. Cavaliers: O/U 243.5",
+        "gameStartTime":  "2026-03-25T23:30:00.0000000Z",
+        "marketStart":  "2026-03-25",
+        "endDate":  "2026-03-25",
+        "sportsMarketType":  "totals"
+    },
+    {
+        "slug":  "nba-mia-hou-2026-03-21-total-227pt5",
+        "title":  "Heat vs. Rockets: O/U 227.5",
+        "gameStartTime":  "2026-03-22T00:00:00.0000000Z",
+        "marketStart":  "2026-03-21",
+        "endDate":  "2026-03-22",
+        "sportsMarketType":  "totals"
+    },
+    {
+        "slug":  "nba-mil-por-2026-03-25-spread-home-12pt5",
+        "title":  "Spread: Trail Blazers (-12.5)",
+        "gameStartTime":  "2026-03-26T02:00:00.0000000Z",
+        "marketStart":  "2026-03-25",
+        "endDate":  "2026-03-26",
+        "sportsMarketType":  "spreads"
+    },
+    {
+        "slug":  "nba-min-bos-2026-03-22-total-221pt5",
+        "title":  "Timberwolves vs. Celtics: O/U 221.5",
+        "gameStartTime":  "2026-03-23T00:00:00.0000000Z",
+        "marketStart":  "2026-03-22",
+        "endDate":  "2026-03-23",
+        "sportsMarketType":  "totals"
+    },
+    {
+        "slug":  "nba-nop-det-2026-03-26-assists-dejounte-murray-6pt5",
+        "title":  "Dejounte Murray: Assists O/U 6.5",
+        "gameStartTime":  "2026-03-26T23:00:00.0000000Z",
+        "marketStart":  "2026-03-26",
+        "endDate":  "2026-03-26",
+        "sportsMarketType":  "assists"
+    },
+    {
+        "slug":  "nba-nop-det-2026-03-26-assists-tobias-harris-3pt5",
+        "title":  "Tobias Harris: Assists O/U 3.5",
+        "gameStartTime":  "2026-03-26T23:00:00.0000000Z",
+        "marketStart":  "2026-03-26",
+        "endDate":  "2026-03-26",
+        "sportsMarketType":  "assists"
+    },
+    {
+        "slug":  "nba-nop-det-2026-03-26-points-tobias-harris-14pt5",
+        "title":  "Tobias Harris: Points O/U 14.5",
+        "gameStartTime":  "2026-03-26T23:00:00.0000000Z",
+        "marketStart":  "2026-03-26",
+        "endDate":  "2026-03-26",
+        "sportsMarketType":  "points"
+    },
+    {
+        "slug":  "nba-nop-det-2026-03-26-rebounds-tobias-harris-5pt5",
+        "title":  "Tobias Harris: Rebounds O/U 5.5",
+        "gameStartTime":  "2026-03-26T23:00:00.0000000Z",
+        "marketStart":  "2026-03-26",
+        "endDate":  "2026-03-26",
+        "sportsMarketType":  "rebounds"
+    },
+    {
+        "slug":  "nba-nop-det-2026-03-26-spread-home-5pt5",
+        "title":  "Spread: Pistons (-5.5)",
+        "gameStartTime":  "2026-03-26T23:00:00.0000000Z",
+        "marketStart":  "2026-03-26",
+        "endDate":  "2026-03-26",
+        "sportsMarketType":  "spreads"
+    },
+    {
+        "slug":  "nba-nyk-cha-2026-03-26",
+        "title":  "Knicks vs. Hornets",
+        "gameStartTime":  "2026-03-26T23:00:00.0000000Z",
+        "marketStart":  "2026-03-20",
+        "endDate":  "2026-03-26",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "nba-okc-bos-2026-03-25",
+        "title":  "Thunder vs. Celtics",
+        "gameStartTime":  "2026-03-25T23:30:00.0000000Z",
+        "marketStart":  "2026-03-19",
+        "endDate":  "2026-03-25",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "nba-okc-bos-2026-03-25-spread-away-3pt5",
+        "title":  "Spread: Thunder (-3.5)",
+        "gameStartTime":  "2026-03-25T23:30:00.0000000Z",
+        "marketStart":  "2026-03-24",
+        "endDate":  "2026-03-25",
+        "sportsMarketType":  "spreads"
+    },
+    {
+        "slug":  "nba-okc-bos-2026-03-25-total-218pt5",
+        "title":  "Thunder vs. Celtics: O/U 218.5",
+        "gameStartTime":  "2026-03-25T23:30:00.0000000Z",
+        "marketStart":  "2026-03-24",
+        "endDate":  "2026-03-25",
+        "sportsMarketType":  "totals"
+    },
+    {
+        "slug":  "nba-okc-phi-2026-03-23-total-224pt5",
+        "title":  "Thunder vs. 76ers: O/U 224.5",
+        "gameStartTime":  "2026-03-23T23:00:00.0000000Z",
+        "marketStart":  "2026-03-23",
+        "endDate":  "2026-03-23",
+        "sportsMarketType":  "totals"
+    },
+    {
+        "slug":  "nba-orl-cle-2026-03-24",
+        "title":  "Magic vs. Cavaliers",
+        "gameStartTime":  "2026-03-25T00:00:00.0000000Z",
+        "marketStart":  "2026-03-18",
+        "endDate":  "2026-03-25",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "nba-phi-cha-2026-03-28",
+        "title":  "76ers vs. Hornets",
+        "gameStartTime":  "2026-03-28T22:00:00.0000000Z",
+        "marketStart":  "2026-03-22",
+        "endDate":  "2026-03-28",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "nba-phi-cha-2026-03-28-spread-home-5pt5",
+        "title":  "Spread: Hornets (-5.5)",
+        "gameStartTime":  "2026-03-28T22:00:00.0000000Z",
+        "marketStart":  "2026-03-28",
+        "endDate":  "2026-03-28",
+        "sportsMarketType":  "spreads"
+    },
+    {
+        "slug":  "nba-phi-cha-2026-03-28-total-230pt5",
+        "title":  "76ers vs. Hornets: O/U 230.5",
+        "gameStartTime":  "2026-03-28T22:00:00.0000000Z",
+        "marketStart":  "2026-03-27",
+        "endDate":  "2026-03-28",
+        "sportsMarketType":  "totals"
+    },
+    {
+        "slug":  "nba-por-den-2026-03-22",
+        "title":  "Trail Blazers vs. Nuggets",
+        "gameStartTime":  "2026-03-22T21:00:00.0000000Z",
+        "marketStart":  "2026-03-16",
+        "endDate":  "2026-03-22",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "nba-sac-atl-2026-03-28",
+        "title":  "Kings vs. Hawks",
+        "gameStartTime":  "2026-03-28T23:30:00.0000000Z",
+        "marketStart":  "2026-03-22",
+        "endDate":  "2026-03-28",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "nba-sac-atl-2026-03-28-total-236pt5",
+        "title":  "Kings vs. Hawks: O/U 236.5",
+        "gameStartTime":  "2026-03-28T23:30:00.0000000Z",
+        "marketStart":  "2026-03-28",
+        "endDate":  "2026-03-28",
+        "sportsMarketType":  "totals"
+    },
+    {
+        "slug":  "nba-sas-mia-2026-03-23-spread-away-5pt5",
+        "title":  "Spread: Spurs (-5.5)",
+        "gameStartTime":  "2026-03-23T23:00:00.0000000Z",
+        "marketStart":  "2026-03-22",
+        "endDate":  "2026-03-23",
+        "sportsMarketType":  "spreads"
+    },
+    {
+        "slug":  "nba-sas-mia-2026-03-23-total-244pt5",
+        "title":  "Spurs vs. Heat: O/U 244.5",
+        "gameStartTime":  "2026-03-23T23:00:00.0000000Z",
+        "marketStart":  "2026-03-23",
+        "endDate":  "2026-03-23",
+        "sportsMarketType":  "totals"
+    },
+    {
+        "slug":  "nba-sas-mil-2026-03-28",
+        "title":  "Spurs vs. Bucks",
+        "gameStartTime":  "2026-03-28T19:00:00.0000000Z",
+        "marketStart":  "2026-03-22",
+        "endDate":  "2026-03-28",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "nba-sas-mil-2026-03-28-total-226pt5",
+        "title":  "Spurs vs. Bucks: O/U 226.5",
+        "gameStartTime":  "2026-03-28T19:00:00.0000000Z",
+        "marketStart":  "2026-03-27",
+        "endDate":  "2026-03-28",
+        "sportsMarketType":  "totals"
+    },
+    {
+        "slug":  "nba-tor-phx-2026-03-22",
+        "title":  "Raptors vs. Suns",
+        "gameStartTime":  "2026-03-23T01:00:00.0000000Z",
+        "marketStart":  "2026-03-16",
+        "endDate":  "2026-03-23",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "nba-tor-uta-2026-03-23-total-231pt5",
+        "title":  "Raptors vs. Jazz: O/U 231.5",
+        "gameStartTime":  "2026-03-24T01:00:00.0000000Z",
+        "marketStart":  "2026-03-23",
+        "endDate":  "2026-03-24",
+        "sportsMarketType":  "totals"
+    },
+    {
+        "slug":  "nba-uta-den-2026-03-27-total-248pt5",
+        "title":  "Jazz vs. Nuggets: O/U 248.5",
+        "gameStartTime":  "2026-03-28T01:00:00.0000000Z",
+        "marketStart":  "2026-03-26",
+        "endDate":  "2026-03-28",
+        "sportsMarketType":  "totals"
+    },
+    {
+        "slug":  "nba-uta-phx-2026-03-28",
+        "title":  "Jazz vs. Suns",
+        "gameStartTime":  "2026-03-29T02:00:00.0000000Z",
+        "marketStart":  "2026-03-22",
+        "endDate":  "2026-03-29",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "nba-was-gsw-2026-03-27",
+        "title":  "Wizards vs. Warriors",
+        "gameStartTime":  "2026-03-28T02:00:00.0000000Z",
+        "marketStart":  "2026-03-21",
+        "endDate":  "2026-03-28",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "nba-was-uta-2026-03-25-spread-home-4pt5",
+        "title":  "Spread: Jazz (-4.5)",
+        "gameStartTime":  "2026-03-26T01:00:00.0000000Z",
+        "marketStart":  "2026-03-25",
+        "endDate":  "2026-03-26",
+        "sportsMarketType":  "spreads"
+    },
+    {
+        "slug":  "nba-was-uta-2026-03-25-total-239pt5",
+        "title":  "Wizards vs. Jazz: O/U 239.5",
+        "gameStartTime":  "2026-03-26T01:00:00.0000000Z",
+        "marketStart":  "2026-03-25",
+        "endDate":  "2026-03-26",
+        "sportsMarketType":  "totals"
+    },
+    {
+        "slug":  "val-ele-2game-2026-03-28",
+        "title":  "Valorant: Elevate vs 2GAME Esports (BO5) - VCL Brazil: Playoffs",
+        "gameStartTime":  "2026-03-28T20:00:00.0000000Z",
+        "marketStart":  "2026-03-28",
+        "endDate":  "2026-03-29",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "val-ep1-mis-2026-03-26",
+        "title":  "Valorant: Enterprise Esports vs Misa Esports (BO3) - VCL EMEA: Playoffs",
+        "gameStartTime":  "2026-03-26T19:30:00.0000000Z",
+        "marketStart":  "2026-03-24",
+        "endDate":  "2026-03-27",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "val-gdr-ast-2026-03-29",
+        "title":  "Valorant: Gods Reign vs Asterisk (BO3) - VCL South Asia: Group Stage",
+        "gameStartTime":  "2026-03-29T09:30:00.0000000Z",
+        "marketStart":  "2026-03-28",
+        "endDate":  "2026-03-29",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "val-lev-ox-2026-03-22",
+        "title":  "Valorant: LeviatÃ¡n Academy vs OXEN (BO3) - VCL Latin America South Playoffs",
+        "gameStartTime":  "2026-03-22T21:20:00.0000000Z",
+        "marketStart":  "2026-03-21",
+        "endDate":  "2026-03-23",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "val-lyon-bbb-2026-03-28",
+        "title":  "Valorant: LYON vs Contra (BO5) - VCL Latin America North Playoffs",
+        "gameStartTime":  "2026-03-28T22:00:00.0000000Z",
+        "marketStart":  "2026-03-27",
+        "endDate":  "2026-03-29",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "val-lyon-bbb-2026-03-28-game1",
+        "title":  "Valorant: LYON vs Contra - Map 1 Winner",
+        "gameStartTime":  "2026-03-28T22:00:00.0000000Z",
+        "marketStart":  "2026-03-27",
+        "endDate":  "2026-03-29",
+        "sportsMarketType":  "child_moneyline"
+    },
+    {
+        "slug":  "val-m80-srb-2026-03-26",
+        "title":  "Valorant: M80 vs Shopify Rebellion Black (BO3) - VCL North America: Stage 2 Swiss Stage Group Stage",
+        "gameStartTime":  "2026-03-26T20:15:00.0000000Z",
+        "marketStart":  "2026-03-26",
+        "endDate":  "2026-03-27",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "val-rig-fl1-2026-03-29",
+        "title":  "Valorant: REIGNITE FOXX vs Fennel (BO3) - VCL Japan: Phase 1",
+        "gameStartTime":  "2026-03-29T07:00:00.0000000Z",
+        "marketStart":  "2026-03-28",
+        "endDate":  "2026-03-29",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "val-t1a-drx-2026-03-26",
+        "title":  "Valorant: T1 Academy vs DRX Academy (BO3) - VCL Korea: Regular Season",
+        "gameStartTime":  "2026-03-26T10:30:00.0000000Z",
+        "marketStart":  "2026-03-22",
+        "endDate":  "2026-03-26",
+        "sportsMarketType":  "moneyline"
+    },
+    {
+        "slug":  "val-tbk1-2game-2026-03-23-map-handicap-home-1pt5",
+        "title":  "Map Handicap: 2GAME (-1.5) vs TBK Esports (+1.5)",
+        "gameStartTime":  "2026-03-23T20:00:00.0000000Z",
+        "marketStart":  "2026-03-23",
+        "endDate":  "2026-03-24",
+        "sportsMarketType":  "map_handicap"
+    },
+    {
+        "slug":  "val-ucam-mdr-2026-03-26",
+        "title":  "Valorant: UCAM Esports Club vs Mandatory (BO3) - VCL EMEA: Playoffs",
+        "gameStartTime":  "2026-03-26T16:00:00.0000000Z",
+        "marketStart":  "2026-03-24",
+        "endDate":  "2026-03-26",
+        "sportsMarketType":  "moneyline"
+    }
+]

@@ -1,0 +1,626 @@
+﻿Wallet: 0x490b4fE78B2FB36f733FeF1b340759e03500eec9
+
+Current Positions
+- Count: 47
+- Total initial value: 17863.216496
+- Total current value: 9613.119412
+- Total unrealized PnL: -8250.097084
+
+Position 1
+- Market: Counter-Strike: HyperSpirit vs Infinite (BO1) - DraculaN Group D
+- Outcome: HyperSpirit
+- Size: 6899.414633
+- Avg price: 0.415754
+- Current price: 0.390000
+- Current value: 2690.771707
+- Cash PnL: -177.687524
+- Percent PnL: -6.19%
+- End date: 2026-03-28T16:00:00.0000000Z
+
+Position 2
+- Market: Spread: Hornets (-5.5)
+- Outcome: 76ers
+- Size: 2351.414136
+- Avg price: 0.444199
+- Current price: 1.000000
+- Current value: 2351.414136
+- Cash PnL: 1306.918328
+- Percent PnL: 125.12%
+- End date: 2026-03-27T16:00:00.0000000Z
+
+Position 3
+- Market: 76ers vs. Hornets
+- Outcome: 76ers
+- Size: 1260.833332
+- Avg price: 0.310111
+- Current price: 1.000000
+- Current value: 1260.833332
+- Cash PnL: 869.835047
+- Percent PnL: 222.47%
+- End date: 2026-03-27T16:00:00.0000000Z
+
+Position 4
+- Market: Spread: Timberwolves (-1.5)
+- Outcome: Pistons
+- Size: 903.508769
+- Avg price: 0.569999
+- Current price: 1.000000
+- Current value: 903.508769
+- Cash PnL: 388.509674
+- Percent PnL: 75.44%
+- End date: 2026-03-27T16:00:00.0000000Z
+
+Position 5
+- Market: Dota 2: Team Yandex vs Xtreme Gaming (BO3) - ESL One Birmingham Playoffs
+- Outcome: Xtreme Gaming
+- Size: 1967.732281
+- Avg price: 0.411385
+- Current price: 0.405000
+- Current value: 796.931574
+- Cash PnL: -12.563971
+- Percent PnL: -1.55%
+- End date: 2026-03-28T16:00:00.0000000Z
+
+Position 6
+- Market: LoL: Karmine Corp Blue vs Misa Esports (BO3) - EMEA Masters Playoffs
+- Outcome: Karmine Corp Blue
+- Size: 599.315764
+- Avg price: 0.505934
+- Current price: 0.510000
+- Current value: 305.651040
+- Cash PnL: 2.436818
+- Percent PnL: 0.80%
+- End date: 2026-03-30T16:00:00.0000000Z
+
+Position 7
+- Market: Counter-Strike: Vitality vs Natus Vincere (BO5) - BLAST Open Rotterdam Playoffs
+- Outcome: Natus Vincere
+- Size: 1621.184209
+- Avg price: 0.190908
+- Current price: 0.175000
+- Current value: 283.707237
+- Cash PnL: -25.789798
+- Percent PnL: -8.33%
+- End date: 2026-03-28T16:00:00.0000000Z
+
+Position 8
+- Market: Map Handicap: VIT (-1.5) vs Natus Vincere (+1.5)
+- Outcome: Natus Vincere
+- Size: 1250.111110
+- Avg price: 0.367967
+- Current price: 0.225000
+- Current value: 281.275000
+- Cash PnL: -178.724635
+- Percent PnL: -38.85%
+- End date: 2026-03-28T16:00:00.0000000Z
+
+Position 9
+- Market: Counter-Strike: BIG vs Sinners (BO1) - Roman Imperium Cup Group C
+- Outcome: BIG
+- Size: 332.173792
+- Avg price: 0.599083
+- Current price: 0.595000
+- Current value: 197.643406
+- Cash PnL: -1.356266
+- Percent PnL: -0.68%
+- End date: 2026-03-28T16:00:00.0000000Z
+
+Position 10
+- Market: Counter-Strike: ESC Gaming vs Acend (BO1) - Roman Imperium Cup Group D
+- Outcome: Acend
+- Size: 298.000000
+- Avg price: 0.500000
+- Current price: 0.480000
+- Current value: 143.040000
+- Cash PnL: -5.960000
+- Percent PnL: -4.00%
+- End date: 2026-03-28T16:00:00.0000000Z
+
+Position 11
+- Market: Valorant: REIGNITE FOXX vs Fennel (BO3) - VCL Japan: Phase 1
+- Outcome: REIGNITE FOXX
+- Size: 417.741934
+- Avg price: 0.309999
+- Current price: 0.285000
+- Current value: 119.056451
+- Cash PnL: -10.443131
+- Percent PnL: -8.06%
+- End date: 2026-03-28T16:00:00.0000000Z
+
+Position 12
+- Market: Counter-Strike: Vitality vs Natus Vincere - Map 2 Winner
+- Outcome: Natus Vincere
+- Size: 333.333332
+- Avg price: 0.299999
+- Current price: 0.300000
+- Current value: 100.000000
+- Cash PnL: 0.000333
+- Percent PnL: 0.00%
+- End date: 2026-03-28T16:00:00.0000000Z
+
+Position 13
+- Market: Valorant: Gods Reign vs Asterisk (BO3) - VCL South Asia: Group Stage
+- Outcome: Gods Reign
+- Size: 155.000000
+- Avg price: 0.520000
+- Current price: 0.465000
+- Current value: 72.075000
+- Cash PnL: -8.525000
+- Percent PnL: -10.58%
+- End date: 2026-03-28T16:00:00.0000000Z
+
+Position 14
+- Market: Counter-Strike: AaB Esport vs Lilmix (BO3) - European Pro League Series 6 Group B
+- Outcome: Lilmix
+- Size: 377.922075
+- Avg price: 0.219620
+- Current price: 0.190000
+- Current value: 71.805194
+- Cash PnL: -11.194052
+- Percent PnL: -13.49%
+- End date: 2026-03-28T16:00:00.0000000Z
+
+Position 15
+- Market: Counter-Strike: BIG vs Sinners (BO1) - Roman Imperium Cup Group C
+- Outcome: Sinners
+- Size: 78.799577
+- Avg price: 0.380711
+- Current price: 0.405000
+- Current value: 31.913829
+- Cash PnL: 1.913963
+- Percent PnL: 6.38%
+- End date: 2026-03-28T16:00:00.0000000Z
+
+Position 16
+- Market: Jazz vs. Suns
+- Outcome: Jazz
+- Size: 3807.500000
+- Avg price: 0.080000
+- Current price: 0.000500
+- Current value: 1.903750
+- Cash PnL: -302.696250
+- Percent PnL: -99.38%
+- End date: 2026-03-28T16:00:00.0000000Z
+
+Position 17
+- Market: Kings vs. Hawks: O/U 236.5
+- Outcome: Over
+- Size: 1674.999997
+- Avg price: 0.479999
+- Current price: 0.000500
+- Current value: 0.837500
+- Cash PnL: -803.160824
+- Percent PnL: -99.90%
+- End date: 2026-03-27T16:00:00.0000000Z
+
+Position 18
+- Market: Kings vs. Hawks
+- Outcome: Kings
+- Size: 1502.976188
+- Avg price: 0.133400
+- Current price: 0.000500
+- Current value: 0.751488
+- Cash PnL: -199.745535
+- Percent PnL: -99.63%
+- End date: 2026-03-27T16:00:00.0000000Z
+
+Position 19
+- Market: Counter-Strike: Vitality vs Aurora Gaming - Map 2 Winner
+- Outcome: Aurora Gaming
+- Size: 1422.222221
+- Avg price: 0.179999
+- Current price: 0.000000
+- Current value: 0.000000
+- Cash PnL: -255.998578
+- Percent PnL: -100.00%
+- End date: 2026-03-27T16:00:00.0000000Z
+
+Position 20
+- Market: Map Handicap: RED (-1.5) vs Bounty Hunters Esports (+1.5)
+- Outcome: Bounty Hunters Esports
+- Size: 120.000000
+- Avg price: 0.500000
+- Current price: 0.000000
+- Current value: 0.000000
+- Cash PnL: -60.000000
+- Percent PnL: -100.00%
+- End date: 2026-03-28T16:00:00.0000000Z
+
+Position 21
+- Market: 76ers vs. Hornets: O/U 230.5
+- Outcome: Under
+- Size: 793.333330
+- Avg price: 0.449999
+- Current price: 0.000000
+- Current value: 0.000000
+- Cash PnL: -356.999205
+- Percent PnL: -100.00%
+- End date: 2026-03-27T16:00:00.0000000Z
+
+Position 22
+- Market: Valorant: LYON vs Contra - Map 1 Winner
+- Outcome: Contra
+- Size: 261.764704
+- Avg price: 0.169999
+- Current price: 0.000000
+- Current value: 0.000000
+- Cash PnL: -44.499738
+- Percent PnL: -100.00%
+- End date: 2026-03-28T16:00:00.0000000Z
+
+Position 23
+- Market: Counter-Strike: Alliance vs EYEBALLERS (BO3) - Journey Playoffs
+- Outcome: EYEBALLERS
+- Size: 442.706128
+- Avg price: 0.435954
+- Current price: 0.000000
+- Current value: 0.000000
+- Cash PnL: -192.999507
+- Percent PnL: -100.00%
+- End date: 2026-03-27T16:00:00.0000000Z
+
+Position 24
+- Market: Games Total: O/U 2.5
+- Outcome: Over
+- Size: 281.250000
+- Avg price: 0.480000
+- Current price: 0.000000
+- Current value: 0.000000
+- Cash PnL: -135.000000
+- Percent PnL: -100.00%
+- End date: 2026-03-27T16:00:00.0000000Z
+
+Position 25
+- Market: Nets vs. Lakers: 1H O/U 113.5
+- Outcome: Under
+- Size: 666.666665
+- Avg price: 0.449999
+- Current price: 0.000000
+- Current value: 0.000000
+- Cash PnL: -299.999333
+- Percent PnL: -100.00%
+- End date: 2026-03-27T16:00:00.0000000Z
+
+Position 26
+- Market: Counter-Strike: Atrix Esports vs paiN Academy (BO3) - BetBoom Storm Group Stage
+- Outcome: Atrix Esports
+- Size: 384.356662
+- Avg price: 0.084035
+- Current price: 0.000000
+- Current value: 0.000000
+- Cash PnL: -32.299412
+- Percent PnL: -100.00%
+- End date: 2026-03-27T16:00:00.0000000Z
+
+Position 27
+- Market: Barcelona vs. KK Crvena Zvezda
+- Outcome: KK Crvena Zvezda
+- Size: 693.243240
+- Avg price: 0.369999
+- Current price: 0.000000
+- Current value: 0.000000
+- Cash PnL: -256.499306
+- Percent PnL: -100.00%
+- End date: 2026-03-26T16:00:00.0000000Z
+
+Position 28
+- Market: Dota 2: MOUZ vs Xtreme Gaming - Game 1 Winner
+- Outcome: Xtreme Gaming
+- Size: 854.081630
+- Avg price: 0.489999
+- Current price: 0.000000
+- Current value: 0.000000
+- Cash PnL: -418.499145
+- Percent PnL: -100.00%
+- End date: 2026-03-26T16:00:00.0000000Z
+
+Position 29
+- Market: LoL: Supernova vs Citadel Gaming (BO3) - North American Challengers League Group Stage
+- Outcome: Citadel Gaming
+- Size: 2079.768166
+- Avg price: 0.223339
+- Current price: 0.000000
+- Current value: 0.000000
+- Cash PnL: -464.493342
+- Percent PnL: -100.00%
+- End date: 2026-03-27T16:00:00.0000000Z
+
+Position 30
+- Market: Counter-Strike: ASTRAL vs HyperSpirit (BO3) - LORGAR RANKINGS Closed Qualifier Group D
+- Outcome: HyperSpirit
+- Size: 273.404252
+- Avg price: 0.469999
+- Current price: 0.000000
+- Current value: 0.000000
+- Cash PnL: -128.499725
+- Percent PnL: -100.00%
+- End date: 2026-03-26T16:00:00.0000000Z
+
+Position 31
+- Market: Counter-Strike: Betclic Apogee Esports vs Johnny Speeds (BO3) - Journey Playoffs
+- Outcome: Betclic Apogee Esports
+- Size: 321.986529
+- Avg price: 0.541947
+- Current price: 0.000000
+- Current value: 0.000000
+- Cash PnL: -174.499633
+- Percent PnL: -100.00%
+- End date: 2026-03-26T16:00:00.0000000Z
+
+Position 32
+- Market: LoL: Karmine Corp vs Team Vitality (BO3) - LEC Group Stage
+- Outcome: Team Vitality
+- Size: 676.000000
+- Avg price: 0.250000
+- Current price: 0.000000
+- Current value: 0.000000
+- Cash PnL: -169.000000
+- Percent PnL: -100.00%
+- End date: 2026-03-27T16:00:00.0000000Z
+
+Position 33
+- Market: Counter-Strike: paiN vs Bounty Hunters Esports - Map 2 Winner
+- Outcome: Bounty Hunters Esports
+- Size: 556.561735
+- Avg price: 0.213826
+- Current price: 0.000000
+- Current value: 0.000000
+- Cash PnL: -119.007370
+- Percent PnL: -100.00%
+- End date: 2026-03-27T16:00:00.0000000Z
+
+Position 34
+- Market: Counter-Strike: 1WIN vs Nemiga (BO3) - ESL Challenger League Europe Cup #2 Playoffs
+- Outcome: 1WIN
+- Size: 743.902433
+- Avg price: 0.409999
+- Current price: 0.000000
+- Current value: 0.000000
+- Cash PnL: -304.999254
+- Percent PnL: -100.00%
+- End date: 2026-03-27T16:00:00.0000000Z
+
+Position 35
+- Market: Counter-Strike: Vitality vs Aurora Gaming - Map 1 Winner
+- Outcome: Aurora Gaming
+- Size: 999.576715
+- Avg price: 0.278116
+- Current price: 0.000000
+- Current value: 0.000000
+- Cash PnL: -277.998278
+- Percent PnL: -100.00%
+- End date: 2026-03-27T16:00:00.0000000Z
+
+Position 36
+- Market: Call of Duty: Los Angeles Thieves vs FaZe Vegas - Game 2 Winner
+- Outcome: FaZe Vegas
+- Size: 616.817492
+- Avg price: 0.500957
+- Current price: 0.000000
+- Current value: 0.000000
+- Cash PnL: -308.999040
+- Percent PnL: -100.00%
+- End date: 2026-03-26T16:00:00.0000000Z
+
+Position 37
+- Market: Dota 2: Team Spirit vs Xtreme Gaming - Game 1 Winner
+- Outcome: Xtreme Gaming
+- Size: 2600.177594
+- Avg price: 0.376896
+- Current price: 0.000000
+- Current value: 0.000000
+- Cash PnL: -979.996534
+- Percent PnL: -100.00%
+- End date: 2026-03-27T16:00:00.0000000Z
+
+Position 38
+- Market: Valorant: Elevate vs 2GAME Esports (BO5) - VCL Brazil: Playoffs
+- Outcome: Elevate
+- Size: 225.000000
+- Avg price: 0.340000
+- Current price: 0.000000
+- Current value: 0.000000
+- Cash PnL: -76.500000
+- Percent PnL: -100.00%
+- End date: 2026-03-28T16:00:00.0000000Z
+
+Position 39
+- Market: Call of Duty: Toronto KOI vs Vancouver Surge - Game 1 Winner
+- Outcome: Toronto KOI
+- Size: 443.939390
+- Avg price: 0.659999
+- Current price: 0.000000
+- Current value: 0.000000
+- Cash PnL: -292.999553
+- Percent PnL: -100.00%
+- End date: 2026-03-26T16:00:00.0000000Z
+
+Position 40
+- Market: Wizards vs. Warriors
+- Outcome: Wizards
+- Size: 2021.428569
+- Avg price: 0.139999
+- Current price: 0.000000
+- Current value: 0.000000
+- Cash PnL: -282.997978
+- Percent PnL: -100.00%
+- End date: 2026-03-27T16:00:00.0000000Z
+
+Position 41
+- Market: Counter-Strike: MANA eSports vs Lilmix (BO3) - CCT Europe Closed Qualifier: Series #20 Group C
+- Outcome: Lilmix
+- Size: 373.636362
+- Avg price: 0.219464
+- Current price: 0.000000
+- Current value: 0.000000
+- Cash PnL: -81.999731
+- Percent PnL: -100.00%
+- End date: 2026-03-26T16:00:00.0000000Z
+
+Position 42
+- Market: Counter-Strike: Natus Vincere vs PARIVISION (BO3) - BLAST Open Rotterdam Playoffs
+- Outcome: PARIVISION
+- Size: 2560.465114
+- Avg price: 0.429999
+- Current price: 0.000000
+- Current value: 0.000000
+- Cash PnL: -1100.997439
+- Percent PnL: -100.00%
+- End date: 2026-03-27T16:00:00.0000000Z
+
+Position 43
+- Market: Valorant: LYON vs Contra (BO5) - VCL Latin America North Playoffs
+- Outcome: Contra
+- Size: 708.175188
+- Avg price: 0.064389
+- Current price: 0.000000
+- Current value: 0.000000
+- Cash PnL: -45.598692
+- Percent PnL: -100.00%
+- End date: 2026-03-28T16:00:00.0000000Z
+
+Position 44
+- Market: Counter-Strike: CYBERSHOKE Esports vs Fluxo W7M (BO1) - Roman Imperium Cup Group B
+- Outcome: CYBERSHOKE Esports
+- Size: 585.962379
+- Avg price: 0.481257
+- Current price: 0.000000
+- Current value: 0.000000
+- Cash PnL: -281.998497
+- Percent PnL: -100.00%
+- End date: 2026-03-28T16:00:00.0000000Z
+
+Position 45
+- Market: Hawks vs. Celtics
+- Outcome: Hawks
+- Size: 4121.344525
+- Avg price: 0.341633
+- Current price: 0.000000
+- Current value: 0.000000
+- Cash PnL: -1407.987294
+- Percent PnL: -100.00%
+- End date: 2026-03-26T16:00:00.0000000Z
+
+Position 46
+- Market: Pistons vs. Timberwolves
+- Outcome: Timberwolves
+- Size: 800.000000
+- Avg price: 0.460000
+- Current price: 0.000000
+- Current value: 0.000000
+- Cash PnL: -368.000000
+- Percent PnL: -100.00%
+- End date: 2026-03-27T16:00:00.0000000Z
+
+Position 47
+- Market: Spurs vs. Bucks
+- Outcome: Bucks
+- Size: 2321.428570
+- Avg price: 0.069999
+- Current price: 0.000000
+- Current value: 0.000000
+- Cash PnL: -162.497678
+- Percent PnL: -100.00%
+- End date: 2026-03-27T16:00:00.0000000Z
+
+Recent Trades
+- Count fetched: 100
+- BUY trades: 98
+- SELL trades: 2
+- Latest trade time: 2026-03-29T04:20:26.0000000Z
+- Latest market: Counter-Strike: AaB Esport vs Lilmix (BO3) - European Pro League Series 6 Group B
+- Latest side: BUY
+- Latest outcome: Lilmix
+- Latest price: 0.210000
+- Latest size: 14.285713
+
+Trade 1
+- Time: 2026-03-29T04:20:26.0000000Z
+- Market: Counter-Strike: AaB Esport vs Lilmix (BO3) - European Pro League Series 6 Group B
+- Side: BUY
+- Outcome: Lilmix
+- Price: 0.210000
+- Size: 14.285713
+- Transaction: 0x9a356d442bb96f81d922d684aff4f579f77f001088325899528c9c6ca1ede94c
+
+Trade 2
+- Time: 2026-03-29T04:17:58.0000000Z
+- Market: Counter-Strike: AaB Esport vs Lilmix (BO3) - European Pro League Series 6 Group B
+- Side: BUY
+- Outcome: Lilmix
+- Price: 0.220000
+- Size: 363.636362
+- Transaction: 0x5589a81307b27d50a86ee20ea5b7835dda2e87a3b1fa73f91e2cd55a70e5c4ff
+
+Trade 3
+- Time: 2026-03-29T03:09:38.0000000Z
+- Market: Dota 2: Team Yandex vs Xtreme Gaming (BO3) - ESL One Birmingham Playoffs
+- Side: BUY
+- Outcome: Xtreme Gaming
+- Price: 0.410000
+- Size: 743.902438
+- Transaction: 0x18974660e0fe20d951a5e8d6a178fd50f80a673088626ea6611618548204962b
+
+Trade 4
+- Time: 2026-03-29T02:34:20.0000000Z
+- Market: Dota 2: Team Yandex vs Xtreme Gaming (BO3) - ESL One Birmingham Playoffs
+- Side: BUY
+- Outcome: Xtreme Gaming
+- Price: 0.410000
+- Size: 492.682925
+- Transaction: 0x4e56dd3f7bae8307a777eb2b950e61fad24014a8611b472b4edaab2bb2415e5e
+
+Trade 5
+- Time: 2026-03-29T02:23:04.0000000Z
+- Market: Map Handicap: VIT (-1.5) vs Natus Vincere (+1.5)
+- Side: BUY
+- Outcome: Natus Vincere
+- Price: 0.359960
+- Size: 1000.111110
+- Transaction: 0xef3056789038bbbc326a8491a56bedfad491a865bad3b4ddc4e58aceaac80108
+
+Trade 6
+- Time: 2026-03-29T01:51:10.0000000Z
+- Market: Jazz vs. Suns
+- Side: BUY
+- Outcome: Jazz
+- Price: 0.080000
+- Size: 945.000000
+- Transaction: 0xca4776dd27c17719d328deb3125317d5df74bf031023696f3c73627d9b272c75
+
+Trade 7
+- Time: 2026-03-29T01:50:00.0000000Z
+- Market: Jazz vs. Suns
+- Side: BUY
+- Outcome: Jazz
+- Price: 0.080000
+- Size: 1912.500000
+- Transaction: 0x369e7d97844102a9f7f64f4ce8898aa7a71791c761dda630058941e25e43eb90
+
+Trade 8
+- Time: 2026-03-29T01:04:14.0000000Z
+- Market: Jazz vs. Suns
+- Side: BUY
+- Outcome: Jazz
+- Price: 0.080000
+- Size: 950.000000
+- Transaction: 0x40a1d2f50c192413b663d7f56ae5beec14ff225ae77f6cb38d5ef9555cfa0232
+
+Trade 9
+- Time: 2026-03-29T01:00:32.0000000Z
+- Market: Valorant: REIGNITE FOXX vs Fennel (BO3) - VCL Japan: Phase 1
+- Side: BUY
+- Outcome: REIGNITE FOXX
+- Price: 0.310000
+- Size: 417.741934
+- Transaction: 0x7be49789b84842a4d8ed1d740f5aeccf324d1a6449028187a681a94ca655ba01
+
+Trade 10
+- Time: 2026-03-29T00:00:52.0000000Z
+- Market: Counter-Strike: Vitality vs Natus Vincere (BO5) - BLAST Open Rotterdam Playoffs
+- Side: BUY
+- Outcome: Natus Vincere
+- Price: 0.200000
+- Size: 147.500000
+- Transaction: 0xd1ad1c0b25aa848a9da6ebdd5f399c5fce1082640704d46781b8b4aa0645a588
+

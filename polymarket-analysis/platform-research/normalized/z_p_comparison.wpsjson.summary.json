@@ -1,0 +1,125 @@
+{
+  "generated_at": "2026-03-29T13:51:02.889Z",
+  "inputs": {
+    "z": "D:\\gpt\\polymarket-analysis\\platform-research\\normalized\\z\\MyBets_20260329.wpsjson.normalized.json",
+    "p": "D:\\gpt\\polymarket-analysis\\platform-research\\normalized\\p\\wallet_a.normalized.json"
+  },
+  "z": {
+    "row_count": 24,
+    "time": {
+      "count": 24,
+      "first": "2026-03-25T09:19:32.000Z",
+      "last": "2026-03-28T20:32:04.000Z",
+      "span_hours": 83.2088888888889
+    },
+    "categories": {
+      "Football": 23,
+      "Dota2": 1
+    },
+    "side_counts": {
+      "BUY": 24
+    },
+    "price": {
+      "count": 24,
+      "min": 1.826,
+      "median": 2.185,
+      "mean": 2.2497916666666664,
+      "max": 3.38
+    },
+    "size": {
+      "count": 24,
+      "min": 8,
+      "median": 326.6,
+      "mean": 534.6708333333332,
+      "max": 1990
+    },
+    "realized_pnl": {
+      "count": 0,
+      "min": null,
+      "median": null,
+      "mean": null,
+      "max": null
+    },
+    "unrealized_pnl": {
+      "count": 0,
+      "min": null,
+      "median": null,
+      "mean": null,
+      "max": null
+    },
+    "realized_pnl_buckets": {
+      "positive": 0,
+      "flat": 0,
+      "negative": 0
+    },
+    "unrealized_pnl_buckets": {
+      "positive": 0,
+      "flat": 0,
+      "negative": 0
+    }
+  },
+  "p": {
+    "row_count": 100,
+    "time": {
+      "count": 100,
+      "first": "2026-03-28T12:58:57.000Z",
+      "last": "2026-03-29T04:20:26.000Z",
+      "span_hours": 15.358055555555556
+    },
+    "categories": {
+      "CS2": 45,
+      "Dota2": 23,
+      "Basketball": 21,
+      "Valorant": 7,
+      "Other": 3,
+      "LoL": 1
+    },
+    "side_counts": {
+      "BUY": 98,
+      "SELL": 2
+    },
+    "price": {
+      "count": 100,
+      "min": 0.05999999605714283,
+      "median": 0.41999999890922973,
+      "mean": 0.40113197009116014,
+      "max": 0.999
+    },
+    "size": {
+      "count": 100,
+      "min": 3.921567,
+      "median": 390.68914800000005,
+      "mean": 618.5928625,
+      "max": 2385.408112
+    },
+    "realized_pnl": {
+      "count": 0,
+      "min": null,
+      "median": null,
+      "mean": null,
+      "max": null
+    },
+    "unrealized_pnl": {
+      "count": 72,
+      "min": -1100.997438554886,
+      "median": -177.68752445828198,
+      "mean": -91.12852019539396,
+      "max": 1306.918328202936
+    },
+    "realized_pnl_buckets": {
+      "positive": 0,
+      "flat": 0,
+      "negative": 0
+    },
+    "unrealized_pnl_buckets": {
+      "positive": 8,
+      "flat": 0,
+      "negative": 64
+    }
+  },
+  "comparison_notes": [
+    "z currently comes from a partially recovered legacy XLS export, so slug/outcome completeness is limited.",
+    "p currently comes from Polymarket wallet cache data and is materially more structured.",
+    "This report is a first-pass descriptive comparison, not a profitability verdict."
+  ]
+}

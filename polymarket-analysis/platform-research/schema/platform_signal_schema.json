@@ -1,0 +1,73 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Platform Signal Record",
+  "type": "object",
+  "required": [
+    "platform",
+    "timestamp",
+    "title",
+    "slug",
+    "outcome",
+    "side",
+    "price",
+    "size"
+  ],
+  "properties": {
+    "platform": {
+      "type": "string",
+      "enum": ["z", "p", "r", "unknown"]
+    },
+    "timestamp": {
+      "type": "string",
+      "description": "ISO-8601 UTC timestamp"
+    },
+    "title": {
+      "type": "string"
+    },
+    "slug": {
+      "type": "string"
+    },
+    "outcome": {
+      "type": "string"
+    },
+    "side": {
+      "type": "string",
+      "enum": ["BUY", "SELL", "UNKNOWN"]
+    },
+    "price": {
+      "type": "number"
+    },
+    "size": {
+      "type": "number"
+    },
+    "category": {
+      "type": ["string", "null"]
+    },
+    "event_start_time": {
+      "type": ["string", "null"],
+      "description": "ISO-8601 UTC timestamp"
+    },
+    "transaction_hash": {
+      "type": ["string", "null"]
+    },
+    "result": {
+      "type": ["string", "null"],
+      "enum": ["win", "loss", "push", null]
+    },
+    "realized_pnl": {
+      "type": ["number", "null"]
+    },
+    "unrealized_pnl": {
+      "type": ["number", "null"]
+    },
+    "closed_at": {
+      "type": ["string", "null"]
+    },
+    "source_file": {
+      "type": ["string", "null"]
+    },
+    "notes": {
+      "type": ["string", "null"]
+    }
+  }
+}

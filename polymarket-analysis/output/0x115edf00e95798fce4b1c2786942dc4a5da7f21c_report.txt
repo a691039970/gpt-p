@@ -1,0 +1,102 @@
+﻿Wallet: 0x115edF00e95798fcE4B1c2786942Dc4A5da7f21c
+
+Current Positions
+- Count: 1
+- Total initial value: 0.999997
+- Total current value: 0.993419
+- Total unrealized PnL: -0.006578
+
+Position 1
+- Market: Sydney Kings vs. Adelaide 36ers
+- Outcome: Sydney Kings
+- Size: 1.315787
+- Avg price: 0.759999
+- Current price: 0.755000
+- Current value: 0.993419
+- Cash PnL: -0.006578
+- Percent PnL: -0.66%
+- End date: 2026-04-04T16:00:00.0000000Z
+
+Recent Trades
+- Count fetched: 8
+- BUY trades: 8
+- SELL trades: 0
+- Latest trade time: 2026-03-29T03:15:06.0000000Z
+- Latest market: Sydney Kings vs. Adelaide 36ers
+- Latest side: BUY
+- Latest outcome: Sydney Kings
+- Latest price: 0.760000
+- Latest size: 1.315787
+
+Trade 1
+- Time: 2026-03-29T03:15:06.0000000Z
+- Market: Sydney Kings vs. Adelaide 36ers
+- Side: BUY
+- Outcome: Sydney Kings
+- Price: 0.760000
+- Size: 1.315787
+- Transaction: 0x819278b21d742ea1a67eea2de5764b7ac34f4a637fac25b86a09eb40f2450150
+
+Trade 2
+- Time: 2026-03-23T01:04:45.0000000Z
+- Market: Raptors vs. Suns
+- Side: BUY
+- Outcome: Raptors
+- Price: 0.620000
+- Size: 1019.354836
+- Transaction: 0x32d818dfc7597ae7212b84e3351f1825975db3d0d0e0b177419fdbac1648d050
+
+Trade 3
+- Time: 2026-03-22T14:09:39.0000000Z
+- Market: Counter-Strike: NRG vs FURIA (BO3) - BLAST Open Rotterdam Group A
+- Side: BUY
+- Outcome: NRG
+- Price: 0.230000
+- Size: 1356.521738
+- Transaction: 0x0cddab1f9445879a17197c3e5293654908e84876c4e6512c25a13a0dce2ac2f8
+
+Trade 4
+- Time: 2026-03-22T14:07:41.0000000Z
+- Market: Counter-Strike: NRG vs FURIA (BO3) - BLAST Open Rotterdam Group A
+- Side: BUY
+- Outcome: NRG
+- Price: 0.230000
+- Size: 155.600000
+- Transaction: 0x98cb33e14a38a79e6282219ab4134163d6d896935bdb03ee8b7656bff9bde04a
+
+Trade 5
+- Time: 2026-03-21T21:30:03.0000000Z
+- Market: LoL: G2 Esports vs Bilibili Gaming (BO5) - First Stand Playoffs
+- Side: BUY
+- Outcome: Bilibili Gaming
+- Price: 0.710000
+- Size: 2815.098589
+- Transaction: 0x87b4aa9596c9f52a6d410d3c252432929038b6f70f3295104cbc3f5c7f6d14aa
+
+Trade 6
+- Time: 2026-03-21T21:14:07.0000000Z
+- Market: LoL: G2 Esports vs Bilibili Gaming (BO5) - First Stand Playoffs
+- Side: BUY
+- Outcome: Bilibili Gaming
+- Price: 0.710000
+- Size: 197.183096
+- Transaction: 0x5d239bfaafa61c0da0aa3e8f0f1f8ee84b7067ce3b6173f8efe5448f8ad572d9
+
+Trade 7
+- Time: 2026-03-21T20:32:19.0000000Z
+- Market: Counter-Strike: Isurus vs Vexa (BO3) - ESL Challenger League South America Cup #2 Playoffs
+- Side: BUY
+- Outcome: Isurus
+- Price: 0.510000
+- Size: 10.000000
+- Transaction: 0x0fe07cd7497d65798cfc4411ddb7ad5a45a2496d2a6bd38b6776142f0e36740d
+
+Trade 8
+- Time: 2026-03-21T20:23:03.0000000Z
+- Market: 1H Spread: Spurs (-11.5)
+- Side: BUY
+- Outcome: Spurs
+- Price: 0.479951
+- Size: 416.709375
+- Transaction: 0x17baa91ffa0dce79b912440f2de48e0477de565f883c64779a352a7b0a148ee4
+

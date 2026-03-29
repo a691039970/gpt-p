@@ -1,0 +1,159 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>平台信号监控面板</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <section class="hero">
+        <p class="eyebrow">平台监控</p>
+        <h1>平台信号与执行复核面板</h1>
+        <p class="subcopy">
+          当前面板把地址视为平台信号流的公开出口，不再把策略核心建立在“跟某个人”之上。
+        </p>
+        <div class="toolbar">
+          <button id="refreshBtn">刷新信号</button>
+          <button id="filterAllBtn" class="secondary">全部</button>
+          <button id="filterFollowBtn" class="secondary">只看可跟</button>
+          <button id="filterObserveBtn" class="secondary">只看观察</button>
+          <label class="hours-filter">
+            最近
+            <select id="hoursSelect">
+              <option value="0">全部时间</option>
+              <option value="1">1小时</option>
+              <option value="3">3小时</option>
+              <option value="6">6小时</option>
+              <option value="12">12小时</option>
+              <option value="24">24小时</option>
+            </select>
+          </label>
+          <label class="datetime-filter">
+            截止到
+            <input id="beforeDateTimeInput" type="datetime-local" />
+          </label>
+          <button id="clearDateFilterBtn" class="secondary">清空时间</button>
+          <span id="statusText">待命</span>
+        </div>
+      </section>
+
+      <section class="summary-grid" id="summaryGrid"></section>
+
+      <section class="panel">
+        <div class="panel-head">
+          <h2>平台状态</h2>
+          <p>显示当前运行模式、A 实时递送规划和 B 五分钟复核规划。</p>
+        </div>
+        <div class="summary-grid" id="platformSummaryGrid"></div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-head">
+          <h2>最新公开信号</h2>
+          <p>来自 A 地址的最近公开 BUY 信号。后续这里会接入实时推送。</p>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>时间</th>
+                <th>市场</th>
+                <th>方向</th>
+                <th>买卖</th>
+                <th>价格</th>
+                <th>数量</th>
+              </tr>
+            </thead>
+            <tbody id="recentTradesBody"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-head">
+          <h2>执行建议</h2>
+          <p>主窗口只保留待处理机会。未来 B 一旦确认已跟，项目会自动从活动列表隐藏。</p>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>判断</th>
+                <th>品类</th>
+                <th>市场</th>
+                <th>方向</th>
+                <th>价格</th>
+                <th>数量</th>
+                <th>距开赛分钟</th>
+                <th>建议仓位</th>
+                <th>操作</th>
+              </tr>
+            </thead>
+            <tbody id="signalsBody"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-head">
+          <h2>模型解释</h2>
+          <p>为什么有些盘口建议跟，有些建议只观察，有些直接不跟。</p>
+        </div>
+        <div id="decisionReasons" class="reason-grid"></div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-head">
+          <h2>B 地址复核状态</h2>
+          <p>当前先只验证“是否跟到同盘口同方向 BUY”，不验证金额。</p>
+        </div>
+        <div class="summary-grid" id="reviewSummaryGrid"></div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-head">
+          <h2>已匹配归档</h2>
+          <p>这些建议已被 B 地址跟到，因此默认不再占用活动窗口。</p>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>匹配时间</th>
+                <th>市场</th>
+                <th>方向</th>
+                <th>判断</th>
+                <th>建议仓位</th>
+              </tr>
+            </thead>
+            <tbody id="reviewArchiveBody"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-head">
+          <h2>纸面记录</h2>
+          <p>你在面板里手动确认过的试单记录。</p>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>记录时间</th>
+                <th>市场</th>
+                <th>判断</th>
+                <th>仓位</th>
+                <th>备注</th>
+              </tr>
+            </thead>
+            <tbody id="paperTradesBody"></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+    <script src="/app.platform.js"></script>
+  </body>
+</html>

@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Polymarket 半自动跟单面板</title>
+    <link rel="stylesheet" href="/styles.css" />
+  </head>
+  <body>
+    <main class="shell">
+      <section class="hero">
+        <p class="eyebrow">半自动跟单</p>
+        <h1>Polymarket 信号面板</h1>
+        <p class="subcopy">
+          跟踪目标地址的最新公开成交，按当前规则给每个盘口打标签，并在你手动下单前先做纸面记录。
+        </p>
+        <div class="toolbar">
+          <button id="refreshBtn">刷新信号</button>
+          <button id="filterAllBtn" class="secondary">全部</button>
+          <button id="filterFollowBtn" class="secondary">只看可跟</button>
+          <button id="filterObserveBtn" class="secondary">只看观察</button>
+          <label class="hours-filter">
+            最近
+            <select id="hoursSelect">
+              <option value="0">全部时间</option>
+              <option value="1">1小时</option>
+              <option value="3">3小时</option>
+              <option value="6">6小时</option>
+              <option value="12">12小时</option>
+              <option value="24">24小时</option>
+            </select>
+          </label>
+          <label class="datetime-filter">
+            截止到
+            <input id="beforeDateTimeInput" type="datetime-local" />
+          </label>
+          <button id="clearDateFilterBtn" class="secondary">清空时间</button>
+          <span id="statusText">待命</span>
+        </div>
+      </section>
+
+      <section class="summary-grid" id="summaryGrid"></section>
+
+      <section class="panel">
+        <div class="panel-head">
+          <h2>地址总览</h2>
+          <p>当前持仓汇总和最新地址公开成交</p>
+        </div>
+        <div class="summary-grid" id="walletSummaryGrid"></div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-head">
+          <h2>当前持仓</h2>
+          <p>按当前价值排序的公开持仓</p>
+        </div>
+        <div class="subtoolbar">
+          <label class="percent-filter">
+            最低收益率%
+            <input id="minPnlInput" type="number" step="0.1" placeholder="例如 -90" />
+          </label>
+          <label class="percent-filter">
+            最高收益率%
+            <input id="maxPnlInput" type="number" step="0.1" placeholder="例如 200" />
+          </label>
+          <button id="clearPnlFilterBtn" class="secondary">清空收益率筛选</button>
+          <span id="positionsFilterStatus" class="muted">显示全部持仓</span>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>市场</th>
+                <th>方向</th>
+                <th>持仓</th>
+                <th>均价</th>
+                <th>现价</th>
+                <th>现值</th>
+                <th>浮盈亏</th>
+                <th>收益率</th>
+              </tr>
+            </thead>
+            <tbody id="positionsBody"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-head">
+          <h2>最新实时单</h2>
+          <p>目标地址最近公开成交</p>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>时间</th>
+                <th>市场</th>
+                <th>方向</th>
+                <th>买卖</th>
+                <th>价格</th>
+                <th>数量</th>
+              </tr>
+            </thead>
+            <tbody id="recentTradesBody"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-head">
+          <h2>跟单建议</h2>
+          <p>基于当前规则生成的、按盘口去重后的 BUY 信号</p>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>判断</th>
+                <th>品类</th>
+                <th>市场</th>
+                <th>方向</th>
+                <th>价格</th>
+                <th>数量</th>
+                <th>距开赛分钟</th>
+                <th>建议仓位</th>
+                <th>操作</th>
+              </tr>
+            </thead>
+            <tbody id="signalsBody"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-head">
+          <h2>纸面记录</h2>
+          <p>你在面板里手动确认过的试单记录</p>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>记录时间</th>
+                <th>市场</th>
+                <th>判断</th>
+                <th>仓位</th>
+                <th>备注</th>
+              </tr>
+            </thead>
+            <tbody id="paperTradesBody"></tbody>
+          </table>
+        </div>
+      </section>
+    </main>
+    <script src="/app.fixed.js"></script>
+  </body>
+</html>
