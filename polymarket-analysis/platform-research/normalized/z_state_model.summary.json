@@ -1,0 +1,829 @@
+{
+  "generated_at": "2026-03-29T22:01:24.492Z",
+  "input": "D:\\gpt\\polymarket-analysis\\platform-research\\normalized\\z\\z_merged.yearly.current.json",
+  "timezone": "Asia/Shanghai",
+  "sample": {
+    "count": 28037,
+    "pnl_sum": -243712.83000000063,
+    "pnl_avg": -8.69254306808862,
+    "positive": 12237,
+    "negative": 14959,
+    "flat": 841,
+    "win_rate": 0.4364589649391875
+  },
+  "first_date": "2025-01-01",
+  "last_date": "2026-03-29",
+  "total_days": 447,
+  "overall_state": {
+    "score": 65,
+    "label": "positive",
+    "windows": {
+      "3": {
+        "current": {
+          "start_date": "2026-03-27",
+          "end_date": "2026-03-29",
+          "count": 75,
+          "pnl_sum": 9465.140000000005,
+          "pnl_avg": 126.20186666666673,
+          "positive": 33,
+          "negative": 42,
+          "flat": 0,
+          "win_rate": 0.44
+        },
+        "history_window_count": 445,
+        "pnl_percentile": 0.8562,
+        "win_rate_percentile": 0.5551,
+        "activity_percentile": 0.1236,
+        "score": 66,
+        "label": "positive"
+      },
+      "5": {
+        "current": {
+          "start_date": "2026-03-25",
+          "end_date": "2026-03-29",
+          "count": 122,
+          "pnl_sum": -2684.0500000000034,
+          "pnl_avg": -22.0004098360656,
+          "positive": 53,
+          "negative": 69,
+          "flat": 0,
+          "win_rate": 0.4344262295081967
+        },
+        "history_window_count": 443,
+        "pnl_percentile": 0.4876,
+        "win_rate_percentile": 0.526,
+        "activity_percentile": 0.0903,
+        "score": 44,
+        "label": "neutral"
+      },
+      "7": {
+        "current": {
+          "start_date": "2026-03-23",
+          "end_date": "2026-03-29",
+          "count": 291,
+          "pnl_sum": 60930.029999999984,
+          "pnl_avg": 209.38154639175252,
+          "positive": 151,
+          "negative": 140,
+          "flat": 0,
+          "win_rate": 0.5189003436426117
+        },
+        "history_window_count": 441,
+        "pnl_percentile": 0.9909,
+        "win_rate_percentile": 0.966,
+        "activity_percentile": 0.2381,
+        "score": 87,
+        "label": "strong"
+      },
+      "14": {
+        "current": {
+          "start_date": "2026-03-16",
+          "end_date": "2026-03-29",
+          "count": 617,
+          "pnl_sum": 14570.540000000014,
+          "pnl_avg": 23.615137763371173,
+          "positive": 280,
+          "negative": 320,
+          "flat": 17,
+          "win_rate": 0.4538087520259319
+        },
+        "history_window_count": 434,
+        "pnl_percentile": 0.7581,
+        "win_rate_percentile": 0.7396,
+        "activity_percentile": 0.2235,
+        "score": 67,
+        "label": "positive"
+      }
+    }
+  },
+  "category_states": {
+    "Basketball": {
+      "sample": {
+        "count": 1137,
+        "pnl_sum": -96916.30999999997,
+        "pnl_avg": -85.23861917326295,
+        "positive": 490,
+        "negative": 640,
+        "flat": 7,
+        "win_rate": 0.4309586631486368
+      },
+      "score": 54,
+      "label": "neutral",
+      "windows": {
+        "3": {
+          "current": {
+            "start_date": "2026-03-26",
+            "end_date": "2026-03-28",
+            "count": 23,
+            "pnl_sum": -8068.330000000002,
+            "pnl_avg": -350.7969565217392,
+            "positive": 8,
+            "negative": 15,
+            "flat": 0,
+            "win_rate": 0.34782608695652173
+          },
+          "history_window_count": 237,
+          "pnl_percentile": 0.3376,
+          "win_rate_percentile": 0.3629,
+          "activity_percentile": 0.8945,
+          "score": 43,
+          "label": "neutral"
+        },
+        "5": {
+          "current": {
+            "start_date": "2026-03-24",
+            "end_date": "2026-03-28",
+            "count": 33,
+            "pnl_sum": 1522.77,
+            "pnl_avg": 46.14454545454545,
+            "positive": 16,
+            "negative": 17,
+            "flat": 0,
+            "win_rate": 0.48484848484848486
+          },
+          "history_window_count": 235,
+          "pnl_percentile": 0.5915,
+          "win_rate_percentile": 0.6766,
+          "activity_percentile": 0.8426,
+          "score": 65,
+          "label": "positive"
+        },
+        "7": {
+          "current": {
+            "start_date": "2026-03-22",
+            "end_date": "2026-03-28",
+            "count": 68,
+            "pnl_sum": -13695.340000000002,
+            "pnl_avg": -201.40205882352944,
+            "positive": 28,
+            "negative": 40,
+            "flat": 0,
+            "win_rate": 0.4117647058823529
+          },
+          "history_window_count": 233,
+          "pnl_percentile": 0.3648,
+          "win_rate_percentile": 0.4206,
+          "activity_percentile": 0.9485,
+          "score": 47,
+          "label": "neutral"
+        },
+        "14": {
+          "current": {
+            "start_date": "2026-03-15",
+            "end_date": "2026-03-28",
+            "count": 156,
+            "pnl_sum": -986.719999999999,
+            "pnl_avg": -6.325128205128199,
+            "positive": 70,
+            "negative": 86,
+            "flat": 0,
+            "win_rate": 0.44871794871794873
+          },
+          "history_window_count": 226,
+          "pnl_percentile": 0.5973,
+          "win_rate_percentile": 0.5442,
+          "activity_percentile": 0.9779,
+          "score": 64,
+          "label": "positive"
+        }
+      }
+    },
+    "CS2": {
+      "sample": {
+        "count": 1120,
+        "pnl_sum": -15882.289999999986,
+        "pnl_avg": -14.18061607142856,
+        "positive": 472,
+        "negative": 617,
+        "flat": 31,
+        "win_rate": 0.42142857142857143
+      },
+      "score": 55,
+      "label": "neutral",
+      "windows": {
+        "3": {
+          "current": {
+            "start_date": "2026-02-28",
+            "end_date": "2026-03-17",
+            "count": 11,
+            "pnl_sum": 295.6099999999999,
+            "pnl_avg": 26.873636363636354,
+            "positive": 6,
+            "negative": 5,
+            "flat": 0,
+            "win_rate": 0.5454545454545454
+          },
+          "history_window_count": 122,
+          "pnl_percentile": 0.541,
+          "win_rate_percentile": 0.7377,
+          "activity_percentile": 0.1721,
+          "score": 54,
+          "label": "neutral"
+        },
+        "5": {
+          "current": {
+            "start_date": "2026-02-25",
+            "end_date": "2026-03-17",
+            "count": 15,
+            "pnl_sum": 721.6600000000001,
+            "pnl_avg": 48.110666666666674,
+            "positive": 8,
+            "negative": 7,
+            "flat": 0,
+            "win_rate": 0.5333333333333333
+          },
+          "history_window_count": 120,
+          "pnl_percentile": 0.625,
+          "win_rate_percentile": 0.8083,
+          "activity_percentile": 0.025,
+          "score": 59,
+          "label": "neutral"
+        },
+        "7": {
+          "current": {
+            "start_date": "2026-02-23",
+            "end_date": "2026-03-17",
+            "count": 24,
+            "pnl_sum": 2223.8800000000006,
+            "pnl_avg": 92.66166666666669,
+            "positive": 13,
+            "negative": 11,
+            "flat": 0,
+            "win_rate": 0.5416666666666666
+          },
+          "history_window_count": 118,
+          "pnl_percentile": 0.7119,
+          "win_rate_percentile": 0.8644,
+          "activity_percentile": 0.0339,
+          "score": 66,
+          "label": "positive"
+        },
+        "14": {
+          "current": {
+            "start_date": "2026-02-06",
+            "end_date": "2026-03-17",
+            "count": 67,
+            "pnl_sum": -9929.060000000001,
+            "pnl_avg": -148.19492537313434,
+            "positive": 29,
+            "negative": 38,
+            "flat": 0,
+            "win_rate": 0.43283582089552236
+          },
+          "history_window_count": 111,
+          "pnl_percentile": 0.1802,
+          "win_rate_percentile": 0.6216,
+          "activity_percentile": 0.0991,
+          "score": 30,
+          "label": "weak"
+        }
+      }
+    },
+    "Dota2": {
+      "sample": {
+        "count": 4478,
+        "pnl_sum": 145301.84999999998,
+        "pnl_avg": 32.44793434569004,
+        "positive": 2182,
+        "negative": 2248,
+        "flat": 48,
+        "win_rate": 0.4872711031710585
+      },
+      "score": 46,
+      "label": "neutral",
+      "windows": {
+        "3": {
+          "current": {
+            "start_date": "2026-03-27",
+            "end_date": "2026-03-29",
+            "count": 10,
+            "pnl_sum": -6038.2,
+            "pnl_avg": -603.8199999999999,
+            "positive": 5,
+            "negative": 5,
+            "flat": 0,
+            "win_rate": 0.5
+          },
+          "history_window_count": 340,
+          "pnl_percentile": 0.0471,
+          "win_rate_percentile": 0.5353,
+          "activity_percentile": 0.0824,
+          "score": 20,
+          "label": "danger"
+        },
+        "5": {
+          "current": {
+            "start_date": "2026-03-25",
+            "end_date": "2026-03-29",
+            "count": 31,
+            "pnl_sum": -5238.639999999999,
+            "pnl_avg": -168.98838709677418,
+            "positive": 17,
+            "negative": 14,
+            "flat": 0,
+            "win_rate": 0.5483870967741935
+          },
+          "history_window_count": 338,
+          "pnl_percentile": 0.1775,
+          "win_rate_percentile": 0.6953,
+          "activity_percentile": 0.1953,
+          "score": 34,
+          "label": "weak"
+        },
+        "7": {
+          "current": {
+            "start_date": "2026-03-23",
+            "end_date": "2026-03-29",
+            "count": 129,
+            "pnl_sum": 20551.72,
+            "pnl_avg": 159.3156589147287,
+            "positive": 72,
+            "negative": 57,
+            "flat": 0,
+            "win_rate": 0.5581395348837209
+          },
+          "history_window_count": 336,
+          "pnl_percentile": 0.7857,
+          "win_rate_percentile": 0.7679,
+          "activity_percentile": 0.7708,
+          "score": 78,
+          "label": "strong"
+        },
+        "14": {
+          "current": {
+            "start_date": "2026-03-14",
+            "end_date": "2026-03-29",
+            "count": 193,
+            "pnl_sum": 8538.10000000001,
+            "pnl_avg": 44.23886010362699,
+            "positive": 106,
+            "negative": 85,
+            "flat": 2,
+            "win_rate": 0.5492227979274611
+          },
+          "history_window_count": 329,
+          "pnl_percentile": 0.5957,
+          "win_rate_percentile": 0.7842,
+          "activity_percentile": 0.617,
+          "score": 66,
+          "label": "positive"
+        }
+      }
+    },
+    "Esports": {
+      "sample": {
+        "count": 17019,
+        "pnl_sum": -147721.5299999998,
+        "pnl_avg": -8.67980081085844,
+        "positive": 7461,
+        "negative": 9240,
+        "flat": 318,
+        "win_rate": 0.4383923849814913
+      },
+      "score": 55,
+      "label": "neutral",
+      "windows": {
+        "3": {
+          "current": {
+            "start_date": "2026-03-27",
+            "end_date": "2026-03-29",
+            "count": 43,
+            "pnl_sum": 4541.08,
+            "pnl_avg": 105.60651162790697,
+            "positive": 19,
+            "negative": 24,
+            "flat": 0,
+            "win_rate": 0.4418604651162791
+          },
+          "history_window_count": 425,
+          "pnl_percentile": 0.7388,
+          "win_rate_percentile": 0.5388,
+          "activity_percentile": 0.1341,
+          "score": 59,
+          "label": "neutral"
+        },
+        "5": {
+          "current": {
+            "start_date": "2026-03-25",
+            "end_date": "2026-03-29",
+            "count": 53,
+            "pnl_sum": 2257.6,
+            "pnl_avg": 42.596226415094335,
+            "positive": 23,
+            "negative": 30,
+            "flat": 0,
+            "win_rate": 0.4339622641509434
+          },
+          "history_window_count": 423,
+          "pnl_percentile": 0.669,
+          "win_rate_percentile": 0.4965,
+          "activity_percentile": 0.0709,
+          "score": 53,
+          "label": "neutral"
+        },
+        "7": {
+          "current": {
+            "start_date": "2026-03-23",
+            "end_date": "2026-03-29",
+            "count": 95,
+            "pnl_sum": 30054.68,
+            "pnl_avg": 316.365052631579,
+            "positive": 48,
+            "negative": 47,
+            "flat": 0,
+            "win_rate": 0.5052631578947369
+          },
+          "history_window_count": 421,
+          "pnl_percentile": 0.9905,
+          "win_rate_percentile": 0.8456,
+          "activity_percentile": 0.1045,
+          "score": 81,
+          "label": "strong"
+        },
+        "14": {
+          "current": {
+            "start_date": "2026-03-16",
+            "end_date": "2026-03-29",
+            "count": 227,
+            "pnl_sum": -16490.89000000001,
+            "pnl_avg": -72.64709251101326,
+            "positive": 83,
+            "negative": 136,
+            "flat": 8,
+            "win_rate": 0.3656387665198238
+          },
+          "history_window_count": 414,
+          "pnl_percentile": 0.1425,
+          "win_rate_percentile": 0.029,
+          "activity_percentile": 0.0966,
+          "score": 10,
+          "label": "danger"
+        }
+      }
+    },
+    "Football": {
+      "sample": {
+        "count": 3359,
+        "pnl_sum": -113331.5299999998,
+        "pnl_avg": -33.73966359035421,
+        "positive": 1243,
+        "negative": 1696,
+        "flat": 420,
+        "win_rate": 0.3700506103006847
+      },
+      "score": 54,
+      "label": "neutral",
+      "windows": {
+        "3": {
+          "current": {
+            "start_date": "2026-03-21",
+            "end_date": "2026-03-28",
+            "count": 27,
+            "pnl_sum": -2524.6199999999994,
+            "pnl_avg": -93.50444444444442,
+            "positive": 10,
+            "negative": 15,
+            "flat": 2,
+            "win_rate": 0.37037037037037035
+          },
+          "history_window_count": 345,
+          "pnl_percentile": 0.3913,
+          "win_rate_percentile": 0.5478,
+          "activity_percentile": 0.571,
+          "score": 47,
+          "label": "neutral"
+        },
+        "5": {
+          "current": {
+            "start_date": "2026-03-18",
+            "end_date": "2026-03-28",
+            "count": 40,
+            "pnl_sum": 2544.0799999999995,
+            "pnl_avg": 63.60199999999999,
+            "positive": 20,
+            "negative": 18,
+            "flat": 2,
+            "win_rate": 0.5
+          },
+          "history_window_count": 343,
+          "pnl_percentile": 0.7259,
+          "win_rate_percentile": 0.8542,
+          "activity_percentile": 0.4665,
+          "score": 73,
+          "label": "positive"
+        },
+        "7": {
+          "current": {
+            "start_date": "2026-03-16",
+            "end_date": "2026-03-28",
+            "count": 58,
+            "pnl_sum": -1977.7499999999986,
+            "pnl_avg": -34.09913793103446,
+            "positive": 24,
+            "negative": 27,
+            "flat": 7,
+            "win_rate": 0.41379310344827586
+          },
+          "history_window_count": 341,
+          "pnl_percentile": 0.5103,
+          "win_rate_percentile": 0.6569,
+          "activity_percentile": 0.4575,
+          "score": 55,
+          "label": "neutral"
+        },
+        "14": {
+          "current": {
+            "start_date": "2026-03-09",
+            "end_date": "2026-03-28",
+            "count": 122,
+            "pnl_sum": -11421.289999999997,
+            "pnl_avg": -93.61713114754096,
+            "positive": 39,
+            "negative": 74,
+            "flat": 9,
+            "win_rate": 0.319672131147541
+          },
+          "history_window_count": 334,
+          "pnl_percentile": 0.2904,
+          "win_rate_percentile": 0.3054,
+          "activity_percentile": 0.4132,
+          "score": 31,
+          "label": "weak"
+        }
+      }
+    },
+    "LoL": {
+      "sample": {
+        "count": 566,
+        "pnl_sum": 19842.739999999983,
+        "pnl_avg": 35.05784452296817,
+        "positive": 264,
+        "negative": 297,
+        "flat": 5,
+        "win_rate": 0.4664310954063604
+      },
+      "score": 82,
+      "label": "strong",
+      "windows": {
+        "3": {
+          "current": {
+            "start_date": "2026-02-27",
+            "end_date": "2026-03-29",
+            "count": 9,
+            "pnl_sum": 13029.300000000001,
+            "pnl_avg": 1447.7,
+            "positive": 5,
+            "negative": 4,
+            "flat": 0,
+            "win_rate": 0.5555555555555556
+          },
+          "history_window_count": 60,
+          "pnl_percentile": 1,
+          "win_rate_percentile": 0.7333,
+          "activity_percentile": 0.1167,
+          "score": 79,
+          "label": "strong"
+        },
+        "5": {
+          "current": {
+            "start_date": "2026-02-25",
+            "end_date": "2026-03-29",
+            "count": 17,
+            "pnl_sum": 14560.140000000001,
+            "pnl_avg": 856.4788235294118,
+            "positive": 10,
+            "negative": 7,
+            "flat": 0,
+            "win_rate": 0.5882352941176471
+          },
+          "history_window_count": 58,
+          "pnl_percentile": 0.9828,
+          "win_rate_percentile": 0.8276,
+          "activity_percentile": 0.1034,
+          "score": 80,
+          "label": "strong"
+        },
+        "7": {
+          "current": {
+            "start_date": "2026-02-15",
+            "end_date": "2026-03-29",
+            "count": 55,
+            "pnl_sum": 33309.15,
+            "pnl_avg": 605.6209090909091,
+            "positive": 35,
+            "negative": 20,
+            "flat": 0,
+            "win_rate": 0.6363636363636364
+          },
+          "history_window_count": 56,
+          "pnl_percentile": 1,
+          "win_rate_percentile": 0.9464,
+          "activity_percentile": 0.3393,
+          "score": 88,
+          "label": "strong"
+        },
+        "14": {
+          "current": {
+            "start_date": "2026-02-03",
+            "end_date": "2026-03-29",
+            "count": 121,
+            "pnl_sum": 33936.159999999996,
+            "pnl_avg": 280.4641322314049,
+            "positive": 60,
+            "negative": 61,
+            "flat": 0,
+            "win_rate": 0.49586776859504134
+          },
+          "history_window_count": 49,
+          "pnl_percentile": 0.9592,
+          "win_rate_percentile": 0.6735,
+          "activity_percentile": 0.449,
+          "score": 80,
+          "label": "strong"
+        }
+      }
+    },
+    "Other": {
+      "sample": {
+        "count": 230,
+        "pnl_sum": -23556.729999999992,
+        "pnl_avg": -102.42056521739127,
+        "positive": 78,
+        "negative": 140,
+        "flat": 12,
+        "win_rate": 0.3391304347826087
+      },
+      "score": 54,
+      "label": "neutral",
+      "windows": {
+        "3": {
+          "current": {
+            "start_date": "2026-03-21",
+            "end_date": "2026-03-29",
+            "count": 7,
+            "pnl_sum": -381.0400000000001,
+            "pnl_avg": -54.43428571428573,
+            "positive": 2,
+            "negative": 5,
+            "flat": 0,
+            "win_rate": 0.2857142857142857
+          },
+          "history_window_count": 69,
+          "pnl_percentile": 0.4348,
+          "win_rate_percentile": 0.4058,
+          "activity_percentile": 0.3623,
+          "score": 42,
+          "label": "neutral"
+        },
+        "5": {
+          "current": {
+            "start_date": "2026-03-15",
+            "end_date": "2026-03-29",
+            "count": 10,
+            "pnl_sum": 1621.9599999999998,
+            "pnl_avg": 162.19599999999997,
+            "positive": 5,
+            "negative": 5,
+            "flat": 0,
+            "win_rate": 0.5
+          },
+          "history_window_count": 67,
+          "pnl_percentile": 0.7313,
+          "win_rate_percentile": 0.6269,
+          "activity_percentile": 0.1045,
+          "score": 61,
+          "label": "positive"
+        },
+        "7": {
+          "current": {
+            "start_date": "2026-03-13",
+            "end_date": "2026-03-29",
+            "count": 14,
+            "pnl_sum": 3067.3700000000003,
+            "pnl_avg": 219.09785714285718,
+            "positive": 7,
+            "negative": 7,
+            "flat": 0,
+            "win_rate": 0.5
+          },
+          "history_window_count": 65,
+          "pnl_percentile": 0.8615,
+          "win_rate_percentile": 0.6462,
+          "activity_percentile": 0.0308,
+          "score": 67,
+          "label": "positive"
+        },
+        "14": {
+          "current": {
+            "start_date": "2026-02-01",
+            "end_date": "2026-03-29",
+            "count": 36,
+            "pnl_sum": -1939.5700000000008,
+            "pnl_avg": -53.87694444444447,
+            "positive": 13,
+            "negative": 21,
+            "flat": 2,
+            "win_rate": 0.3611111111111111
+          },
+          "history_window_count": 58,
+          "pnl_percentile": 0.4655,
+          "win_rate_percentile": 0.4483,
+          "activity_percentile": 0.1897,
+          "score": 42,
+          "label": "neutral"
+        }
+      }
+    },
+    "Valorant": {
+      "sample": {
+        "count": 128,
+        "pnl_sum": -11449.030000000013,
+        "pnl_avg": -89.4455468750001,
+        "positive": 47,
+        "negative": 81,
+        "flat": 0,
+        "win_rate": 0.3671875
+      },
+      "score": 86,
+      "label": "strong",
+      "windows": {
+        "3": {
+          "current": {
+            "start_date": "2026-03-17",
+            "end_date": "2026-03-22",
+            "count": 8,
+            "pnl_sum": 1051.8,
+            "pnl_avg": 131.475,
+            "positive": 6,
+            "negative": 2,
+            "flat": 0,
+            "win_rate": 0.75
+          },
+          "history_window_count": 22,
+          "pnl_percentile": 0.8636,
+          "win_rate_percentile": 1,
+          "activity_percentile": 0.2727,
+          "score": 82,
+          "label": "strong"
+        },
+        "5": {
+          "current": {
+            "start_date": "2026-01-10",
+            "end_date": "2026-03-22",
+            "count": 17,
+            "pnl_sum": 7050.37,
+            "pnl_avg": 414.72764705882355,
+            "positive": 13,
+            "negative": 4,
+            "flat": 0,
+            "win_rate": 0.7647058823529411
+          },
+          "history_window_count": 20,
+          "pnl_percentile": 1,
+          "win_rate_percentile": 1,
+          "activity_percentile": 0.05,
+          "score": 86,
+          "label": "strong"
+        },
+        "7": {
+          "current": {
+            "start_date": "2025-12-13",
+            "end_date": "2026-03-22",
+            "count": 34,
+            "pnl_sum": 4408.640000000001,
+            "pnl_avg": 129.66588235294122,
+            "positive": 20,
+            "negative": 14,
+            "flat": 0,
+            "win_rate": 0.5882352941176471
+          },
+          "history_window_count": 18,
+          "pnl_percentile": 1,
+          "win_rate_percentile": 1,
+          "activity_percentile": 0.3333,
+          "score": 90,
+          "label": "strong"
+        },
+        "14": {
+          "current": {
+            "start_date": "2025-11-13",
+            "end_date": "2026-03-22",
+            "count": 78,
+            "pnl_sum": -4093.070000000006,
+            "pnl_avg": -52.475256410256485,
+            "positive": 34,
+            "negative": 44,
+            "flat": 0,
+            "win_rate": 0.4358974358974359
+          },
+          "history_window_count": 11,
+          "pnl_percentile": 1,
+          "win_rate_percentile": 1,
+          "activity_percentile": 0.3636,
+          "score": 90,
+          "label": "strong"
+        }
+      }
+    }
+  }
+}

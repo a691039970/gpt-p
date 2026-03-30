@@ -1,0 +1,1257 @@
+{
+  "generated_at": "2026-03-29T17:05:13.643Z",
+  "input": "D:\\gpt\\polymarket-analysis\\platform-research\\normalized\\z\\z_merged.current.json",
+  "timezone": "Asia/Shanghai",
+  "sample": {
+    "row_count": 1319,
+    "realized_row_count": 1295,
+    "first_timestamp": "2026-03-01T03:46:15Z",
+    "last_timestamp": "2026-03-29T10:17:51Z"
+  },
+  "by_hour": [
+    {
+      "label": "00",
+      "count": 78,
+      "pnl_sum": 52318.61,
+      "pnl_avg": 670.7514102564103,
+      "positive": 45,
+      "flat": 3,
+      "negative": 30,
+      "win_rate": 0.5769230769230769
+    },
+    {
+      "label": "01",
+      "count": 91,
+      "pnl_sum": -22684.129999999997,
+      "pnl_avg": -249.27615384615382,
+      "positive": 34,
+      "flat": 0,
+      "negative": 57,
+      "win_rate": 0.37362637362637363
+    },
+    {
+      "label": "02",
+      "count": 75,
+      "pnl_sum": -26614.37000000001,
+      "pnl_avg": -354.8582666666668,
+      "positive": 17,
+      "flat": 0,
+      "negative": 58,
+      "win_rate": 0.22666666666666666
+    },
+    {
+      "label": "03",
+      "count": 79,
+      "pnl_sum": 10480.929999999997,
+      "pnl_avg": 132.66999999999996,
+      "positive": 44,
+      "flat": 0,
+      "negative": 35,
+      "win_rate": 0.5569620253164557
+    },
+    {
+      "label": "04",
+      "count": 54,
+      "pnl_sum": -905.1599999999996,
+      "pnl_avg": -16.762222222222217,
+      "positive": 23,
+      "flat": 0,
+      "negative": 31,
+      "win_rate": 0.42592592592592593
+    },
+    {
+      "label": "05",
+      "count": 26,
+      "pnl_sum": -3464.5999999999995,
+      "pnl_avg": -133.25384615384613,
+      "positive": 13,
+      "flat": 0,
+      "negative": 13,
+      "win_rate": 0.5
+    },
+    {
+      "label": "06",
+      "count": 18,
+      "pnl_sum": 611.76,
+      "pnl_avg": 33.986666666666665,
+      "positive": 11,
+      "flat": 0,
+      "negative": 7,
+      "win_rate": 0.6111111111111112
+    },
+    {
+      "label": "07",
+      "count": 12,
+      "pnl_sum": -6743.120000000001,
+      "pnl_avg": -561.9266666666667,
+      "positive": 1,
+      "flat": 0,
+      "negative": 11,
+      "win_rate": 0.08333333333333333
+    },
+    {
+      "label": "08",
+      "count": 9,
+      "pnl_sum": -55.940000000000055,
+      "pnl_avg": -6.215555555555562,
+      "positive": 3,
+      "flat": 0,
+      "negative": 6,
+      "win_rate": 0.3333333333333333
+    },
+    {
+      "label": "09",
+      "count": 6,
+      "pnl_sum": 596.6899999999998,
+      "pnl_avg": 99.44833333333331,
+      "positive": 4,
+      "flat": 0,
+      "negative": 2,
+      "win_rate": 0.6666666666666666
+    },
+    {
+      "label": "10",
+      "count": 51,
+      "pnl_sum": 28.920000000000112,
+      "pnl_avg": 0.567058823529414,
+      "positive": 20,
+      "flat": 0,
+      "negative": 31,
+      "win_rate": 0.39215686274509803
+    },
+    {
+      "label": "11",
+      "count": 69,
+      "pnl_sum": 4173.6399999999985,
+      "pnl_avg": 60.487536231884036,
+      "positive": 28,
+      "flat": 2,
+      "negative": 39,
+      "win_rate": 0.4057971014492754
+    },
+    {
+      "label": "12",
+      "count": 29,
+      "pnl_sum": 5084.920000000001,
+      "pnl_avg": 175.34206896551729,
+      "positive": 16,
+      "flat": 4,
+      "negative": 9,
+      "win_rate": 0.5517241379310345
+    },
+    {
+      "label": "13",
+      "count": 36,
+      "pnl_sum": -10734.56,
+      "pnl_avg": -298.1822222222222,
+      "positive": 11,
+      "flat": 3,
+      "negative": 22,
+      "win_rate": 0.3055555555555556
+    },
+    {
+      "label": "14",
+      "count": 34,
+      "pnl_sum": 5865.1799999999985,
+      "pnl_avg": 172.50529411764703,
+      "positive": 19,
+      "flat": 1,
+      "negative": 14,
+      "win_rate": 0.5588235294117647
+    },
+    {
+      "label": "15",
+      "count": 32,
+      "pnl_sum": -2612.109999999998,
+      "pnl_avg": -81.62843749999993,
+      "positive": 15,
+      "flat": 0,
+      "negative": 17,
+      "win_rate": 0.46875
+    },
+    {
+      "label": "16",
+      "count": 56,
+      "pnl_sum": 14210.51,
+      "pnl_avg": 253.75910714285715,
+      "positive": 32,
+      "flat": 4,
+      "negative": 20,
+      "win_rate": 0.5714285714285714
+    },
+    {
+      "label": "17",
+      "count": 45,
+      "pnl_sum": 13363.17,
+      "pnl_avg": 296.95933333333335,
+      "positive": 27,
+      "flat": 2,
+      "negative": 16,
+      "win_rate": 0.6
+    },
+    {
+      "label": "18",
+      "count": 69,
+      "pnl_sum": 2190.9700000000025,
+      "pnl_avg": 31.75318840579714,
+      "positive": 31,
+      "flat": 0,
+      "negative": 38,
+      "win_rate": 0.4492753623188406
+    },
+    {
+      "label": "19",
+      "count": 56,
+      "pnl_sum": -30517.149999999994,
+      "pnl_avg": -544.9491071428571,
+      "positive": 15,
+      "flat": 0,
+      "negative": 41,
+      "win_rate": 0.26785714285714285
+    },
+    {
+      "label": "20",
+      "count": 83,
+      "pnl_sum": -26575.48999999999,
+      "pnl_avg": -320.18662650602397,
+      "positive": 23,
+      "flat": 4,
+      "negative": 56,
+      "win_rate": 0.27710843373493976
+    },
+    {
+      "label": "21",
+      "count": 109,
+      "pnl_sum": 12847.379999999994,
+      "pnl_avg": 117.86587155963296,
+      "positive": 51,
+      "flat": 6,
+      "negative": 52,
+      "win_rate": 0.46788990825688076
+    },
+    {
+      "label": "22",
+      "count": 90,
+      "pnl_sum": 3342.9199999999996,
+      "pnl_avg": 37.14355555555555,
+      "positive": 35,
+      "flat": 1,
+      "negative": 54,
+      "win_rate": 0.3888888888888889
+    },
+    {
+      "label": "23",
+      "count": 88,
+      "pnl_sum": -49963.229999999996,
+      "pnl_avg": -567.7639772727272,
+      "positive": 24,
+      "flat": 2,
+      "negative": 62,
+      "win_rate": 0.2727272727272727
+    }
+  ],
+  "by_weekday": [
+    {
+      "label": "Mon",
+      "count": 246,
+      "pnl_sum": 15634.84,
+      "pnl_avg": 63.556260162601625,
+      "positive": 105,
+      "flat": 5,
+      "negative": 136,
+      "win_rate": 0.4268292682926829
+    },
+    {
+      "label": "Tue",
+      "count": 181,
+      "pnl_sum": 44255.39,
+      "pnl_avg": 244.50491712707182,
+      "positive": 96,
+      "flat": 4,
+      "negative": 81,
+      "win_rate": 0.5303867403314917
+    },
+    {
+      "label": "Wed",
+      "count": 156,
+      "pnl_sum": -43014.130000000005,
+      "pnl_avg": -275.7316025641026,
+      "positive": 75,
+      "flat": 2,
+      "negative": 79,
+      "win_rate": 0.4807692307692308
+    },
+    {
+      "label": "Thu",
+      "count": 166,
+      "pnl_sum": -8226.149999999998,
+      "pnl_avg": -49.555120481927695,
+      "positive": 72,
+      "flat": 4,
+      "negative": 90,
+      "win_rate": 0.43373493975903615
+    },
+    {
+      "label": "Fri",
+      "count": 175,
+      "pnl_sum": -21509.659999999996,
+      "pnl_avg": -122.91234285714283,
+      "positive": 50,
+      "flat": 9,
+      "negative": 116,
+      "win_rate": 0.2857142857142857
+    },
+    {
+      "label": "Sat",
+      "count": 170,
+      "pnl_sum": -10402.420000000004,
+      "pnl_avg": -61.190705882352965,
+      "positive": 69,
+      "flat": 4,
+      "negative": 97,
+      "win_rate": 0.40588235294117647
+    },
+    {
+      "label": "Sun",
+      "count": 201,
+      "pnl_sum": -32492.129999999983,
+      "pnl_avg": -161.6523880597014,
+      "positive": 75,
+      "flat": 4,
+      "negative": 122,
+      "win_rate": 0.373134328358209
+    }
+  ],
+  "by_category": [
+    {
+      "label": "Esports",
+      "count": 552,
+      "pnl_sum": -25374.260000000013,
+      "pnl_avg": -45.9678623188406,
+      "positive": 205,
+      "flat": 17,
+      "negative": 330,
+      "win_rate": 0.3713768115942029
+    },
+    {
+      "label": "Dota2",
+      "count": 278,
+      "pnl_sum": -3190.9299999999967,
+      "pnl_avg": -11.478165467625887,
+      "positive": 154,
+      "flat": 2,
+      "negative": 122,
+      "win_rate": 0.5539568345323741
+    },
+    {
+      "label": "Basketball",
+      "count": 249,
+      "pnl_sum": -27233.229999999992,
+      "pnl_avg": -109.37040160642567,
+      "positive": 105,
+      "flat": 0,
+      "negative": 144,
+      "win_rate": 0.42168674698795183
+    },
+    {
+      "label": "Football",
+      "count": 165,
+      "pnl_sum": -16124.589999999995,
+      "pnl_avg": -97.72478787878785,
+      "positive": 51,
+      "flat": 13,
+      "negative": 101,
+      "win_rate": 0.3090909090909091
+    },
+    {
+      "label": "Other",
+      "count": 26,
+      "pnl_sum": 1846.6700000000003,
+      "pnl_avg": 71.02576923076924,
+      "positive": 11,
+      "flat": 0,
+      "negative": 15,
+      "win_rate": 0.4230769230769231
+    },
+    {
+      "label": "CS2",
+      "count": 9,
+      "pnl_sum": -690.1399999999999,
+      "pnl_avg": -76.68222222222221,
+      "positive": 4,
+      "flat": 0,
+      "negative": 5,
+      "win_rate": 0.4444444444444444
+    },
+    {
+      "label": "Valorant",
+      "count": 9,
+      "pnl_sum": 1532.3,
+      "pnl_avg": 170.25555555555556,
+      "positive": 7,
+      "flat": 0,
+      "negative": 2,
+      "win_rate": 0.7777777777777778
+    },
+    {
+      "label": "LoL",
+      "count": 7,
+      "pnl_sum": 13479.92,
+      "pnl_avg": 1925.702857142857,
+      "positive": 5,
+      "flat": 0,
+      "negative": 2,
+      "win_rate": 0.7142857142857143
+    }
+  ],
+  "by_day": [
+    {
+      "date": "2026-03-01",
+      "count": 19,
+      "pnl_sum": -5296.459999999999,
+      "positive": 7,
+      "flat": 0,
+      "negative": 12,
+      "win_rate": 0.3684210526315789
+    },
+    {
+      "date": "2026-03-02",
+      "count": 23,
+      "pnl_sum": 6092.220000000001,
+      "positive": 8,
+      "flat": 0,
+      "negative": 15,
+      "win_rate": 0.34782608695652173
+    },
+    {
+      "date": "2026-03-03",
+      "count": 52,
+      "pnl_sum": -5849.640000000001,
+      "positive": 17,
+      "flat": 2,
+      "negative": 33,
+      "win_rate": 0.3269230769230769
+    },
+    {
+      "date": "2026-03-04",
+      "count": 34,
+      "pnl_sum": 8792.289999999999,
+      "positive": 24,
+      "flat": 0,
+      "negative": 10,
+      "win_rate": 0.7058823529411765
+    },
+    {
+      "date": "2026-03-05",
+      "count": 40,
+      "pnl_sum": -1452.210000000001,
+      "positive": 16,
+      "flat": 0,
+      "negative": 24,
+      "win_rate": 0.4
+    },
+    {
+      "date": "2026-03-06",
+      "count": 52,
+      "pnl_sum": -9507.140000000001,
+      "positive": 17,
+      "flat": 7,
+      "negative": 28,
+      "win_rate": 0.3269230769230769
+    },
+    {
+      "date": "2026-03-07",
+      "count": 38,
+      "pnl_sum": -1702.4399999999994,
+      "positive": 11,
+      "flat": 0,
+      "negative": 27,
+      "win_rate": 0.2894736842105263
+    },
+    {
+      "date": "2026-03-08",
+      "count": 34,
+      "pnl_sum": -16779.460000000003,
+      "positive": 7,
+      "flat": 2,
+      "negative": 25,
+      "win_rate": 0.20588235294117646
+    },
+    {
+      "date": "2026-03-09",
+      "count": 58,
+      "pnl_sum": -51.070000000000135,
+      "positive": 21,
+      "flat": 0,
+      "negative": 37,
+      "win_rate": 0.3620689655172414
+    },
+    {
+      "date": "2026-03-10",
+      "count": 39,
+      "pnl_sum": -856.9400000000002,
+      "positive": 18,
+      "flat": 2,
+      "negative": 19,
+      "win_rate": 0.46153846153846156
+    },
+    {
+      "date": "2026-03-11",
+      "count": 61,
+      "pnl_sum": -8811.220000000003,
+      "positive": 33,
+      "flat": 0,
+      "negative": 28,
+      "win_rate": 0.5409836065573771
+    },
+    {
+      "date": "2026-03-12",
+      "count": 60,
+      "pnl_sum": -174.56999999999925,
+      "positive": 27,
+      "flat": 0,
+      "negative": 33,
+      "win_rate": 0.45
+    },
+    {
+      "date": "2026-03-13",
+      "count": 30,
+      "pnl_sum": -15836.979999999998,
+      "positive": 2,
+      "flat": 2,
+      "negative": 26,
+      "win_rate": 0.06666666666666667
+    },
+    {
+      "date": "2026-03-14",
+      "count": 54,
+      "pnl_sum": -2663.8099999999986,
+      "positive": 22,
+      "flat": 0,
+      "negative": 32,
+      "win_rate": 0.4074074074074074
+    },
+    {
+      "date": "2026-03-15",
+      "count": 84,
+      "pnl_sum": -16227.369999999999,
+      "positive": 32,
+      "flat": 0,
+      "negative": 52,
+      "win_rate": 0.38095238095238093
+    },
+    {
+      "date": "2026-03-16",
+      "count": 53,
+      "pnl_sum": -6266.510000000001,
+      "positive": 21,
+      "flat": 5,
+      "negative": 27,
+      "win_rate": 0.39622641509433965
+    },
+    {
+      "date": "2026-03-17",
+      "count": 33,
+      "pnl_sum": 3208.0900000000006,
+      "positive": 18,
+      "flat": 0,
+      "negative": 15,
+      "win_rate": 0.5454545454545454
+    },
+    {
+      "date": "2026-03-18",
+      "count": 43,
+      "pnl_sum": -41959.53,
+      "positive": 10,
+      "flat": 2,
+      "negative": 31,
+      "win_rate": 0.23255813953488372
+    },
+    {
+      "date": "2026-03-19",
+      "count": 37,
+      "pnl_sum": 4514.150000000001,
+      "positive": 17,
+      "flat": 4,
+      "negative": 16,
+      "win_rate": 0.4594594594594595
+    },
+    {
+      "date": "2026-03-20",
+      "count": 43,
+      "pnl_sum": -11771.509999999997,
+      "positive": 10,
+      "flat": 0,
+      "negative": 33,
+      "win_rate": 0.23255813953488372
+    },
+    {
+      "date": "2026-03-21",
+      "count": 61,
+      "pnl_sum": -2596.0399999999986,
+      "positive": 27,
+      "flat": 4,
+      "negative": 30,
+      "win_rate": 0.4426229508196721
+    },
+    {
+      "date": "2026-03-22",
+      "count": 56,
+      "pnl_sum": 8511.859999999993,
+      "positive": 26,
+      "flat": 2,
+      "negative": 28,
+      "win_rate": 0.4642857142857143
+    },
+    {
+      "date": "2026-03-23",
+      "count": 112,
+      "pnl_sum": 15860.200000000004,
+      "positive": 55,
+      "flat": 0,
+      "negative": 57,
+      "win_rate": 0.49107142857142855
+    },
+    {
+      "date": "2026-03-24",
+      "count": 57,
+      "pnl_sum": 47753.87999999999,
+      "positive": 43,
+      "flat": 0,
+      "negative": 14,
+      "win_rate": 0.7543859649122807
+    },
+    {
+      "date": "2026-03-25",
+      "count": 18,
+      "pnl_sum": -1035.6699999999994,
+      "positive": 8,
+      "flat": 0,
+      "negative": 10,
+      "win_rate": 0.4444444444444444
+    },
+    {
+      "date": "2026-03-26",
+      "count": 29,
+      "pnl_sum": -11113.52,
+      "positive": 12,
+      "flat": 0,
+      "negative": 17,
+      "win_rate": 0.41379310344827586
+    },
+    {
+      "date": "2026-03-27",
+      "count": 50,
+      "pnl_sum": 15605.970000000003,
+      "positive": 21,
+      "flat": 0,
+      "negative": 29,
+      "win_rate": 0.42
+    },
+    {
+      "date": "2026-03-28",
+      "count": 17,
+      "pnl_sum": -3440.1299999999997,
+      "positive": 9,
+      "flat": 0,
+      "negative": 8,
+      "win_rate": 0.5294117647058824
+    },
+    {
+      "date": "2026-03-29",
+      "count": 8,
+      "pnl_sum": -2700.7000000000003,
+      "positive": 3,
+      "flat": 0,
+      "negative": 5,
+      "win_rate": 0.375
+    }
+  ],
+  "rolling_windows": [
+    {
+      "window_days": 3,
+      "best": {
+        "start_date": "2026-03-22",
+        "end_date": "2026-03-24",
+        "pnl_sum": 72125.93999999999,
+        "count": 225,
+        "win_rate": 0.5511111111111111
+      },
+      "worst": {
+        "start_date": "2026-03-18",
+        "end_date": "2026-03-20",
+        "pnl_sum": -49216.88999999999,
+        "count": 123,
+        "win_rate": 0.3008130081300813
+      }
+    },
+    {
+      "window_days": 5,
+      "best": {
+        "start_date": "2026-03-21",
+        "end_date": "2026-03-25",
+        "pnl_sum": 68494.23,
+        "count": 304,
+        "win_rate": 0.5230263157894737
+      },
+      "worst": {
+        "start_date": "2026-03-14",
+        "end_date": "2026-03-18",
+        "pnl_sum": -63909.13,
+        "count": 267,
+        "win_rate": 0.3857677902621723
+      }
+    },
+    {
+      "window_days": 7,
+      "best": {
+        "start_date": "2026-03-21",
+        "end_date": "2026-03-27",
+        "pnl_sum": 72986.68,
+        "count": 383,
+        "win_rate": 0.5013054830287206
+      },
+      "worst": {
+        "start_date": "2026-03-12",
+        "end_date": "2026-03-18",
+        "pnl_sum": -79920.68,
+        "count": 357,
+        "win_rate": 0.3697478991596639
+      }
+    }
+  ],
+  "streaks": {
+    "longest_positive_streak": {
+      "sign": "positive",
+      "count": 22,
+      "pnl_sum": 32429.44,
+      "start_timestamp": "2026-03-23T16:22:08Z",
+      "end_timestamp": "2026-03-23T19:49:36Z"
+    },
+    "longest_negative_streak": {
+      "sign": "negative",
+      "count": 30,
+      "pnl_sum": -17333.530000000002,
+      "start_timestamp": "2026-03-07T07:06:02Z",
+      "end_timestamp": "2026-03-07T16:49:34Z"
+    }
+  },
+  "highlights": {
+    "best_hours_by_avg_pnl": [
+      {
+        "label": "00",
+        "count": 78,
+        "pnl_sum": 52318.61,
+        "pnl_avg": 670.7514102564103,
+        "positive": 45,
+        "flat": 3,
+        "negative": 30,
+        "win_rate": 0.5769230769230769
+      },
+      {
+        "label": "17",
+        "count": 45,
+        "pnl_sum": 13363.17,
+        "pnl_avg": 296.95933333333335,
+        "positive": 27,
+        "flat": 2,
+        "negative": 16,
+        "win_rate": 0.6
+      },
+      {
+        "label": "16",
+        "count": 56,
+        "pnl_sum": 14210.51,
+        "pnl_avg": 253.75910714285715,
+        "positive": 32,
+        "flat": 4,
+        "negative": 20,
+        "win_rate": 0.5714285714285714
+      },
+      {
+        "label": "12",
+        "count": 29,
+        "pnl_sum": 5084.920000000001,
+        "pnl_avg": 175.34206896551729,
+        "positive": 16,
+        "flat": 4,
+        "negative": 9,
+        "win_rate": 0.5517241379310345
+      },
+      {
+        "label": "14",
+        "count": 34,
+        "pnl_sum": 5865.1799999999985,
+        "pnl_avg": 172.50529411764703,
+        "positive": 19,
+        "flat": 1,
+        "negative": 14,
+        "win_rate": 0.5588235294117647
+      }
+    ],
+    "worst_hours_by_avg_pnl": [
+      {
+        "label": "23",
+        "count": 88,
+        "pnl_sum": -49963.229999999996,
+        "pnl_avg": -567.7639772727272,
+        "positive": 24,
+        "flat": 2,
+        "negative": 62,
+        "win_rate": 0.2727272727272727
+      },
+      {
+        "label": "19",
+        "count": 56,
+        "pnl_sum": -30517.149999999994,
+        "pnl_avg": -544.9491071428571,
+        "positive": 15,
+        "flat": 0,
+        "negative": 41,
+        "win_rate": 0.26785714285714285
+      },
+      {
+        "label": "02",
+        "count": 75,
+        "pnl_sum": -26614.37000000001,
+        "pnl_avg": -354.8582666666668,
+        "positive": 17,
+        "flat": 0,
+        "negative": 58,
+        "win_rate": 0.22666666666666666
+      },
+      {
+        "label": "20",
+        "count": 83,
+        "pnl_sum": -26575.48999999999,
+        "pnl_avg": -320.18662650602397,
+        "positive": 23,
+        "flat": 4,
+        "negative": 56,
+        "win_rate": 0.27710843373493976
+      },
+      {
+        "label": "13",
+        "count": 36,
+        "pnl_sum": -10734.56,
+        "pnl_avg": -298.1822222222222,
+        "positive": 11,
+        "flat": 3,
+        "negative": 22,
+        "win_rate": 0.3055555555555556
+      }
+    ],
+    "best_weekdays_by_avg_pnl": [
+      {
+        "label": "Tue",
+        "count": 181,
+        "pnl_sum": 44255.39,
+        "pnl_avg": 244.50491712707182,
+        "positive": 96,
+        "flat": 4,
+        "negative": 81,
+        "win_rate": 0.5303867403314917
+      },
+      {
+        "label": "Mon",
+        "count": 246,
+        "pnl_sum": 15634.84,
+        "pnl_avg": 63.556260162601625,
+        "positive": 105,
+        "flat": 5,
+        "negative": 136,
+        "win_rate": 0.4268292682926829
+      },
+      {
+        "label": "Thu",
+        "count": 166,
+        "pnl_sum": -8226.149999999998,
+        "pnl_avg": -49.555120481927695,
+        "positive": 72,
+        "flat": 4,
+        "negative": 90,
+        "win_rate": 0.43373493975903615
+      },
+      {
+        "label": "Sat",
+        "count": 170,
+        "pnl_sum": -10402.420000000004,
+        "pnl_avg": -61.190705882352965,
+        "positive": 69,
+        "flat": 4,
+        "negative": 97,
+        "win_rate": 0.40588235294117647
+      },
+      {
+        "label": "Fri",
+        "count": 175,
+        "pnl_sum": -21509.659999999996,
+        "pnl_avg": -122.91234285714283,
+        "positive": 50,
+        "flat": 9,
+        "negative": 116,
+        "win_rate": 0.2857142857142857
+      },
+      {
+        "label": "Sun",
+        "count": 201,
+        "pnl_sum": -32492.129999999983,
+        "pnl_avg": -161.6523880597014,
+        "positive": 75,
+        "flat": 4,
+        "negative": 122,
+        "win_rate": 0.373134328358209
+      },
+      {
+        "label": "Wed",
+        "count": 156,
+        "pnl_sum": -43014.130000000005,
+        "pnl_avg": -275.7316025641026,
+        "positive": 75,
+        "flat": 2,
+        "negative": 79,
+        "win_rate": 0.4807692307692308
+      }
+    ],
+    "worst_weekdays_by_avg_pnl": [
+      {
+        "label": "Wed",
+        "count": 156,
+        "pnl_sum": -43014.130000000005,
+        "pnl_avg": -275.7316025641026,
+        "positive": 75,
+        "flat": 2,
+        "negative": 79,
+        "win_rate": 0.4807692307692308
+      },
+      {
+        "label": "Sun",
+        "count": 201,
+        "pnl_sum": -32492.129999999983,
+        "pnl_avg": -161.6523880597014,
+        "positive": 75,
+        "flat": 4,
+        "negative": 122,
+        "win_rate": 0.373134328358209
+      },
+      {
+        "label": "Fri",
+        "count": 175,
+        "pnl_sum": -21509.659999999996,
+        "pnl_avg": -122.91234285714283,
+        "positive": 50,
+        "flat": 9,
+        "negative": 116,
+        "win_rate": 0.2857142857142857
+      },
+      {
+        "label": "Sat",
+        "count": 170,
+        "pnl_sum": -10402.420000000004,
+        "pnl_avg": -61.190705882352965,
+        "positive": 69,
+        "flat": 4,
+        "negative": 97,
+        "win_rate": 0.40588235294117647
+      },
+      {
+        "label": "Thu",
+        "count": 166,
+        "pnl_sum": -8226.149999999998,
+        "pnl_avg": -49.555120481927695,
+        "positive": 72,
+        "flat": 4,
+        "negative": 90,
+        "win_rate": 0.43373493975903615
+      },
+      {
+        "label": "Mon",
+        "count": 246,
+        "pnl_sum": 15634.84,
+        "pnl_avg": 63.556260162601625,
+        "positive": 105,
+        "flat": 5,
+        "negative": 136,
+        "win_rate": 0.4268292682926829
+      },
+      {
+        "label": "Tue",
+        "count": 181,
+        "pnl_sum": 44255.39,
+        "pnl_avg": 244.50491712707182,
+        "positive": 96,
+        "flat": 4,
+        "negative": 81,
+        "win_rate": 0.5303867403314917
+      }
+    ],
+    "best_weekday_hours_by_avg_pnl": [
+      {
+        "label": "Sat-17",
+        "count": 11,
+        "pnl_sum": 18103.57,
+        "pnl_avg": 1645.7790909090909,
+        "positive": 9,
+        "flat": 0,
+        "negative": 2,
+        "win_rate": 0.8181818181818182
+      },
+      {
+        "label": "Fri-16",
+        "count": 11,
+        "pnl_sum": 17645.190000000002,
+        "pnl_avg": 1604.108181818182,
+        "positive": 9,
+        "flat": 0,
+        "negative": 2,
+        "win_rate": 0.8181818181818182
+      },
+      {
+        "label": "Tue-00",
+        "count": 20,
+        "pnl_sum": 28689.63,
+        "pnl_avg": 1434.4815,
+        "positive": 18,
+        "flat": 0,
+        "negative": 2,
+        "win_rate": 0.9
+      },
+      {
+        "label": "Sun-22",
+        "count": 9,
+        "pnl_sum": 9035.37,
+        "pnl_avg": 1003.9300000000001,
+        "positive": 7,
+        "flat": 0,
+        "negative": 2,
+        "win_rate": 0.7777777777777778
+      },
+      {
+        "label": "Mon-11",
+        "count": 13,
+        "pnl_sum": 12763.520000000004,
+        "pnl_avg": 981.8092307692311,
+        "positive": 10,
+        "flat": 0,
+        "negative": 3,
+        "win_rate": 0.7692307692307693
+      },
+      {
+        "label": "Mon-00",
+        "count": 15,
+        "pnl_sum": 14184.02,
+        "pnl_avg": 945.6013333333334,
+        "positive": 9,
+        "flat": 0,
+        "negative": 6,
+        "win_rate": 0.6
+      },
+      {
+        "label": "Tue-21",
+        "count": 9,
+        "pnl_sum": 8072.86,
+        "pnl_avg": 896.9844444444444,
+        "positive": 6,
+        "flat": 0,
+        "negative": 3,
+        "win_rate": 0.6666666666666666
+      },
+      {
+        "label": "Thu-12",
+        "count": 9,
+        "pnl_sum": 6637.15,
+        "pnl_avg": 737.4611111111111,
+        "positive": 8,
+        "flat": 0,
+        "negative": 1,
+        "win_rate": 0.8888888888888888
+      }
+    ],
+    "worst_weekday_hours_by_avg_pnl": [
+      {
+        "label": "Wed-19",
+        "count": 10,
+        "pnl_sum": -18110.22,
+        "pnl_avg": -1811.0220000000002,
+        "positive": 0,
+        "flat": 0,
+        "negative": 10,
+        "win_rate": 0
+      },
+      {
+        "label": "Wed-23",
+        "count": 32,
+        "pnl_sum": -32395.000000000004,
+        "pnl_avg": -1012.3437500000001,
+        "positive": 10,
+        "flat": 0,
+        "negative": 22,
+        "win_rate": 0.3125
+      },
+      {
+        "label": "Wed-17",
+        "count": 18,
+        "pnl_sum": -14033.11,
+        "pnl_avg": -779.6172222222223,
+        "positive": 10,
+        "flat": 0,
+        "negative": 8,
+        "win_rate": 0.5555555555555556
+      },
+      {
+        "label": "Sun-20",
+        "count": 18,
+        "pnl_sum": -13264.400000000001,
+        "pnl_avg": -736.9111111111112,
+        "positive": 4,
+        "flat": 0,
+        "negative": 14,
+        "win_rate": 0.2222222222222222
+      },
+      {
+        "label": "Sun-11",
+        "count": 14,
+        "pnl_sum": -10271.390000000001,
+        "pnl_avg": -733.6707142857143,
+        "positive": 0,
+        "flat": 0,
+        "negative": 14,
+        "win_rate": 0
+      },
+      {
+        "label": "Fri-07",
+        "count": 8,
+        "pnl_sum": -5725.3,
+        "pnl_avg": -715.6625,
+        "positive": 1,
+        "flat": 0,
+        "negative": 7,
+        "win_rate": 0.125
+      },
+      {
+        "label": "Sun-19",
+        "count": 11,
+        "pnl_sum": -7791.5199999999995,
+        "pnl_avg": -708.3199999999999,
+        "positive": 1,
+        "flat": 0,
+        "negative": 10,
+        "win_rate": 0.09090909090909091
+      },
+      {
+        "label": "Sat-13",
+        "count": 8,
+        "pnl_sum": -5567.93,
+        "pnl_avg": -695.99125,
+        "positive": 0,
+        "flat": 1,
+        "negative": 7,
+        "win_rate": 0
+      }
+    ],
+    "best_categories_by_avg_pnl": [
+      {
+        "label": "Other",
+        "count": 26,
+        "pnl_sum": 1846.6700000000003,
+        "pnl_avg": 71.02576923076924,
+        "positive": 11,
+        "flat": 0,
+        "negative": 15,
+        "win_rate": 0.4230769230769231
+      },
+      {
+        "label": "Dota2",
+        "count": 278,
+        "pnl_sum": -3190.9299999999967,
+        "pnl_avg": -11.478165467625887,
+        "positive": 154,
+        "flat": 2,
+        "negative": 122,
+        "win_rate": 0.5539568345323741
+      },
+      {
+        "label": "Esports",
+        "count": 552,
+        "pnl_sum": -25374.260000000013,
+        "pnl_avg": -45.9678623188406,
+        "positive": 205,
+        "flat": 17,
+        "negative": 330,
+        "win_rate": 0.3713768115942029
+      },
+      {
+        "label": "Football",
+        "count": 165,
+        "pnl_sum": -16124.589999999995,
+        "pnl_avg": -97.72478787878785,
+        "positive": 51,
+        "flat": 13,
+        "negative": 101,
+        "win_rate": 0.3090909090909091
+      },
+      {
+        "label": "Basketball",
+        "count": 249,
+        "pnl_sum": -27233.229999999992,
+        "pnl_avg": -109.37040160642567,
+        "positive": 105,
+        "flat": 0,
+        "negative": 144,
+        "win_rate": 0.42168674698795183
+      }
+    ],
+    "worst_categories_by_avg_pnl": [
+      {
+        "label": "Basketball",
+        "count": 249,
+        "pnl_sum": -27233.229999999992,
+        "pnl_avg": -109.37040160642567,
+        "positive": 105,
+        "flat": 0,
+        "negative": 144,
+        "win_rate": 0.42168674698795183
+      },
+      {
+        "label": "Football",
+        "count": 165,
+        "pnl_sum": -16124.589999999995,
+        "pnl_avg": -97.72478787878785,
+        "positive": 51,
+        "flat": 13,
+        "negative": 101,
+        "win_rate": 0.3090909090909091
+      },
+      {
+        "label": "Esports",
+        "count": 552,
+        "pnl_sum": -25374.260000000013,
+        "pnl_avg": -45.9678623188406,
+        "positive": 205,
+        "flat": 17,
+        "negative": 330,
+        "win_rate": 0.3713768115942029
+      },
+      {
+        "label": "Dota2",
+        "count": 278,
+        "pnl_sum": -3190.9299999999967,
+        "pnl_avg": -11.478165467625887,
+        "positive": 154,
+        "flat": 2,
+        "negative": 122,
+        "win_rate": 0.5539568345323741
+      },
+      {
+        "label": "Other",
+        "count": 26,
+        "pnl_sum": 1846.6700000000003,
+        "pnl_avg": 71.02576923076924,
+        "positive": 11,
+        "flat": 0,
+        "negative": 15,
+        "win_rate": 0.4230769230769231
+      }
+    ]
+  }
+}

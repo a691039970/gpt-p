@@ -1,0 +1,2013 @@
+{
+  "generated_at": "2026-03-29T21:36:00.162Z",
+  "input": "D:\\gpt\\polymarket-analysis\\platform-research\\normalized\\z\\z_merged.yearly.current.json",
+  "timezone": "Asia/Shanghai",
+  "categories": {
+    "Basketball": {
+      "summary": {
+        "count": 1137,
+        "pnl_sum": -96916.31000000052,
+        "pnl_avg": -85.23861917326343,
+        "pnl_median": -13.22,
+        "positive": 490,
+        "negative": 640,
+        "flat": 7,
+        "win_rate": 0.4309586631486368,
+        "size_median": 990
+      },
+      "profile": "deweight",
+      "best_hours": [
+        {
+          "label": 18,
+          "count": 50,
+          "pnl_sum": 25272.149999999998,
+          "pnl_avg": 505.443,
+          "pnl_median": 26,
+          "positive": 29,
+          "negative": 21,
+          "flat": 0,
+          "win_rate": 0.58,
+          "size_median": 2939.02
+        },
+        {
+          "label": 11,
+          "count": 22,
+          "pnl_sum": 8303.919999999998,
+          "pnl_avg": 377.450909090909,
+          "pnl_median": 32,
+          "positive": 13,
+          "negative": 9,
+          "flat": 0,
+          "win_rate": 0.5909090909090909,
+          "size_median": 1240
+        },
+        {
+          "label": 3,
+          "count": 65,
+          "pnl_sum": 20355,
+          "pnl_avg": 313.15384615384613,
+          "pnl_median": 17,
+          "positive": 35,
+          "negative": 30,
+          "flat": 0,
+          "win_rate": 0.5384615384615384,
+          "size_median": 716
+        }
+      ],
+      "worst_hours": [
+        {
+          "label": 14,
+          "count": 32,
+          "pnl_sum": -24267.780000000002,
+          "pnl_avg": -758.3681250000001,
+          "pnl_median": -410.04,
+          "positive": 7,
+          "negative": 25,
+          "flat": 0,
+          "win_rate": 0.21875,
+          "size_median": 1000
+        },
+        {
+          "label": 16,
+          "count": 34,
+          "pnl_sum": -22459.589999999997,
+          "pnl_avg": -660.5761764705882,
+          "pnl_median": -25.45,
+          "positive": 8,
+          "negative": 26,
+          "flat": 0,
+          "win_rate": 0.23529411764705882,
+          "size_median": 750
+        },
+        {
+          "label": 2,
+          "count": 112,
+          "pnl_sum": -53914.41000000006,
+          "pnl_avg": -481.37866071428624,
+          "pnl_median": -40.4,
+          "positive": 33,
+          "negative": 79,
+          "flat": 0,
+          "win_rate": 0.29464285714285715,
+          "size_median": 1077.62
+        }
+      ],
+      "best_weekdays": [
+        {
+          "label": "Tue",
+          "count": 146,
+          "pnl_sum": 65173.30000000001,
+          "pnl_avg": 446.39246575342474,
+          "pnl_median": 24,
+          "positive": 84,
+          "negative": 60,
+          "flat": 2,
+          "win_rate": 0.5753424657534246,
+          "size_median": 869.7
+        },
+        {
+          "label": "Mon",
+          "count": 174,
+          "pnl_sum": 9083.690000000015,
+          "pnl_avg": 52.20511494252882,
+          "pnl_median": 0,
+          "positive": 86,
+          "negative": 85,
+          "flat": 3,
+          "win_rate": 0.4942528735632184,
+          "size_median": 990
+        },
+        {
+          "label": "Sun",
+          "count": 218,
+          "pnl_sum": 7209.929999999805,
+          "pnl_avg": 33.073073394494514,
+          "pnl_median": -16.63,
+          "positive": 89,
+          "negative": 127,
+          "flat": 2,
+          "win_rate": 0.40825688073394495,
+          "size_median": 990
+        }
+      ],
+      "worst_weekdays": [
+        {
+          "label": "Wed",
+          "count": 153,
+          "pnl_sum": -56604.91000000006,
+          "pnl_avg": -369.9667320261442,
+          "pnl_median": -21.69,
+          "positive": 60,
+          "negative": 93,
+          "flat": 0,
+          "win_rate": 0.39215686274509803,
+          "size_median": 980
+        },
+        {
+          "label": "Sat",
+          "count": 204,
+          "pnl_sum": -60095.83999999994,
+          "pnl_avg": -294.58745098039185,
+          "pnl_median": -24.55,
+          "positive": 77,
+          "negative": 127,
+          "flat": 0,
+          "win_rate": 0.37745098039215685,
+          "size_median": 892.5
+        },
+        {
+          "label": "Thu",
+          "count": 137,
+          "pnl_sum": -39847.97,
+          "pnl_avg": -290.86109489051097,
+          "pnl_median": -21.74,
+          "positive": 52,
+          "negative": 85,
+          "flat": 0,
+          "win_rate": 0.3795620437956204,
+          "size_median": 718.76
+        }
+      ],
+      "best_months": [
+        {
+          "label": "2025-07",
+          "count": 48,
+          "pnl_sum": 17093.46,
+          "pnl_avg": 356.11375,
+          "pnl_median": 16,
+          "positive": 28,
+          "negative": 20,
+          "flat": 0,
+          "win_rate": 0.5833333333333334,
+          "size_median": 990
+        },
+        {
+          "label": "2025-01",
+          "count": 58,
+          "pnl_sum": 15393.310000000009,
+          "pnl_avg": 265.4018965517243,
+          "pnl_median": 13.66,
+          "positive": 31,
+          "negative": 27,
+          "flat": 0,
+          "win_rate": 0.5344827586206896,
+          "size_median": 830
+        },
+        {
+          "label": "2025-02",
+          "count": 24,
+          "pnl_sum": 6361.539999999999,
+          "pnl_avg": 265.0641666666666,
+          "pnl_median": 25.5,
+          "positive": 13,
+          "negative": 11,
+          "flat": 0,
+          "win_rate": 0.5416666666666666,
+          "size_median": 2980
+        },
+        {
+          "label": "2025-09",
+          "count": 57,
+          "pnl_sum": 11859.959999999997,
+          "pnl_avg": 208.0694736842105,
+          "pnl_median": -7,
+          "positive": 28,
+          "negative": 29,
+          "flat": 0,
+          "win_rate": 0.49122807017543857,
+          "size_median": 1906.98
+        }
+      ],
+      "worst_months": [
+        {
+          "label": "2025-05",
+          "count": 72,
+          "pnl_sum": -38045.54999999999,
+          "pnl_avg": -528.4104166666665,
+          "pnl_median": -25.78,
+          "positive": 22,
+          "negative": 50,
+          "flat": 0,
+          "win_rate": 0.3055555555555556,
+          "size_median": 852.59
+        },
+        {
+          "label": "2026-02",
+          "count": 77,
+          "pnl_sum": -39289.86,
+          "pnl_avg": -510.2579220779221,
+          "pnl_median": -46.05,
+          "positive": 26,
+          "negative": 50,
+          "flat": 1,
+          "win_rate": 0.33766233766233766,
+          "size_median": 1990
+        },
+        {
+          "label": "2025-10",
+          "count": 70,
+          "pnl_sum": -21895.25,
+          "pnl_avg": -312.7892857142857,
+          "pnl_median": -31.19,
+          "positive": 25,
+          "negative": 45,
+          "flat": 0,
+          "win_rate": 0.35714285714285715,
+          "size_median": 2970
+        },
+        {
+          "label": "2025-08",
+          "count": 57,
+          "pnl_sum": -10154.250000000007,
+          "pnl_avg": -178.1447368421054,
+          "pnl_median": -18.52,
+          "positive": 26,
+          "negative": 31,
+          "flat": 0,
+          "win_rate": 0.45614035087719296,
+          "size_median": 500
+        }
+      ]
+    },
+    "CS2": {
+      "summary": {
+        "count": 1120,
+        "pnl_sum": -15882.290000000095,
+        "pnl_avg": -14.180616071428657,
+        "pnl_median": -12.42,
+        "positive": 472,
+        "negative": 617,
+        "flat": 31,
+        "win_rate": 0.42142857142857143,
+        "size_median": 490
+      },
+      "profile": "observation",
+      "best_hours": [
+        {
+          "label": 23,
+          "count": 54,
+          "pnl_sum": 16802.219999999998,
+          "pnl_avg": 311.1522222222222,
+          "pnl_median": 20,
+          "positive": 35,
+          "negative": 17,
+          "flat": 2,
+          "win_rate": 0.6481481481481481,
+          "size_median": 699.39
+        },
+        {
+          "label": 7,
+          "count": 31,
+          "pnl_sum": 9180.410000000003,
+          "pnl_avg": 296.1422580645162,
+          "pnl_median": 41.93,
+          "positive": 16,
+          "negative": 15,
+          "flat": 0,
+          "win_rate": 0.5161290322580645,
+          "size_median": 990
+        },
+        {
+          "label": 19,
+          "count": 64,
+          "pnl_sum": 12510.699999999993,
+          "pnl_avg": 195.4796874999999,
+          "pnl_median": 0,
+          "positive": 31,
+          "negative": 31,
+          "flat": 2,
+          "win_rate": 0.484375,
+          "size_median": 480
+        }
+      ],
+      "worst_hours": [
+        {
+          "label": 2,
+          "count": 27,
+          "pnl_sum": -16817.81999999999,
+          "pnl_avg": -622.8822222222218,
+          "pnl_median": -36.12,
+          "positive": 4,
+          "negative": 22,
+          "flat": 1,
+          "win_rate": 0.14814814814814814,
+          "size_median": 490
+        },
+        {
+          "label": 16,
+          "count": 44,
+          "pnl_sum": -18561.110000000004,
+          "pnl_avg": -421.8434090909092,
+          "pnl_median": -20,
+          "positive": 11,
+          "negative": 29,
+          "flat": 4,
+          "win_rate": 0.25,
+          "size_median": 490
+        },
+        {
+          "label": 20,
+          "count": 97,
+          "pnl_sum": -22800.580000000013,
+          "pnl_avg": -235.057525773196,
+          "pnl_median": -18.46,
+          "positive": 36,
+          "negative": 59,
+          "flat": 2,
+          "win_rate": 0.3711340206185567,
+          "size_median": 490
+        }
+      ],
+      "best_weekdays": [
+        {
+          "label": "Tue",
+          "count": 95,
+          "pnl_sum": 27753.21,
+          "pnl_avg": 292.1390526315789,
+          "pnl_median": 57.82,
+          "positive": 64,
+          "negative": 29,
+          "flat": 2,
+          "win_rate": 0.6736842105263158,
+          "size_median": 400
+        },
+        {
+          "label": "Sat",
+          "count": 191,
+          "pnl_sum": 23606.909999999993,
+          "pnl_avg": 123.59638743455494,
+          "pnl_median": -10.13,
+          "positive": 81,
+          "negative": 101,
+          "flat": 9,
+          "win_rate": 0.42408376963350786,
+          "size_median": 480
+        },
+        {
+          "label": "Wed",
+          "count": 188,
+          "pnl_sum": -2737.4699999999903,
+          "pnl_avg": -14.561010638297821,
+          "pnl_median": -12.3,
+          "positive": 80,
+          "negative": 108,
+          "flat": 0,
+          "win_rate": 0.425531914893617,
+          "size_median": 280
+        }
+      ],
+      "worst_weekdays": [
+        {
+          "label": "Sun",
+          "count": 172,
+          "pnl_sum": -34299.219999999965,
+          "pnl_avg": -199.41406976744165,
+          "pnl_median": -18.37,
+          "positive": 56,
+          "negative": 114,
+          "flat": 2,
+          "win_rate": 0.32558139534883723,
+          "size_median": 490
+        },
+        {
+          "label": "Fri",
+          "count": 143,
+          "pnl_sum": -14521.329999999994,
+          "pnl_avg": -101.5477622377622,
+          "pnl_median": -15.17,
+          "positive": 55,
+          "negative": 82,
+          "flat": 6,
+          "win_rate": 0.38461538461538464,
+          "size_median": 490
+        },
+        {
+          "label": "Mon",
+          "count": 130,
+          "pnl_sum": -6828.0199999999895,
+          "pnl_avg": -52.523230769230686,
+          "pnl_median": -14,
+          "positive": 57,
+          "negative": 71,
+          "flat": 2,
+          "win_rate": 0.43846153846153846,
+          "size_median": 490
+        }
+      ],
+      "best_months": [
+        {
+          "label": "2025-12",
+          "count": 4,
+          "pnl_sum": 731.11,
+          "pnl_avg": 182.7775,
+          "pnl_median": 27,
+          "positive": 2,
+          "negative": 0,
+          "flat": 2,
+          "win_rate": 0.5,
+          "size_median": 490
+        },
+        {
+          "label": "2026-01",
+          "count": 149,
+          "pnl_sum": 23828.740000000027,
+          "pnl_avg": 159.92442953020154,
+          "pnl_median": 12.8,
+          "positive": 76,
+          "negative": 65,
+          "flat": 8,
+          "win_rate": 0.5100671140939598,
+          "size_median": 490
+        },
+        {
+          "label": "2025-04",
+          "count": 200,
+          "pnl_sum": 15105.700000000015,
+          "pnl_avg": 75.52850000000008,
+          "pnl_median": 11.3,
+          "positive": 102,
+          "negative": 98,
+          "flat": 0,
+          "win_rate": 0.51,
+          "size_median": 490
+        },
+        {
+          "label": "2025-01",
+          "count": 70,
+          "pnl_sum": 2256.3100000000063,
+          "pnl_avg": 32.23300000000009,
+          "pnl_median": -16.81,
+          "positive": 25,
+          "negative": 43,
+          "flat": 2,
+          "win_rate": 0.35714285714285715,
+          "size_median": 490
+        }
+      ],
+      "worst_months": [
+        {
+          "label": "2025-08",
+          "count": 197,
+          "pnl_sum": -30508.349999999948,
+          "pnl_avg": -154.86472081218247,
+          "pnl_median": -17.27,
+          "positive": 76,
+          "negative": 115,
+          "flat": 6,
+          "win_rate": 0.38578680203045684,
+          "size_median": 490
+        },
+        {
+          "label": "2026-02",
+          "count": 124,
+          "pnl_sum": -17194.61000000001,
+          "pnl_avg": -138.66620967741946,
+          "pnl_median": -20.43,
+          "positive": 44,
+          "negative": 78,
+          "flat": 2,
+          "win_rate": 0.3548387096774194,
+          "size_median": 843.48
+        },
+        {
+          "label": "2025-10",
+          "count": 19,
+          "pnl_sum": -2293.75,
+          "pnl_avg": -120.72368421052632,
+          "pnl_median": -13.33,
+          "positive": 8,
+          "negative": 11,
+          "flat": 0,
+          "win_rate": 0.42105263157894735,
+          "size_median": 490
+        },
+        {
+          "label": "2026-03",
+          "count": 9,
+          "pnl_sum": -690.1400000000001,
+          "pnl_avg": -76.68222222222224,
+          "pnl_median": -23.18,
+          "positive": 4,
+          "negative": 5,
+          "flat": 0,
+          "win_rate": 0.4444444444444444,
+          "size_median": 490
+        }
+      ]
+    },
+    "Dota2": {
+      "summary": {
+        "count": 4478,
+        "pnl_sum": 145301.85000000492,
+        "pnl_avg": 32.44793434569114,
+        "pnl_median": -7,
+        "positive": 2182,
+        "negative": 2248,
+        "flat": 48,
+        "win_rate": 0.4872711031710585,
+        "size_median": 490
+      },
+      "profile": "core",
+      "best_hours": [
+        {
+          "label": 0,
+          "count": 247,
+          "pnl_sum": 41989.46999999998,
+          "pnl_avg": 169.99785425101206,
+          "pnl_median": 32,
+          "positive": 155,
+          "negative": 88,
+          "flat": 4,
+          "win_rate": 0.6275303643724697,
+          "size_median": 490
+        },
+        {
+          "label": 23,
+          "count": 216,
+          "pnl_sum": 36609.250000000015,
+          "pnl_avg": 169.4872685185186,
+          "pnl_median": 11.8,
+          "positive": 110,
+          "negative": 103,
+          "flat": 3,
+          "win_rate": 0.5092592592592593,
+          "size_median": 449
+        },
+        {
+          "label": 5,
+          "count": 137,
+          "pnl_sum": 23006.560000000005,
+          "pnl_avg": 167.931094890511,
+          "pnl_median": -9,
+          "positive": 68,
+          "negative": 69,
+          "flat": 0,
+          "win_rate": 0.49635036496350365,
+          "size_median": 490
+        }
+      ],
+      "worst_hours": [
+        {
+          "label": 15,
+          "count": 209,
+          "pnl_sum": -30838.46999999995,
+          "pnl_avg": -147.55248803827726,
+          "pnl_median": 9,
+          "positive": 105,
+          "negative": 104,
+          "flat": 0,
+          "win_rate": 0.5023923444976076,
+          "size_median": 490
+        },
+        {
+          "label": 7,
+          "count": 110,
+          "pnl_sum": -10727.48999999999,
+          "pnl_avg": -97.52263636363628,
+          "pnl_median": -16.5,
+          "positive": 41,
+          "negative": 69,
+          "flat": 0,
+          "win_rate": 0.37272727272727274,
+          "size_median": 300
+        },
+        {
+          "label": 19,
+          "count": 308,
+          "pnl_sum": -28304.940000000017,
+          "pnl_avg": -91.8991558441559,
+          "pnl_median": -16.67,
+          "positive": 128,
+          "negative": 171,
+          "flat": 9,
+          "win_rate": 0.4155844155844156,
+          "size_median": 490
+        }
+      ],
+      "best_weekdays": [
+        {
+          "label": "Sat",
+          "count": 652,
+          "pnl_sum": 75966.7099999999,
+          "pnl_avg": 116.51335889570538,
+          "pnl_median": 17,
+          "positive": 361,
+          "negative": 287,
+          "flat": 4,
+          "win_rate": 0.553680981595092,
+          "size_median": 490
+        },
+        {
+          "label": "Fri",
+          "count": 612,
+          "pnl_sum": 59422.24999999973,
+          "pnl_avg": 97.09517973856165,
+          "pnl_median": 7.5,
+          "positive": 312,
+          "negative": 295,
+          "flat": 5,
+          "win_rate": 0.5098039215686274,
+          "size_median": 490
+        },
+        {
+          "label": "Mon",
+          "count": 577,
+          "pnl_sum": 33812.37999999978,
+          "pnl_avg": 58.600311958405165,
+          "pnl_median": 10.5,
+          "positive": 294,
+          "negative": 273,
+          "flat": 10,
+          "win_rate": 0.5095320623916811,
+          "size_median": 400
+        }
+      ],
+      "worst_weekdays": [
+        {
+          "label": "Sun",
+          "count": 577,
+          "pnl_sum": -48792.110000000466,
+          "pnl_avg": -84.5617157712313,
+          "pnl_median": -10.27,
+          "positive": 267,
+          "negative": 305,
+          "flat": 5,
+          "win_rate": 0.462738301559792,
+          "size_median": 490
+        },
+        {
+          "label": "Thu",
+          "count": 595,
+          "pnl_sum": -3973.0900000000256,
+          "pnl_avg": -6.677462184873993,
+          "pnl_median": -8.97,
+          "positive": 286,
+          "negative": 307,
+          "flat": 2,
+          "win_rate": 0.48067226890756304,
+          "size_median": 450
+        },
+        {
+          "label": "Wed",
+          "count": 689,
+          "pnl_sum": 9848.519999999902,
+          "pnl_avg": 14.293933236574604,
+          "pnl_median": -9,
+          "positive": 324,
+          "negative": 356,
+          "flat": 9,
+          "win_rate": 0.4702467343976778,
+          "size_median": 490
+        }
+      ],
+      "best_months": [
+        {
+          "label": "2025-09",
+          "count": 349,
+          "pnl_sum": 67451.35999999997,
+          "pnl_avg": 193.2703724928366,
+          "pnl_median": 17,
+          "positive": 185,
+          "negative": 154,
+          "flat": 10,
+          "win_rate": 0.5300859598853869,
+          "size_median": 490
+        },
+        {
+          "label": "2025-07",
+          "count": 425,
+          "pnl_sum": 77249.88999999998,
+          "pnl_avg": 181.7644470588235,
+          "pnl_median": 21,
+          "positive": 233,
+          "negative": 186,
+          "flat": 6,
+          "win_rate": 0.548235294117647,
+          "size_median": 490
+        },
+        {
+          "label": "2025-12",
+          "count": 108,
+          "pnl_sum": 18687.259999999995,
+          "pnl_avg": 173.03018518518513,
+          "pnl_median": 10.1,
+          "positive": 57,
+          "negative": 51,
+          "flat": 0,
+          "win_rate": 0.5277777777777778,
+          "size_median": 200
+        },
+        {
+          "label": "2025-10",
+          "count": 386,
+          "pnl_sum": 45808.65000000003,
+          "pnl_avg": 118.67525906735759,
+          "pnl_median": 7.56,
+          "positive": 194,
+          "negative": 187,
+          "flat": 5,
+          "win_rate": 0.5025906735751295,
+          "size_median": 490
+        }
+      ],
+      "worst_months": [
+        {
+          "label": "2025-03",
+          "count": 200,
+          "pnl_sum": -22787.24999999987,
+          "pnl_avg": -113.93624999999935,
+          "pnl_median": -12.12,
+          "positive": 84,
+          "negative": 114,
+          "flat": 2,
+          "win_rate": 0.42,
+          "size_median": 490
+        },
+        {
+          "label": "2025-05",
+          "count": 258,
+          "pnl_sum": -26055.1499999999,
+          "pnl_avg": -100.9889534883717,
+          "pnl_median": -11.7,
+          "positive": 114,
+          "negative": 142,
+          "flat": 2,
+          "win_rate": 0.4418604651162791,
+          "size_median": 400
+        },
+        {
+          "label": "2025-11",
+          "count": 339,
+          "pnl_sum": -24622.100000000093,
+          "pnl_avg": -72.63156342182918,
+          "pnl_median": -10.86,
+          "positive": 162,
+          "negative": 177,
+          "flat": 0,
+          "win_rate": 0.4778761061946903,
+          "size_median": 490
+        },
+        {
+          "label": "2026-01",
+          "count": 509,
+          "pnl_sum": -23646.439999999988,
+          "pnl_avg": -46.456660117878165,
+          "pnl_median": -17,
+          "positive": 215,
+          "negative": 292,
+          "flat": 2,
+          "win_rate": 0.4223968565815324,
+          "size_median": 490
+        }
+      ]
+    },
+    "Esports": {
+      "summary": {
+        "count": 17019,
+        "pnl_sum": -147721.52999996848,
+        "pnl_avg": -8.6798008108566,
+        "pnl_median": -12.3,
+        "positive": 7461,
+        "negative": 9240,
+        "flat": 318,
+        "win_rate": 0.4383923849814913,
+        "size_median": 490
+      },
+      "profile": "observation",
+      "best_hours": [
+        {
+          "label": 0,
+          "count": 826,
+          "pnl_sum": 91890.12999999989,
+          "pnl_avg": 111.2471307506052,
+          "pnl_median": 5.02,
+          "positive": 414,
+          "negative": 385,
+          "flat": 27,
+          "win_rate": 0.5012106537530266,
+          "size_median": 490
+        },
+        {
+          "label": 4,
+          "count": 678,
+          "pnl_sum": 52362.98999999999,
+          "pnl_avg": 77.23154867256636,
+          "pnl_median": -12.65,
+          "positive": 302,
+          "negative": 367,
+          "flat": 9,
+          "win_rate": 0.44542772861356933,
+          "size_median": 490
+        },
+        {
+          "label": 9,
+          "count": 310,
+          "pnl_sum": 19269.869999999995,
+          "pnl_avg": 62.16087096774192,
+          "pnl_median": 0,
+          "positive": 147,
+          "negative": 155,
+          "flat": 8,
+          "win_rate": 0.47419354838709676,
+          "size_median": 490
+        }
+      ],
+      "worst_hours": [
+        {
+          "label": 18,
+          "count": 921,
+          "pnl_sum": -99447.26000000014,
+          "pnl_avg": -107.97748099891437,
+          "pnl_median": -15.93,
+          "positive": 353,
+          "negative": 536,
+          "flat": 32,
+          "win_rate": 0.38327904451682954,
+          "size_median": 490
+        },
+        {
+          "label": 2,
+          "count": 1105,
+          "pnl_sum": -100266.25000000003,
+          "pnl_avg": -90.73868778280546,
+          "pnl_median": -20.2,
+          "positive": 439,
+          "negative": 651,
+          "flat": 15,
+          "win_rate": 0.39728506787330314,
+          "size_median": 490
+        },
+        {
+          "label": 17,
+          "count": 704,
+          "pnl_sum": -48136.730000000185,
+          "pnl_avg": -68.37603693181845,
+          "pnl_median": -14.74,
+          "positive": 297,
+          "negative": 403,
+          "flat": 4,
+          "win_rate": 0.421875,
+          "size_median": 490
+        }
+      ],
+      "best_weekdays": [
+        {
+          "label": "Thu",
+          "count": 2376,
+          "pnl_sum": 123918.59000000023,
+          "pnl_avg": 52.154288720538815,
+          "pnl_median": -9.71,
+          "positive": 1113,
+          "negative": 1232,
+          "flat": 31,
+          "win_rate": 0.4684343434343434,
+          "size_median": 490
+        },
+        {
+          "label": "Sun",
+          "count": 2947,
+          "pnl_sum": 97670.45999999854,
+          "pnl_avg": 33.14233457753598,
+          "pnl_median": -11.67,
+          "positive": 1322,
+          "negative": 1580,
+          "flat": 45,
+          "win_rate": 0.44859178825924667,
+          "size_median": 490
+        },
+        {
+          "label": "Fri",
+          "count": 2405,
+          "pnl_sum": -32958.55999999867,
+          "pnl_avg": -13.7041829521824,
+          "pnl_median": -13.38,
+          "positive": 1033,
+          "negative": 1323,
+          "flat": 49,
+          "win_rate": 0.42952182952182955,
+          "size_median": 490
+        }
+      ],
+      "worst_weekdays": [
+        {
+          "label": "Sat",
+          "count": 2608,
+          "pnl_sum": -155403.1100000022,
+          "pnl_avg": -59.58708205521557,
+          "pnl_median": -15.38,
+          "positive": 1088,
+          "negative": 1492,
+          "flat": 28,
+          "win_rate": 0.4171779141104294,
+          "size_median": 490
+        },
+        {
+          "label": "Tue",
+          "count": 1999,
+          "pnl_sum": -58788.7900000005,
+          "pnl_avg": -29.40909954977514,
+          "pnl_median": -11.42,
+          "positive": 886,
+          "negative": 1071,
+          "flat": 42,
+          "win_rate": 0.4432216108054027,
+          "size_median": 490
+        },
+        {
+          "label": "Mon",
+          "count": 2246,
+          "pnl_sum": -62116.43000000046,
+          "pnl_avg": -27.656469278717925,
+          "pnl_median": -12.7,
+          "positive": 941,
+          "negative": 1230,
+          "flat": 75,
+          "win_rate": 0.41896705253784505,
+          "size_median": 490
+        }
+      ],
+      "best_months": [
+        {
+          "label": "2026-01",
+          "count": 1704,
+          "pnl_sum": 141075.04999999923,
+          "pnl_avg": 82.79052230046904,
+          "pnl_median": -10.61,
+          "positive": 799,
+          "negative": 876,
+          "flat": 29,
+          "win_rate": 0.4688967136150235,
+          "size_median": 490
+        },
+        {
+          "label": "2025-11",
+          "count": 502,
+          "pnl_sum": 39434.42999999987,
+          "pnl_avg": 78.55464143426269,
+          "pnl_median": 12.7,
+          "positive": 262,
+          "negative": 215,
+          "flat": 25,
+          "win_rate": 0.5219123505976095,
+          "size_median": 242.5
+        },
+        {
+          "label": "2026-02",
+          "count": 958,
+          "pnl_sum": 27151.169999999605,
+          "pnl_avg": 28.341513569936957,
+          "pnl_median": -12.5,
+          "positive": 439,
+          "negative": 509,
+          "flat": 10,
+          "win_rate": 0.4582463465553236,
+          "size_median": 490
+        },
+        {
+          "label": "2025-06",
+          "count": 705,
+          "pnl_sum": 18471.71999999992,
+          "pnl_avg": 26.201021276595633,
+          "pnl_median": -11.21,
+          "positive": 321,
+          "negative": 380,
+          "flat": 4,
+          "win_rate": 0.4553191489361702,
+          "size_median": 490
+        }
+      ],
+      "worst_months": [
+        {
+          "label": "2025-09",
+          "count": 1403,
+          "pnl_sum": -105271.34999999913,
+          "pnl_avg": -75.0330363506765,
+          "pnl_median": -13.73,
+          "positive": 594,
+          "negative": 767,
+          "flat": 42,
+          "win_rate": 0.4233784746970777,
+          "size_median": 490
+        },
+        {
+          "label": "2026-03",
+          "count": 552,
+          "pnl_sum": -25374.259999999907,
+          "pnl_avg": -45.96786231884041,
+          "pnl_median": -19.37,
+          "positive": 205,
+          "negative": 330,
+          "flat": 17,
+          "win_rate": 0.3713768115942029,
+          "size_median": 490
+        },
+        {
+          "label": "2025-10",
+          "count": 1022,
+          "pnl_sum": -43244.380000000674,
+          "pnl_avg": -42.31348336594978,
+          "pnl_median": -17.33,
+          "positive": 417,
+          "negative": 591,
+          "flat": 14,
+          "win_rate": 0.4080234833659491,
+          "size_median": 490
+        },
+        {
+          "label": "2025-07",
+          "count": 1530,
+          "pnl_sum": -64133.13999999917,
+          "pnl_avg": -41.91708496731972,
+          "pnl_median": -15.78,
+          "positive": 652,
+          "negative": 866,
+          "flat": 12,
+          "win_rate": 0.4261437908496732,
+          "size_median": 490
+        }
+      ]
+    },
+    "Football": {
+      "summary": {
+        "count": 3359,
+        "pnl_sum": -113331.52999999971,
+        "pnl_avg": -33.73966359035418,
+        "pnl_median": -7,
+        "positive": 1243,
+        "negative": 1696,
+        "flat": 420,
+        "win_rate": 0.3700506103006847,
+        "size_median": 280
+      },
+      "profile": "cautious",
+      "best_hours": [
+        {
+          "label": 10,
+          "count": 78,
+          "pnl_sum": 12229.210000000001,
+          "pnl_avg": 156.7847435897436,
+          "pnl_median": 17,
+          "positive": 42,
+          "negative": 29,
+          "flat": 7,
+          "win_rate": 0.5384615384615384,
+          "size_median": 980
+        },
+        {
+          "label": 17,
+          "count": 225,
+          "pnl_sum": 21442.420000000024,
+          "pnl_avg": 95.29964444444455,
+          "pnl_median": 0,
+          "positive": 100,
+          "negative": 109,
+          "flat": 16,
+          "win_rate": 0.4444444444444444,
+          "size_median": 990
+        },
+        {
+          "label": 0,
+          "count": 143,
+          "pnl_sum": 8339.150000000009,
+          "pnl_avg": 58.31573426573433,
+          "pnl_median": 0,
+          "positive": 62,
+          "negative": 70,
+          "flat": 11,
+          "win_rate": 0.43356643356643354,
+          "size_median": 46.4
+        }
+      ],
+      "worst_hours": [
+        {
+          "label": 13,
+          "count": 120,
+          "pnl_sum": -23085.709999999985,
+          "pnl_avg": -192.38091666666654,
+          "pnl_median": -12.87,
+          "positive": 28,
+          "negative": 71,
+          "flat": 21,
+          "win_rate": 0.23333333333333334,
+          "size_median": 972.99
+        },
+        {
+          "label": 3,
+          "count": 61,
+          "pnl_sum": -10712.970000000005,
+          "pnl_avg": -175.62245901639352,
+          "pnl_median": -7,
+          "positive": 15,
+          "negative": 31,
+          "flat": 15,
+          "win_rate": 0.2459016393442623,
+          "size_median": 58
+        },
+        {
+          "label": 20,
+          "count": 185,
+          "pnl_sum": -24405.999999999964,
+          "pnl_avg": -131.92432432432412,
+          "pnl_median": -15.77,
+          "positive": 54,
+          "negative": 117,
+          "flat": 14,
+          "win_rate": 0.2918918918918919,
+          "size_median": 513.31
+        }
+      ],
+      "best_weekdays": [
+        {
+          "label": "Thu",
+          "count": 236,
+          "pnl_sum": 9037.110000000006,
+          "pnl_avg": 38.29283898305087,
+          "pnl_median": 0,
+          "positive": 89,
+          "negative": 109,
+          "flat": 38,
+          "win_rate": 0.3771186440677966,
+          "size_median": 550
+        },
+        {
+          "label": "Mon",
+          "count": 417,
+          "pnl_sum": 9854.590000000033,
+          "pnl_avg": 23.63211031175068,
+          "pnl_median": 0,
+          "positive": 168,
+          "negative": 186,
+          "flat": 63,
+          "win_rate": 0.4028776978417266,
+          "size_median": 110
+        },
+        {
+          "label": "Fri",
+          "count": 342,
+          "pnl_sum": 6155.080000000082,
+          "pnl_avg": 17.997309941520708,
+          "pnl_median": 0,
+          "positive": 132,
+          "negative": 154,
+          "flat": 56,
+          "win_rate": 0.38596491228070173,
+          "size_median": 790
+        }
+      ],
+      "worst_weekdays": [
+        {
+          "label": "Tue",
+          "count": 483,
+          "pnl_sum": -48518.08999999984,
+          "pnl_avg": -100.45153209109696,
+          "pnl_median": -9,
+          "positive": 157,
+          "negative": 259,
+          "flat": 67,
+          "win_rate": 0.3250517598343685,
+          "size_median": 86
+        },
+        {
+          "label": "Sun",
+          "count": 684,
+          "pnl_sum": -66201.79999999993,
+          "pnl_avg": -96.78625730994142,
+          "pnl_median": -12.3,
+          "positive": 239,
+          "negative": 385,
+          "flat": 60,
+          "win_rate": 0.34941520467836257,
+          "size_median": 430
+        },
+        {
+          "label": "Wed",
+          "count": 402,
+          "pnl_sum": -23189.579999999936,
+          "pnl_avg": -57.685522388059546,
+          "pnl_median": 0,
+          "positive": 162,
+          "negative": 199,
+          "flat": 41,
+          "win_rate": 0.40298507462686567,
+          "size_median": 634
+        }
+      ],
+      "best_months": [
+        {
+          "label": "2026-01",
+          "count": 163,
+          "pnl_sum": 22974.58000000001,
+          "pnl_avg": 140.94834355828226,
+          "pnl_median": 0,
+          "positive": 73,
+          "negative": 72,
+          "flat": 18,
+          "win_rate": 0.44785276073619634,
+          "size_median": 692.6
+        },
+        {
+          "label": "2025-05",
+          "count": 365,
+          "pnl_sum": 25841.53000000018,
+          "pnl_avg": 70.79871232876762,
+          "pnl_median": 0,
+          "positive": 163,
+          "negative": 162,
+          "flat": 40,
+          "win_rate": 0.4465753424657534,
+          "size_median": 126.3
+        },
+        {
+          "label": "2025-12",
+          "count": 124,
+          "pnl_sum": 8509.079999999998,
+          "pnl_avg": 68.6216129032258,
+          "pnl_median": 0,
+          "positive": 51,
+          "negative": 58,
+          "flat": 15,
+          "win_rate": 0.4112903225806452,
+          "size_median": 197
+        },
+        {
+          "label": "2025-02",
+          "count": 231,
+          "pnl_sum": 6672.239999999973,
+          "pnl_avg": 28.88415584415573,
+          "pnl_median": 0,
+          "positive": 107,
+          "negative": 100,
+          "flat": 24,
+          "win_rate": 0.46320346320346323,
+          "size_median": 942.4
+        }
+      ],
+      "worst_months": [
+        {
+          "label": "2025-07",
+          "count": 54,
+          "pnl_sum": -14623.809999999994,
+          "pnl_avg": -270.8112962962962,
+          "pnl_median": -20.83,
+          "positive": 12,
+          "negative": 40,
+          "flat": 2,
+          "win_rate": 0.2222222222222222,
+          "size_median": 82.4
+        },
+        {
+          "label": "2025-06",
+          "count": 259,
+          "pnl_sum": -43230.79999999998,
+          "pnl_avg": -166.91428571428565,
+          "pnl_median": -8.56,
+          "positive": 93,
+          "negative": 133,
+          "flat": 33,
+          "win_rate": 0.3590733590733591,
+          "size_median": 430
+        },
+        {
+          "label": "2025-08",
+          "count": 262,
+          "pnl_sum": -33996.15000000001,
+          "pnl_avg": -129.7562977099237,
+          "pnl_median": -11.33,
+          "positive": 97,
+          "negative": 139,
+          "flat": 26,
+          "win_rate": 0.3702290076335878,
+          "size_median": 250
+        },
+        {
+          "label": "2026-03",
+          "count": 165,
+          "pnl_sum": -16124.58999999999,
+          "pnl_avg": -97.72478787878781,
+          "pnl_median": -18.15,
+          "positive": 51,
+          "negative": 101,
+          "flat": 13,
+          "win_rate": 0.3090909090909091,
+          "size_median": 807.2
+        }
+      ]
+    },
+    "LoL": {
+      "summary": {
+        "count": 566,
+        "pnl_sum": 19842.74000000005,
+        "pnl_avg": 35.05784452296828,
+        "pnl_median": -11.59,
+        "positive": 264,
+        "negative": 297,
+        "flat": 5,
+        "win_rate": 0.4664310954063604,
+        "size_median": 490
+      },
+      "profile": "core",
+      "best_hours": [
+        {
+          "label": 23,
+          "count": 49,
+          "pnl_sum": 26949.36,
+          "pnl_avg": 549.9869387755102,
+          "pnl_median": 43.34,
+          "positive": 32,
+          "negative": 17,
+          "flat": 0,
+          "win_rate": 0.6530612244897959,
+          "size_median": 490
+        },
+        {
+          "label": 0,
+          "count": 20,
+          "pnl_sum": 9193.89,
+          "pnl_avg": 459.69449999999995,
+          "pnl_median": 100,
+          "positive": 15,
+          "negative": 5,
+          "flat": 0,
+          "win_rate": 0.75,
+          "size_median": 490
+        },
+        {
+          "label": 21,
+          "count": 45,
+          "pnl_sum": 12861.020000000002,
+          "pnl_avg": 285.8004444444445,
+          "pnl_median": 16.24,
+          "positive": 25,
+          "negative": 20,
+          "flat": 0,
+          "win_rate": 0.5555555555555556,
+          "size_median": 400
+        }
+      ],
+      "worst_hours": [
+        {
+          "label": 1,
+          "count": 25,
+          "pnl_sum": -17935.730000000003,
+          "pnl_avg": -717.4292000000002,
+          "pnl_median": -273.22,
+          "positive": 3,
+          "negative": 22,
+          "flat": 0,
+          "win_rate": 0.12,
+          "size_median": 711.95
+        },
+        {
+          "label": 2,
+          "count": 34,
+          "pnl_sum": -9260.440000000002,
+          "pnl_avg": -272.36588235294124,
+          "pnl_median": -90.5,
+          "positive": 7,
+          "negative": 27,
+          "flat": 0,
+          "win_rate": 0.20588235294117646,
+          "size_median": 711.95
+        },
+        {
+          "label": 4,
+          "count": 34,
+          "pnl_sum": -4909.029999999998,
+          "pnl_avg": -144.38323529411758,
+          "pnl_median": -22.95,
+          "positive": 11,
+          "negative": 20,
+          "flat": 3,
+          "win_rate": 0.3235294117647059,
+          "size_median": 490
+        }
+      ],
+      "best_weekdays": [
+        {
+          "label": "Sun",
+          "count": 127,
+          "pnl_sum": 42596.16,
+          "pnl_avg": 335.4028346456693,
+          "pnl_median": 23,
+          "positive": 70,
+          "negative": 57,
+          "flat": 0,
+          "win_rate": 0.5511811023622047,
+          "size_median": 490
+        },
+        {
+          "label": "Fri",
+          "count": 134,
+          "pnl_sum": 24229.100000000006,
+          "pnl_avg": 180.81417910447766,
+          "pnl_median": 19,
+          "positive": 71,
+          "negative": 63,
+          "flat": 0,
+          "win_rate": 0.5298507462686567,
+          "size_median": 490
+        },
+        {
+          "label": "Tue",
+          "count": 43,
+          "pnl_sum": 5841.77,
+          "pnl_avg": 135.8551162790698,
+          "pnl_median": 11,
+          "positive": 23,
+          "negative": 20,
+          "flat": 0,
+          "win_rate": 0.5348837209302325,
+          "size_median": 693.83
+        }
+      ],
+      "worst_weekdays": [
+        {
+          "label": "Wed",
+          "count": 103,
+          "pnl_sum": -45269.30999999999,
+          "pnl_avg": -439.5078640776698,
+          "pnl_median": -57,
+          "positive": 32,
+          "negative": 68,
+          "flat": 3,
+          "win_rate": 0.3106796116504854,
+          "size_median": 490
+        },
+        {
+          "label": "Sat",
+          "count": 67,
+          "pnl_sum": -5390.6799999999985,
+          "pnl_avg": -80.45791044776117,
+          "pnl_median": -26.3,
+          "positive": 24,
+          "negative": 43,
+          "flat": 0,
+          "win_rate": 0.3582089552238806,
+          "size_median": 490
+        },
+        {
+          "label": "Thu",
+          "count": 56,
+          "pnl_sum": -3806.2600000000007,
+          "pnl_avg": -67.96892857142858,
+          "pnl_median": -15.75,
+          "positive": 23,
+          "negative": 31,
+          "flat": 2,
+          "win_rate": 0.4107142857142857,
+          "size_median": 490
+        }
+      ],
+      "best_months": [
+        {
+          "label": "2026-03",
+          "count": 7,
+          "pnl_sum": 13479.92,
+          "pnl_avg": 1925.702857142857,
+          "pnl_median": 259.9,
+          "positive": 5,
+          "negative": 2,
+          "flat": 0,
+          "win_rate": 0.7142857142857143,
+          "size_median": 1727.98
+        },
+        {
+          "label": "2026-01",
+          "count": 103,
+          "pnl_sum": 25052.449999999997,
+          "pnl_avg": 243.2276699029126,
+          "pnl_median": 17,
+          "positive": 53,
+          "negative": 50,
+          "flat": 0,
+          "win_rate": 0.5145631067961165,
+          "size_median": 490
+        },
+        {
+          "label": "2025-05",
+          "count": 65,
+          "pnl_sum": 12890.209999999997,
+          "pnl_avg": 198.31092307692305,
+          "pnl_median": 32.2,
+          "positive": 45,
+          "negative": 20,
+          "flat": 0,
+          "win_rate": 0.6923076923076923,
+          "size_median": 300
+        },
+        {
+          "label": "2026-02",
+          "count": 121,
+          "pnl_sum": 18298.679999999997,
+          "pnl_avg": 151.2287603305785,
+          "pnl_median": -19.91,
+          "positive": 55,
+          "negative": 66,
+          "flat": 0,
+          "win_rate": 0.45454545454545453,
+          "size_median": 490
+        }
+      ],
+      "worst_months": [
+        {
+          "label": "2025-10",
+          "count": 169,
+          "pnl_sum": -35861.59000000001,
+          "pnl_avg": -212.19875739644976,
+          "pnl_median": -20,
+          "positive": 75,
+          "negative": 94,
+          "flat": 0,
+          "win_rate": 0.4437869822485207,
+          "size_median": 711.96
+        },
+        {
+          "label": "2025-09",
+          "count": 48,
+          "pnl_sum": -10132.310000000001,
+          "pnl_avg": -211.08979166666668,
+          "pnl_median": -50,
+          "positive": 13,
+          "negative": 35,
+          "flat": 0,
+          "win_rate": 0.2708333333333333,
+          "size_median": 490
+        },
+        {
+          "label": "2025-08",
+          "count": 18,
+          "pnl_sum": -1814.6099999999997,
+          "pnl_avg": -100.81166666666665,
+          "pnl_median": -7.33,
+          "positive": 8,
+          "negative": 10,
+          "flat": 0,
+          "win_rate": 0.4444444444444444,
+          "size_median": 490
+        },
+        {
+          "label": "2025-02",
+          "count": 20,
+          "pnl_sum": -1928.8599999999997,
+          "pnl_avg": -96.44299999999998,
+          "pnl_median": -32,
+          "positive": 6,
+          "negative": 14,
+          "flat": 0,
+          "win_rate": 0.3,
+          "size_median": 700
+        }
+      ]
+    },
+    "Other": {
+      "summary": {
+        "count": 230,
+        "pnl_sum": -23556.730000000025,
+        "pnl_avg": -102.42056521739141,
+        "pnl_median": -15,
+        "positive": 78,
+        "negative": 140,
+        "flat": 12,
+        "win_rate": 0.3391304347826087,
+        "size_median": 970
+      },
+      "profile": "observation",
+      "best_hours": [
+        {
+          "label": 1,
+          "count": 20,
+          "pnl_sum": 4698.75,
+          "pnl_avg": 234.9375,
+          "pnl_median": 35.4,
+          "positive": 13,
+          "negative": 7,
+          "flat": 0,
+          "win_rate": 0.65,
+          "size_median": 980
+        }
+      ],
+      "worst_hours": [
+        {
+          "label": 1,
+          "count": 20,
+          "pnl_sum": 4698.75,
+          "pnl_avg": 234.9375,
+          "pnl_median": 35.4,
+          "positive": 13,
+          "negative": 7,
+          "flat": 0,
+          "win_rate": 0.65,
+          "size_median": 980
+        }
+      ],
+      "best_weekdays": [
+        {
+          "label": "Sun",
+          "count": 66,
+          "pnl_sum": 9161.739999999998,
+          "pnl_avg": 138.8142424242424,
+          "pnl_median": 23,
+          "positive": 35,
+          "negative": 29,
+          "flat": 2,
+          "win_rate": 0.5303030303030303,
+          "size_median": 990
+        },
+        {
+          "label": "Thu",
+          "count": 16,
+          "pnl_sum": -722.96,
+          "pnl_avg": -45.185,
+          "pnl_median": -9,
+          "positive": 6,
+          "negative": 10,
+          "flat": 0,
+          "win_rate": 0.375,
+          "size_median": 970
+        },
+        {
+          "label": "Wed",
+          "count": 12,
+          "pnl_sum": -617.27,
+          "pnl_avg": -51.439166666666665,
+          "pnl_median": 0,
+          "positive": 4,
+          "negative": 6,
+          "flat": 2,
+          "win_rate": 0.3333333333333333,
+          "size_median": 990
+        }
+      ],
+      "worst_weekdays": [
+        {
+          "label": "Fri",
+          "count": 50,
+          "pnl_sum": -19892.88000000001,
+          "pnl_avg": -397.85760000000016,
+          "pnl_median": -40.6,
+          "positive": 4,
+          "negative": 42,
+          "flat": 4,
+          "win_rate": 0.08,
+          "size_median": 980
+        },
+        {
+          "label": "Sat",
+          "count": 82,
+          "pnl_sum": -11069.660000000003,
+          "pnl_avg": -134.99585365853662,
+          "pnl_median": -15,
+          "positive": 29,
+          "negative": 51,
+          "flat": 2,
+          "win_rate": 0.35365853658536583,
+          "size_median": 802.6
+        },
+        {
+          "label": "Wed",
+          "count": 12,
+          "pnl_sum": -617.27,
+          "pnl_avg": -51.439166666666665,
+          "pnl_median": 0,
+          "positive": 4,
+          "negative": 6,
+          "flat": 2,
+          "win_rate": 0.3333333333333333,
+          "size_median": 990
+        }
+      ],
+      "best_months": [
+        {
+          "label": "2025-08",
+          "count": 13,
+          "pnl_sum": 3722.02,
+          "pnl_avg": 286.3092307692308,
+          "pnl_median": 32.3,
+          "positive": 9,
+          "negative": 4,
+          "flat": 0,
+          "win_rate": 0.6923076923076923,
+          "size_median": 102.4
+        },
+        {
+          "label": "2025-06",
+          "count": 21,
+          "pnl_sum": 4993.469999999999,
+          "pnl_avg": 237.7842857142857,
+          "pnl_median": 24,
+          "positive": 13,
+          "negative": 8,
+          "flat": 0,
+          "win_rate": 0.6190476190476191,
+          "size_median": 615.4
+        },
+        {
+          "label": "2025-02",
+          "count": 14,
+          "pnl_sum": 3291.67,
+          "pnl_avg": 235.11928571428572,
+          "pnl_median": 29.6,
+          "positive": 10,
+          "negative": 4,
+          "flat": 0,
+          "win_rate": 0.7142857142857143,
+          "size_median": 990
+        },
+        {
+          "label": "2025-10",
+          "count": 6,
+          "pnl_sum": 1369.7199999999998,
+          "pnl_avg": 228.28666666666663,
+          "pnl_median": 15,
+          "positive": 4,
+          "negative": 2,
+          "flat": 0,
+          "win_rate": 0.6666666666666666,
+          "size_median": 990
+        }
+      ],
+      "worst_months": [
+        {
+          "label": "2025-11",
+          "count": 34,
+          "pnl_sum": -20394.77,
+          "pnl_avg": -599.8461764705883,
+          "pnl_median": -218,
+          "positive": 4,
+          "negative": 30,
+          "flat": 0,
+          "win_rate": 0.11764705882352941,
+          "size_median": 990
+        },
+        {
+          "label": "2025-01",
+          "count": 2,
+          "pnl_sum": -1045.3700000000001,
+          "pnl_avg": -522.6850000000001,
+          "pnl_median": -15.19,
+          "positive": 0,
+          "negative": 2,
+          "flat": 0,
+          "win_rate": 0,
+          "size_median": 990
+        },
+        {
+          "label": "2026-02",
+          "count": 10,
+          "pnl_sum": -3786.24,
+          "pnl_avg": -378.62399999999997,
+          "pnl_median": -10.51,
+          "positive": 2,
+          "negative": 6,
+          "flat": 2,
+          "win_rate": 0.2,
+          "size_median": 990
+        },
+        {
+          "label": "2026-01",
+          "count": 34,
+          "pnl_sum": -12186.02,
+          "pnl_avg": -358.4123529411765,
+          "pnl_median": -70,
+          "positive": 0,
+          "negative": 30,
+          "flat": 4,
+          "win_rate": 0,
+          "size_median": 980
+        }
+      ]
+    },
+    "Valorant": {
+      "summary": {
+        "count": 128,
+        "pnl_sum": -11449.03000000002,
+        "pnl_avg": -89.44554687500016,
+        "pnl_median": -21.6,
+        "positive": 47,
+        "negative": 81,
+        "flat": 0,
+        "win_rate": 0.3671875,
+        "size_median": 490
+      },
+      "profile": "observation",
+      "best_hours": [],
+      "worst_hours": [],
+      "best_weekdays": [
+        {
+          "label": "Sun",
+          "count": 12,
+          "pnl_sum": 843.9599999999999,
+          "pnl_avg": 70.33,
+          "pnl_median": 20.2,
+          "positive": 6,
+          "negative": 6,
+          "flat": 0,
+          "win_rate": 0.5,
+          "size_median": 36.8
+        },
+        {
+          "label": "Thu",
+          "count": 29,
+          "pnl_sum": -2250.8199999999997,
+          "pnl_avg": -77.61448275862068,
+          "pnl_median": -22.25,
+          "positive": 12,
+          "negative": 17,
+          "flat": 0,
+          "win_rate": 0.41379310344827586,
+          "size_median": 490
+        },
+        {
+          "label": "Sat",
+          "count": 54,
+          "pnl_sum": -4988.6600000000035,
+          "pnl_avg": -92.38259259259266,
+          "pnl_median": -34.2,
+          "positive": 18,
+          "negative": 36,
+          "flat": 0,
+          "win_rate": 0.3333333333333333,
+          "size_median": 697.74
+        }
+      ],
+      "worst_weekdays": [
+        {
+          "label": "Fri",
+          "count": 17,
+          "pnl_sum": -4838.740000000001,
+          "pnl_avg": -284.6317647058824,
+          "pnl_median": -304.88,
+          "positive": 2,
+          "negative": 15,
+          "flat": 0,
+          "win_rate": 0.11764705882352941,
+          "size_median": 490
+        },
+        {
+          "label": "Sat",
+          "count": 54,
+          "pnl_sum": -4988.6600000000035,
+          "pnl_avg": -92.38259259259266,
+          "pnl_median": -34.2,
+          "positive": 18,
+          "negative": 36,
+          "flat": 0,
+          "win_rate": 0.3333333333333333,
+          "size_median": 697.74
+        },
+        {
+          "label": "Thu",
+          "count": 29,
+          "pnl_sum": -2250.8199999999997,
+          "pnl_avg": -77.61448275862068,
+          "pnl_median": -22.25,
+          "positive": 12,
+          "negative": 17,
+          "flat": 0,
+          "win_rate": 0.41379310344827586,
+          "size_median": 490
+        }
+      ],
+      "best_months": [
+        {
+          "label": "2026-01",
+          "count": 17,
+          "pnl_sum": 6597.55,
+          "pnl_avg": 388.09117647058827,
+          "pnl_median": 130,
+          "positive": 12,
+          "negative": 5,
+          "flat": 0,
+          "win_rate": 0.7058823529411765,
+          "size_median": 490
+        },
+        {
+          "label": "2025-04",
+          "count": 2,
+          "pnl_sum": 365.6,
+          "pnl_avg": 182.8,
+          "pnl_median": 350,
+          "positive": 2,
+          "negative": 0,
+          "flat": 0,
+          "win_rate": 1,
+          "size_median": 350
+        },
+        {
+          "label": "2026-03",
+          "count": 9,
+          "pnl_sum": 1532.3,
+          "pnl_avg": 170.25555555555556,
+          "pnl_median": 36.8,
+          "positive": 7,
+          "negative": 2,
+          "flat": 0,
+          "win_rate": 0.7777777777777778,
+          "size_median": 490
+        },
+        {
+          "label": "2025-11",
+          "count": 51,
+          "pnl_sum": -4695.6100000000015,
+          "pnl_avg": -92.07078431372553,
+          "pnl_median": -22.64,
+          "positive": 19,
+          "negative": 32,
+          "flat": 0,
+          "win_rate": 0.37254901960784315,
+          "size_median": 490
+        }
+      ],
+      "worst_months": [
+        {
+          "label": "2025-03",
+          "count": 1,
+          "pnl_sum": -666.67,
+          "pnl_avg": -666.67,
+          "pnl_median": -666.67,
+          "positive": 0,
+          "negative": 1,
+          "flat": 0,
+          "win_rate": 0,
+          "size_median": 490
+        },
+        {
+          "label": "2025-12",
+          "count": 16,
+          "pnl_sum": -7831.679999999998,
+          "pnl_avg": -489.47999999999985,
+          "pnl_median": -705.45,
+          "positive": 3,
+          "negative": 13,
+          "flat": 0,
+          "win_rate": 0.1875,
+          "size_median": 987.63
+        },
+        {
+          "label": "2025-10",
+          "count": 2,
+          "pnl_sum": -771.85,
+          "pnl_avg": -385.925,
+          "pnl_median": -31,
+          "positive": 0,
+          "negative": 2,
+          "flat": 0,
+          "win_rate": 0,
+          "size_median": 711.96
+        },
+        {
+          "label": "2025-01",
+          "count": 30,
+          "pnl_sum": -5978.67,
+          "pnl_avg": -199.28900000000002,
+          "pnl_median": -34.2,
+          "positive": 4,
+          "negative": 26,
+          "flat": 0,
+          "win_rate": 0.13333333333333333,
+          "size_median": 490
+        }
+      ]
+    }
+  }
+}

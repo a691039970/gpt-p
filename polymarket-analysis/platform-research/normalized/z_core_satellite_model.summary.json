@@ -1,0 +1,1272 @@
+{
+  "generated_at": "2026-03-30T00:15:36.299Z",
+  "input": "D:\\gpt\\polymarket-analysis\\platform-research\\normalized\\z\\z_merged.yearly.current.json",
+  "config": {
+    "base_stake": 100,
+    "perspective": "z",
+    "focus_categories": [
+      "Dota2",
+      "LoL",
+      "CS2",
+      "Basketball",
+      "Football"
+    ],
+    "plan_definitions": {
+      "core_only": "只做当月 active top-tier 中的 Dota2 家族",
+      "core_plus_football": "Dota2 主中枢 + Football 辅助线",
+      "full_active": "当月 active top-tier 全部家族"
+    }
+  },
+  "model": {
+    "tested_months": 9,
+    "steps": [
+      {
+        "test_month": "2025-07",
+        "dominant_family": "Dota2 | 地图2 让球盘",
+        "active_families": [
+          {
+            "market_family": "Dota2 | 地图2 让球盘",
+            "category": "Dota2",
+            "market_type": "地图2 让球盘",
+            "active_structure_count": 1,
+            "avg_score": 0.8025808047505301,
+            "avg_roi": 0.5165677840987382
+          },
+          {
+            "market_family": "Dota2 | unknown",
+            "category": "Dota2",
+            "market_type": "unknown",
+            "active_structure_count": 1,
+            "avg_score": 0.7971733022795452,
+            "avg_roi": 0.535504970295865
+          },
+          {
+            "market_family": "Dota2 | 地图3 大小盘",
+            "category": "Dota2",
+            "market_type": "地图3 大小盘",
+            "active_structure_count": 1,
+            "avg_score": 0.7807008913758057,
+            "avg_roi": 0.4149975387196106
+          },
+          {
+            "market_family": "Dota2 | 地图 1 让球盘",
+            "category": "Dota2",
+            "market_type": "地图 1 让球盘",
+            "active_structure_count": 1,
+            "avg_score": 0.6817722594752447,
+            "avg_roi": 0.14799699141378292
+          },
+          {
+            "market_family": "Football | 独赢盘",
+            "category": "Football",
+            "market_type": "独赢盘",
+            "active_structure_count": 1,
+            "avg_score": 0.6522638040537021,
+            "avg_roi": 0.16917936935558892
+          },
+          {
+            "market_family": "Dota2 | 地图2 大小盘",
+            "category": "Dota2",
+            "market_type": "地图2 大小盘",
+            "active_structure_count": 1,
+            "avg_score": 0.6505140139329053,
+            "avg_roi": 0.11281104566296307
+          },
+          {
+            "market_family": "Football | 大小盘",
+            "category": "Football",
+            "market_type": "大小盘",
+            "active_structure_count": 1,
+            "avg_score": 0.6325546143042318,
+            "avg_roi": -0.0046227591197485285
+          },
+          {
+            "market_family": "Dota2 | 让球盘",
+            "category": "Dota2",
+            "market_type": "让球盘",
+            "active_structure_count": 1,
+            "avg_score": 0.6066702489034461,
+            "avg_roi": 0.2956905582301481
+          }
+        ],
+        "plan_results": {
+          "core_only": {
+            "count": 53,
+            "stake_sum": 15900,
+            "pnl_sum": -5793.107222,
+            "pnl_avg": -109.30391,
+            "roi": -0.364346,
+            "positive": 18,
+            "negative": 35,
+            "flat": 0,
+            "win_rate": 0.339623
+          },
+          "core_plus_football": {
+            "count": 67,
+            "stake_sum": 20100,
+            "pnl_sum": -4806.055252,
+            "pnl_avg": -71.732168,
+            "roi": -0.239107,
+            "positive": 27,
+            "negative": 40,
+            "flat": 0,
+            "win_rate": 0.402985
+          },
+          "full_active": {
+            "count": 67,
+            "stake_sum": 20100,
+            "pnl_sum": -4806.055252,
+            "pnl_avg": -71.732168,
+            "roi": -0.239107,
+            "positive": 27,
+            "negative": 40,
+            "flat": 0,
+            "win_rate": 0.402985
+          }
+        }
+      },
+      {
+        "test_month": "2025-08",
+        "dominant_family": "Dota2 | unknown",
+        "active_families": [
+          {
+            "market_family": "Dota2 | unknown",
+            "category": "Dota2",
+            "market_type": "unknown",
+            "active_structure_count": 1,
+            "avg_score": 0.7971733022795452,
+            "avg_roi": 0.535504970295865
+          },
+          {
+            "market_family": "Dota2 | 地图3 大小盘",
+            "category": "Dota2",
+            "market_type": "地图3 大小盘",
+            "active_structure_count": 1,
+            "avg_score": 0.7768164548144021,
+            "avg_roi": 0.40900625864890267
+          },
+          {
+            "market_family": "Basketball | 赛局 大小盘",
+            "category": "Basketball",
+            "market_type": "赛局 大小盘",
+            "active_structure_count": 1,
+            "avg_score": 0.7466626484598881,
+            "avg_roi": 0.38925394201735525
+          },
+          {
+            "market_family": "Dota2 | 地图2 让球盘",
+            "category": "Dota2",
+            "market_type": "地图2 让球盘",
+            "active_structure_count": 1,
+            "avg_score": 0.7240608094799469,
+            "avg_roi": 0.31448468670974994
+          },
+          {
+            "market_family": "Football | 让球盘",
+            "category": "Football",
+            "market_type": "让球盘",
+            "active_structure_count": 1,
+            "avg_score": 0.6713794782212601,
+            "avg_roi": 0.1142073301772802
+          },
+          {
+            "market_family": "Dota2 | 地图 1 让球盘",
+            "category": "Dota2",
+            "market_type": "地图 1 让球盘",
+            "active_structure_count": 1,
+            "avg_score": 0.6669415678159278,
+            "avg_roi": 0.1031881930642471
+          },
+          {
+            "market_family": "Football | 独赢盘",
+            "category": "Football",
+            "market_type": "独赢盘",
+            "active_structure_count": 1,
+            "avg_score": 0.654246616082607,
+            "avg_roi": 0.1694652045672017
+          },
+          {
+            "market_family": "Football | 大小盘",
+            "category": "Football",
+            "market_type": "大小盘",
+            "active_structure_count": 1,
+            "avg_score": 0.6467861168725852,
+            "avg_roi": 0.009524182885192542
+          },
+          {
+            "market_family": "Dota2 | 独赢盘",
+            "category": "Dota2",
+            "market_type": "独赢盘",
+            "active_structure_count": 1,
+            "avg_score": 0.6441205426199812,
+            "avg_roi": 0.205160670711655
+          }
+        ],
+        "plan_results": {
+          "core_only": {
+            "count": 7,
+            "stake_sum": 2100,
+            "pnl_sum": -1487.721898,
+            "pnl_avg": -212.5317,
+            "roi": -0.708439,
+            "positive": 1,
+            "negative": 6,
+            "flat": 0,
+            "win_rate": 0.142857
+          },
+          "core_plus_football": {
+            "count": 114,
+            "stake_sum": 34200,
+            "pnl_sum": 4887.807261,
+            "pnl_avg": 42.875502,
+            "roi": 0.142918,
+            "positive": 68,
+            "negative": 41,
+            "flat": 5,
+            "win_rate": 0.596491
+          },
+          "full_active": {
+            "count": 120,
+            "stake_sum": 36000,
+            "pnl_sum": 4351.441547,
+            "pnl_avg": 36.262013,
+            "roi": 0.120873,
+            "positive": 70,
+            "negative": 45,
+            "flat": 5,
+            "win_rate": 0.583333
+          }
+        }
+      },
+      {
+        "test_month": "2025-09",
+        "dominant_family": "Dota2 | 地图 1 独赢盘",
+        "active_families": [
+          {
+            "market_family": "Dota2 | 地图 1 独赢盘",
+            "category": "Dota2",
+            "market_type": "地图 1 独赢盘",
+            "active_structure_count": 1,
+            "avg_score": 0.8460938132506131,
+            "avg_roi": 0.6315158643013259
+          },
+          {
+            "market_family": "Dota2 | unknown",
+            "category": "Dota2",
+            "market_type": "unknown",
+            "active_structure_count": 1,
+            "avg_score": 0.7971733022795452,
+            "avg_roi": 0.535504970295865
+          },
+          {
+            "market_family": "Football | 独赢盘",
+            "category": "Football",
+            "market_type": "独赢盘",
+            "active_structure_count": 1,
+            "avg_score": 0.7253077142516929,
+            "avg_roi": 0.273787967532739
+          },
+          {
+            "market_family": "Football | 让球盘",
+            "category": "Football",
+            "market_type": "让球盘",
+            "active_structure_count": 1,
+            "avg_score": 0.7151387149537212,
+            "avg_roi": 0.16222654015615182
+          },
+          {
+            "market_family": "Dota2 | 地图2 让球盘",
+            "category": "Dota2",
+            "market_type": "地图2 让球盘",
+            "active_structure_count": 2,
+            "avg_score": 0.7045888171080386,
+            "avg_roi": 0.36887763222533
+          },
+          {
+            "market_family": "Basketball | 赛局 大小盘",
+            "category": "Basketball",
+            "market_type": "赛局 大小盘",
+            "active_structure_count": 1,
+            "avg_score": 0.6906906018719625,
+            "avg_roi": 0.2577777863659885
+          },
+          {
+            "market_family": "Dota2 | 地图3 大小盘",
+            "category": "Dota2",
+            "market_type": "地图3 大小盘",
+            "active_structure_count": 1,
+            "avg_score": 0.6850720726133912,
+            "avg_roi": 0.21712379200076276
+          },
+          {
+            "market_family": "Dota2 | 地图 1 让球盘",
+            "category": "Dota2",
+            "market_type": "地图 1 让球盘",
+            "active_structure_count": 1,
+            "avg_score": 0.6493435070759703,
+            "avg_roi": 0.0704817278850635
+          },
+          {
+            "market_family": "Dota2 | 独赢盘",
+            "category": "Dota2",
+            "market_type": "独赢盘",
+            "active_structure_count": 1,
+            "avg_score": 0.6441205426199812,
+            "avg_roi": 0.205160670711655
+          }
+        ],
+        "plan_results": {
+          "core_only": {
+            "count": 69,
+            "stake_sum": 20700,
+            "pnl_sum": -1314.960015,
+            "pnl_avg": -19.057392,
+            "roi": -0.063525,
+            "positive": 30,
+            "negative": 36,
+            "flat": 3,
+            "win_rate": 0.434783
+          },
+          "core_plus_football": {
+            "count": 183,
+            "stake_sum": 54900,
+            "pnl_sum": -1958.774601,
+            "pnl_avg": -10.703686,
+            "roi": -0.035679,
+            "positive": 89,
+            "negative": 83,
+            "flat": 11,
+            "win_rate": 0.486339
+          },
+          "full_active": {
+            "count": 189,
+            "stake_sum": 56700,
+            "pnl_sum": -73.623275,
+            "pnl_avg": -0.389541,
+            "roi": -0.001298,
+            "positive": 95,
+            "negative": 83,
+            "flat": 11,
+            "win_rate": 0.502646
+          }
+        }
+      },
+      {
+        "test_month": "2025-10",
+        "dominant_family": "Dota2 | 地图 1 独赢盘",
+        "active_families": [
+          {
+            "market_family": "Dota2 | 地图 1 独赢盘",
+            "category": "Dota2",
+            "market_type": "地图 1 独赢盘",
+            "active_structure_count": 1,
+            "avg_score": 0.8623200669476774,
+            "avg_roi": 0.6390845143846139
+          },
+          {
+            "market_family": "Basketball | 赛局 大小盘",
+            "category": "Basketball",
+            "market_type": "赛局 大小盘",
+            "active_structure_count": 1,
+            "avg_score": 0.7580506179031092,
+            "avg_roi": 0.36650638347888637
+          },
+          {
+            "market_family": "Dota2 | unknown",
+            "category": "Dota2",
+            "market_type": "unknown",
+            "active_structure_count": 1,
+            "avg_score": 0.7499687784643012,
+            "avg_roi": 0.43669578929898356
+          },
+          {
+            "market_family": "Football | 让球盘",
+            "category": "Football",
+            "market_type": "让球盘",
+            "active_structure_count": 2,
+            "avg_score": 0.7464709458091525,
+            "avg_roi": 0.14960414184128845
+          },
+          {
+            "market_family": "Football | 独赢盘",
+            "category": "Football",
+            "market_type": "独赢盘",
+            "active_structure_count": 1,
+            "avg_score": 0.7212297886614509,
+            "avg_roi": 0.23091014505987537
+          },
+          {
+            "market_family": "Dota2 | 地图2 让球盘",
+            "category": "Dota2",
+            "market_type": "地图2 让球盘",
+            "active_structure_count": 2,
+            "avg_score": 0.6870812874046028,
+            "avg_roi": 0.3056003100093645
+          },
+          {
+            "market_family": "Dota2 | 地图3 大小盘",
+            "category": "Dota2",
+            "market_type": "地图3 大小盘",
+            "active_structure_count": 1,
+            "avg_score": 0.6823117971239574,
+            "avg_roi": 0.21368173697396942
+          },
+          {
+            "market_family": "Dota2 | 地图 1 让球盘",
+            "category": "Dota2",
+            "market_type": "地图 1 让球盘",
+            "active_structure_count": 1,
+            "avg_score": 0.6447399675302801,
+            "avg_roi": 0.04668037787348114
+          },
+          {
+            "market_family": "Dota2 | 地图2 大小盘",
+            "category": "Dota2",
+            "market_type": "地图2 大小盘",
+            "active_structure_count": 1,
+            "avg_score": 0.6273817558627501,
+            "avg_roi": 0.07386106712919525
+          }
+        ],
+        "plan_results": {
+          "core_only": {
+            "count": 55,
+            "stake_sum": 16500,
+            "pnl_sum": -1061.445953,
+            "pnl_avg": -19.299017,
+            "roi": -0.06433,
+            "positive": 27,
+            "negative": 28,
+            "flat": 0,
+            "win_rate": 0.490909
+          },
+          "core_plus_football": {
+            "count": 134,
+            "stake_sum": 40200,
+            "pnl_sum": 712.522707,
+            "pnl_avg": 5.317334,
+            "roi": 0.017724,
+            "positive": 63,
+            "negative": 57,
+            "flat": 14,
+            "win_rate": 0.470149
+          },
+          "full_active": {
+            "count": 148,
+            "stake_sum": 44400,
+            "pnl_sum": -375.244108,
+            "pnl_avg": -2.535433,
+            "roi": -0.008451,
+            "positive": 68,
+            "negative": 66,
+            "flat": 14,
+            "win_rate": 0.459459
+          }
+        }
+      },
+      {
+        "test_month": "2025-11",
+        "dominant_family": "Dota2 | 地图 1 独赢盘",
+        "active_families": [
+          {
+            "market_family": "Dota2 | 地图 1 独赢盘",
+            "category": "Dota2",
+            "market_type": "地图 1 独赢盘",
+            "active_structure_count": 1,
+            "avg_score": 0.8248497549661804,
+            "avg_roi": 0.5558770205320958
+          },
+          {
+            "market_family": "Dota2 | unknown",
+            "category": "Dota2",
+            "market_type": "unknown",
+            "active_structure_count": 1,
+            "avg_score": 0.7679925632045959,
+            "avg_roi": 0.46015023758372997
+          },
+          {
+            "market_family": "Football | 让球盘",
+            "category": "Football",
+            "market_type": "让球盘",
+            "active_structure_count": 2,
+            "avg_score": 0.7505975726740955,
+            "avg_roi": 0.15162610037537386
+          },
+          {
+            "market_family": "Football | 独赢盘",
+            "category": "Football",
+            "market_type": "独赢盘",
+            "active_structure_count": 1,
+            "avg_score": 0.7078623821713458,
+            "avg_roi": 0.20596082411168598
+          },
+          {
+            "market_family": "Basketball | 赛局 大小盘",
+            "category": "Basketball",
+            "market_type": "赛局 大小盘",
+            "active_structure_count": 1,
+            "avg_score": 0.7040387511810045,
+            "avg_roi": 0.23690247102382908
+          },
+          {
+            "market_family": "Dota2 | 地图2 让球盘",
+            "category": "Dota2",
+            "market_type": "地图2 让球盘",
+            "active_structure_count": 2,
+            "avg_score": 0.6941686777115088,
+            "avg_roi": 0.2994665153277253
+          },
+          {
+            "market_family": "Dota2 | 地图 1 让球盘",
+            "category": "Dota2",
+            "market_type": "地图 1 让球盘",
+            "active_structure_count": 1,
+            "avg_score": 0.6594401657517064,
+            "avg_roi": 0.07126572794651707
+          },
+          {
+            "market_family": "Dota2 | 地图3 大小盘",
+            "category": "Dota2",
+            "market_type": "地图3 大小盘",
+            "active_structure_count": 1,
+            "avg_score": 0.6557042566605003,
+            "avg_roi": 0.15134970164640746
+          },
+          {
+            "market_family": "Football | unknown",
+            "category": "Football",
+            "market_type": "unknown",
+            "active_structure_count": 1,
+            "avg_score": 0.6533828551694927,
+            "avg_roi": 0.14642287905727752
+          },
+          {
+            "market_family": "Dota2 | 地图 1 大小盘",
+            "category": "Dota2",
+            "market_type": "地图 1 大小盘",
+            "active_structure_count": 1,
+            "avg_score": 0.6412195039102879,
+            "avg_roi": 0.00826837302918121
+          }
+        ],
+        "plan_results": {
+          "core_only": {
+            "count": 89,
+            "stake_sum": 26700,
+            "pnl_sum": 1214.908919,
+            "pnl_avg": 13.650662,
+            "roi": 0.045502,
+            "positive": 47,
+            "negative": 42,
+            "flat": 0,
+            "win_rate": 0.52809
+          },
+          "core_plus_football": {
+            "count": 233,
+            "stake_sum": 69900,
+            "pnl_sum": 6679.948541,
+            "pnl_avg": 28.669307,
+            "roi": 0.095564,
+            "positive": 129,
+            "negative": 98,
+            "flat": 6,
+            "win_rate": 0.553648
+          },
+          "full_active": {
+            "count": 249,
+            "stake_sum": 74700,
+            "pnl_sum": 7390.909159,
+            "pnl_avg": 29.682366,
+            "roi": 0.098941,
+            "positive": 138,
+            "negative": 105,
+            "flat": 6,
+            "win_rate": 0.554217
+          }
+        }
+      },
+      {
+        "test_month": "2025-12",
+        "dominant_family": "Dota2 | 地图 1 独赢盘",
+        "active_families": [
+          {
+            "market_family": "Dota2 | 地图 1 独赢盘",
+            "category": "Dota2",
+            "market_type": "地图 1 独赢盘",
+            "active_structure_count": 1,
+            "avg_score": 0.8248497549661804,
+            "avg_roi": 0.5558770205320958
+          },
+          {
+            "market_family": "Dota2 | unknown",
+            "category": "Dota2",
+            "market_type": "unknown",
+            "active_structure_count": 1,
+            "avg_score": 0.7872497528401454,
+            "avg_roi": 0.492690228116701
+          },
+          {
+            "market_family": "Football | 让球盘",
+            "category": "Football",
+            "market_type": "让球盘",
+            "active_structure_count": 2,
+            "avg_score": 0.7582404989776905,
+            "avg_roi": 0.1495380497450759
+          },
+          {
+            "market_family": "Basketball | 赛局 大小盘",
+            "category": "Basketball",
+            "market_type": "赛局 大小盘",
+            "active_structure_count": 1,
+            "avg_score": 0.7016546046472534,
+            "avg_roi": 0.19506615938426206
+          },
+          {
+            "market_family": "Dota2 | 地图2 让球盘",
+            "category": "Dota2",
+            "market_type": "地图2 让球盘",
+            "active_structure_count": 2,
+            "avg_score": 0.6789731145572254,
+            "avg_roi": 0.2470684785659274
+          },
+          {
+            "market_family": "Football | unknown",
+            "category": "Football",
+            "market_type": "unknown",
+            "active_structure_count": 1,
+            "avg_score": 0.6731717314179955,
+            "avg_roi": 0.14450205104071817
+          },
+          {
+            "market_family": "CS2 | unknown",
+            "category": "CS2",
+            "market_type": "unknown",
+            "active_structure_count": 1,
+            "avg_score": 0.6674017210273984,
+            "avg_roi": 0.17861511440875308
+          },
+          {
+            "market_family": "Football | 独赢盘",
+            "category": "Football",
+            "market_type": "独赢盘",
+            "active_structure_count": 1,
+            "avg_score": 0.6638864513118538,
+            "avg_roi": 0.10413837017639425
+          },
+          {
+            "market_family": "Dota2 | 地图3 大小盘",
+            "category": "Dota2",
+            "market_type": "地图3 大小盘",
+            "active_structure_count": 1,
+            "avg_score": 0.6557042566605003,
+            "avg_roi": 0.15134970164640746
+          },
+          {
+            "market_family": "Basketball | 赛局 独赢盘",
+            "category": "Basketball",
+            "market_type": "赛局 独赢盘",
+            "active_structure_count": 1,
+            "avg_score": 0.6548291124272638,
+            "avg_roi": 0.3128148936143552
+          },
+          {
+            "market_family": "Dota2 | 地图 1 让球盘",
+            "category": "Dota2",
+            "market_type": "地图 1 让球盘",
+            "active_structure_count": 1,
+            "avg_score": 0.6493461714124933,
+            "avg_roi": 0.006324772801902177
+          }
+        ],
+        "plan_results": {
+          "core_only": {
+            "count": 24,
+            "stake_sum": 7200,
+            "pnl_sum": 665.20606,
+            "pnl_avg": 27.716919,
+            "roi": 0.09239,
+            "positive": 13,
+            "negative": 11,
+            "flat": 0,
+            "win_rate": 0.541667
+          },
+          "core_plus_football": {
+            "count": 82,
+            "stake_sum": 24600,
+            "pnl_sum": 353.176506,
+            "pnl_avg": 4.307031,
+            "roi": 0.014357,
+            "positive": 39,
+            "negative": 36,
+            "flat": 7,
+            "win_rate": 0.47561
+          },
+          "full_active": {
+            "count": 86,
+            "stake_sum": 25800,
+            "pnl_sum": 1570.096191,
+            "pnl_avg": 18.256932,
+            "roi": 0.060856,
+            "positive": 43,
+            "negative": 36,
+            "flat": 7,
+            "win_rate": 0.5
+          }
+        }
+      },
+      {
+        "test_month": "2026-01",
+        "dominant_family": "Dota2 | 地图 1 独赢盘",
+        "active_families": [
+          {
+            "market_family": "Dota2 | 地图 1 独赢盘",
+            "category": "Dota2",
+            "market_type": "地图 1 独赢盘",
+            "active_structure_count": 1,
+            "avg_score": 0.8248497549661804,
+            "avg_roi": 0.5558770205320958
+          },
+          {
+            "market_family": "Dota2 | unknown",
+            "category": "Dota2",
+            "market_type": "unknown",
+            "active_structure_count": 1,
+            "avg_score": 0.7872497528401454,
+            "avg_roi": 0.492690228116701
+          },
+          {
+            "market_family": "Football | 让球盘",
+            "category": "Football",
+            "market_type": "让球盘",
+            "active_structure_count": 2,
+            "avg_score": 0.7524009144010384,
+            "avg_roi": 0.13675113514430806
+          },
+          {
+            "market_family": "Basketball | 赛局 大小盘",
+            "category": "Basketball",
+            "market_type": "赛局 大小盘",
+            "active_structure_count": 1,
+            "avg_score": 0.725931910006806,
+            "avg_roi": 0.23498609359249734
+          },
+          {
+            "market_family": "Football | unknown",
+            "category": "Football",
+            "market_type": "unknown",
+            "active_structure_count": 1,
+            "avg_score": 0.6869503441338543,
+            "avg_roi": 0.16001162369086216
+          },
+          {
+            "market_family": "Dota2 | 地图2 让球盘",
+            "category": "Dota2",
+            "market_type": "地图2 让球盘",
+            "active_structure_count": 2,
+            "avg_score": 0.6858804881719457,
+            "avg_roi": 0.2545245498282555
+          },
+          {
+            "market_family": "Football | 独赢盘",
+            "category": "Football",
+            "market_type": "独赢盘",
+            "active_structure_count": 1,
+            "avg_score": 0.6680978335050074,
+            "avg_roi": 0.10514073237381745
+          },
+          {
+            "market_family": "CS2 | unknown",
+            "category": "CS2",
+            "market_type": "unknown",
+            "active_structure_count": 1,
+            "avg_score": 0.6674017210273984,
+            "avg_roi": 0.17861511440875308
+          },
+          {
+            "market_family": "Dota2 | 地图3 大小盘",
+            "category": "Dota2",
+            "market_type": "地图3 大小盘",
+            "active_structure_count": 1,
+            "avg_score": 0.6557042566605003,
+            "avg_roi": 0.15134970164640746
+          },
+          {
+            "market_family": "Basketball | 赛局 让球盘",
+            "category": "Basketball",
+            "market_type": "赛局 让球盘",
+            "active_structure_count": 1,
+            "avg_score": 0.6550255833403722,
+            "avg_roi": 0.09992348264915575
+          },
+          {
+            "market_family": "Basketball | 赛局 独赢盘",
+            "category": "Basketball",
+            "market_type": "赛局 独赢盘",
+            "active_structure_count": 1,
+            "avg_score": 0.6548291124272638,
+            "avg_roi": 0.3128148936143552
+          },
+          {
+            "market_family": "Dota2 | 地图 1 让球盘",
+            "category": "Dota2",
+            "market_type": "地图 1 让球盘",
+            "active_structure_count": 1,
+            "avg_score": 0.646123635915851,
+            "avg_roi": -0.015069797980726732
+          }
+        ],
+        "plan_results": {
+          "core_only": {
+            "count": 79,
+            "stake_sum": 23700,
+            "pnl_sum": 2083.434285,
+            "pnl_avg": 26.372586,
+            "roi": 0.087909,
+            "positive": 43,
+            "negative": 36,
+            "flat": 0,
+            "win_rate": 0.544304
+          },
+          "core_plus_football": {
+            "count": 149,
+            "stake_sum": 44700,
+            "pnl_sum": -665.089517,
+            "pnl_avg": -4.463688,
+            "roi": -0.014879,
+            "positive": 73,
+            "negative": 70,
+            "flat": 6,
+            "win_rate": 0.489933
+          },
+          "full_active": {
+            "count": 177,
+            "stake_sum": 53100,
+            "pnl_sum": 285.049742,
+            "pnl_avg": 1.610451,
+            "roi": 0.005368,
+            "positive": 89,
+            "negative": 82,
+            "flat": 6,
+            "win_rate": 0.502825
+          }
+        }
+      },
+      {
+        "test_month": "2026-02",
+        "dominant_family": "Dota2 | 地图 1 独赢盘",
+        "active_families": [
+          {
+            "market_family": "Dota2 | 地图 1 独赢盘",
+            "category": "Dota2",
+            "market_type": "地图 1 独赢盘",
+            "active_structure_count": 1,
+            "avg_score": 0.849146780753997,
+            "avg_roi": 0.5441916330508092
+          },
+          {
+            "market_family": "Dota2 | unknown",
+            "category": "Dota2",
+            "market_type": "unknown",
+            "active_structure_count": 1,
+            "avg_score": 0.79497459118743,
+            "avg_roi": 0.5001791679776055
+          },
+          {
+            "market_family": "Football | 让球盘",
+            "category": "Football",
+            "market_type": "让球盘",
+            "active_structure_count": 2,
+            "avg_score": 0.7411030452331065,
+            "avg_roi": 0.10865284239682377
+          },
+          {
+            "market_family": "Dota2 | 地图3 大小盘",
+            "category": "Dota2",
+            "market_type": "地图3 大小盘",
+            "active_structure_count": 1,
+            "avg_score": 0.7216294719742617,
+            "avg_roi": 0.24344712469909405
+          },
+          {
+            "market_family": "Football | unknown",
+            "category": "Football",
+            "market_type": "unknown",
+            "active_structure_count": 1,
+            "avg_score": 0.6848183511783359,
+            "avg_roi": 0.15762230647205214
+          },
+          {
+            "market_family": "Basketball | 赛局 大小盘",
+            "category": "Basketball",
+            "market_type": "赛局 大小盘",
+            "active_structure_count": 2,
+            "avg_score": 0.6846563073841465,
+            "avg_roi": 0.2114446380510546
+          },
+          {
+            "market_family": "CS2 | unknown",
+            "category": "CS2",
+            "market_type": "unknown",
+            "active_structure_count": 1,
+            "avg_score": 0.6742649825582658,
+            "avg_roi": 0.18684044162794827
+          },
+          {
+            "market_family": "Dota2 | 地图2 让球盘",
+            "category": "Dota2",
+            "market_type": "地图2 让球盘",
+            "active_structure_count": 1,
+            "avg_score": 0.6724649753626664,
+            "avg_roi": 0.14601179224263688
+          },
+          {
+            "market_family": "Football | 独赢盘",
+            "category": "Football",
+            "market_type": "独赢盘",
+            "active_structure_count": 1,
+            "avg_score": 0.6677329961145266,
+            "avg_roi": 0.10208500268989988
+          },
+          {
+            "market_family": "CS2 | 地图 1 让球盘",
+            "category": "CS2",
+            "market_type": "地图 1 让球盘",
+            "active_structure_count": 1,
+            "avg_score": 0.6628847917164875,
+            "avg_roi": 0.15209642545402363
+          },
+          {
+            "market_family": "Basketball | 赛局 让球盘",
+            "category": "Basketball",
+            "market_type": "赛局 让球盘",
+            "active_structure_count": 1,
+            "avg_score": 0.6579034980484788,
+            "avg_roi": 0.09079374014361584
+          },
+          {
+            "market_family": "Dota2 | 地图2 大小盘",
+            "category": "Dota2",
+            "market_type": "地图2 大小盘",
+            "active_structure_count": 1,
+            "avg_score": 0.6568582105973295,
+            "avg_roi": 0.03857293220147943
+          },
+          {
+            "market_family": "Dota2 | 地图 1 让球盘",
+            "category": "Dota2",
+            "market_type": "地图 1 让球盘",
+            "active_structure_count": 1,
+            "avg_score": 0.6554805214738924,
+            "avg_roi": -0.01304098234412845
+          }
+        ],
+        "plan_results": {
+          "core_only": {
+            "count": 20,
+            "stake_sum": 6000,
+            "pnl_sum": -747.477051,
+            "pnl_avg": -37.373853,
+            "roi": -0.12458,
+            "positive": 9,
+            "negative": 11,
+            "flat": 0,
+            "win_rate": 0.45
+          },
+          "core_plus_football": {
+            "count": 71,
+            "stake_sum": 21300,
+            "pnl_sum": -1571.665548,
+            "pnl_avg": -22.136134,
+            "roi": -0.073787,
+            "positive": 31,
+            "negative": 30,
+            "flat": 10,
+            "win_rate": 0.43662
+          },
+          "full_active": {
+            "count": 94,
+            "stake_sum": 28200,
+            "pnl_sum": 1818.727595,
+            "pnl_avg": 19.348166,
+            "roi": 0.064494,
+            "positive": 49,
+            "negative": 34,
+            "flat": 11,
+            "win_rate": 0.521277
+          }
+        }
+      },
+      {
+        "test_month": "2026-03",
+        "dominant_family": "Football | 让球盘",
+        "active_families": [
+          {
+            "market_family": "Football | 让球盘",
+            "category": "Football",
+            "market_type": "让球盘",
+            "active_structure_count": 1,
+            "avg_score": 0.7991643779699305,
+            "avg_roi": 0.1496923882037777
+          },
+          {
+            "market_family": "Dota2 | unknown",
+            "category": "Dota2",
+            "market_type": "unknown",
+            "active_structure_count": 1,
+            "avg_score": 0.79497459118743,
+            "avg_roi": 0.5001791679776055
+          },
+          {
+            "market_family": "LoL | 地图2 独赢盘",
+            "category": "LoL",
+            "market_type": "地图2 独赢盘",
+            "active_structure_count": 1,
+            "avg_score": 0.7626101091928943,
+            "avg_roi": 0.41704078915056325
+          },
+          {
+            "market_family": "Dota2 | 地图 1 独赢盘",
+            "category": "Dota2",
+            "market_type": "地图 1 独赢盘",
+            "active_structure_count": 2,
+            "avg_score": 0.7236913714266855,
+            "avg_roi": 0.32519788465590793
+          },
+          {
+            "market_family": "Dota2 | 地图3 大小盘",
+            "category": "Dota2",
+            "market_type": "地图3 大小盘",
+            "active_structure_count": 1,
+            "avg_score": 0.7216294719742617,
+            "avg_roi": 0.24344712469909405
+          },
+          {
+            "market_family": "CS2 | unknown",
+            "category": "CS2",
+            "market_type": "unknown",
+            "active_structure_count": 1,
+            "avg_score": 0.6931509776289956,
+            "avg_roi": 0.213787102639704
+          },
+          {
+            "market_family": "Basketball | 赛局 大小盘",
+            "category": "Basketball",
+            "market_type": "赛局 大小盘",
+            "active_structure_count": 2,
+            "avg_score": 0.6894635831758456,
+            "avg_roi": 0.21850218438390212
+          },
+          {
+            "market_family": "CS2 | 地图 1 让球盘",
+            "category": "CS2",
+            "market_type": "地图 1 让球盘",
+            "active_structure_count": 1,
+            "avg_score": 0.6861561140844892,
+            "avg_roi": 0.1836581736067933
+          },
+          {
+            "market_family": "Football | unknown",
+            "category": "Football",
+            "market_type": "unknown",
+            "active_structure_count": 1,
+            "avg_score": 0.6832965823875486,
+            "avg_roi": 0.14642299689507257
+          },
+          {
+            "market_family": "Basketball | 赛局 让球盘",
+            "category": "Basketball",
+            "market_type": "赛局 让球盘",
+            "active_structure_count": 1,
+            "avg_score": 0.6776549036831785,
+            "avg_roi": 0.12408244759709364
+          },
+          {
+            "market_family": "Basketball | 赛局 独赢盘",
+            "category": "Basketball",
+            "market_type": "赛局 独赢盘",
+            "active_structure_count": 1,
+            "avg_score": 0.6714641912503292,
+            "avg_roi": 0.3238208997458682
+          },
+          {
+            "market_family": "Football | 独赢盘",
+            "category": "Football",
+            "market_type": "独赢盘",
+            "active_structure_count": 1,
+            "avg_score": 0.6709480852353942,
+            "avg_roi": 0.10671837551204338
+          },
+          {
+            "market_family": "Dota2 | 地图 1 让球盘",
+            "category": "Dota2",
+            "market_type": "地图 1 让球盘",
+            "active_structure_count": 1,
+            "avg_score": 0.6686736845284358,
+            "avg_roi": 0.008762332790783098
+          },
+          {
+            "market_family": "Dota2 | 地图2 大小盘",
+            "category": "Dota2",
+            "market_type": "地图2 大小盘",
+            "active_structure_count": 1,
+            "avg_score": 0.6608190696618522,
+            "avg_roi": 0.04372292198394146
+          }
+        ],
+        "plan_results": {
+          "core_only": {
+            "count": 30,
+            "stake_sum": 9000,
+            "pnl_sum": 1490.695995,
+            "pnl_avg": 49.689867,
+            "roi": 0.165633,
+            "positive": 18,
+            "negative": 12,
+            "flat": 0,
+            "win_rate": 0.6
+          },
+          "core_plus_football": {
+            "count": 78,
+            "stake_sum": 23400,
+            "pnl_sum": 5847.048851,
+            "pnl_avg": 74.962165,
+            "roi": 0.249874,
+            "positive": 51,
+            "negative": 25,
+            "flat": 2,
+            "win_rate": 0.653846
+          },
+          "full_active": {
+            "count": 128,
+            "stake_sum": 38400,
+            "pnl_sum": 4978.68229,
+            "pnl_avg": 38.895955,
+            "roi": 0.129653,
+            "positive": 75,
+            "negative": 51,
+            "flat": 2,
+            "win_rate": 0.585938
+          }
+        }
+      }
+    ],
+    "aggregate": {
+      "core_only": {
+        "count": 426,
+        "stake_sum": 127800,
+        "pnl_sum": -4950.46688,
+        "pnl_avg": -11.620814,
+        "roi": -0.038736,
+        "positive": 206,
+        "negative": 217,
+        "flat": 3,
+        "win_rate": 0.483568
+      },
+      "core_plus_football": {
+        "count": 1111,
+        "stake_sum": 333300,
+        "pnl_sum": 9478.918949,
+        "pnl_avg": 8.53188,
+        "roi": 0.02844,
+        "positive": 570,
+        "negative": 480,
+        "flat": 61,
+        "win_rate": 0.513051
+      },
+      "full_active": {
+        "count": 1258,
+        "stake_sum": 377400,
+        "pnl_sum": 15139.983889,
+        "pnl_avg": 12.034963,
+        "roi": 0.040117,
+        "positive": 654,
+        "negative": 542,
+        "flat": 62,
+        "win_rate": 0.519873
+      }
+    }
+  },
+  "comparisons": [
+    {
+      "test_month": "2025-07",
+      "dominant_family": "Dota2 | 地图2 让球盘",
+      "core_only_roi": -0.364346,
+      "core_plus_football_roi": -0.239107,
+      "full_active_roi": -0.239107,
+      "football_helped": true,
+      "full_helped": false
+    },
+    {
+      "test_month": "2025-08",
+      "dominant_family": "Dota2 | unknown",
+      "core_only_roi": -0.708439,
+      "core_plus_football_roi": 0.142918,
+      "full_active_roi": 0.120873,
+      "football_helped": true,
+      "full_helped": false
+    },
+    {
+      "test_month": "2025-09",
+      "dominant_family": "Dota2 | 地图 1 独赢盘",
+      "core_only_roi": -0.063525,
+      "core_plus_football_roi": -0.035679,
+      "full_active_roi": -0.001298,
+      "football_helped": false,
+      "full_helped": true
+    },
+    {
+      "test_month": "2025-10",
+      "dominant_family": "Dota2 | 地图 1 独赢盘",
+      "core_only_roi": -0.06433,
+      "core_plus_football_roi": 0.017724,
+      "full_active_roi": -0.008451,
+      "football_helped": true,
+      "full_helped": false
+    },
+    {
+      "test_month": "2025-11",
+      "dominant_family": "Dota2 | 地图 1 独赢盘",
+      "core_only_roi": 0.045502,
+      "core_plus_football_roi": 0.095564,
+      "full_active_roi": 0.098941,
+      "football_helped": true,
+      "full_helped": true
+    },
+    {
+      "test_month": "2025-12",
+      "dominant_family": "Dota2 | 地图 1 独赢盘",
+      "core_only_roi": 0.09239,
+      "core_plus_football_roi": 0.014357,
+      "full_active_roi": 0.060856,
+      "football_helped": false,
+      "full_helped": true
+    },
+    {
+      "test_month": "2026-01",
+      "dominant_family": "Dota2 | 地图 1 独赢盘",
+      "core_only_roi": 0.087909,
+      "core_plus_football_roi": -0.014879,
+      "full_active_roi": 0.005368,
+      "football_helped": false,
+      "full_helped": true
+    },
+    {
+      "test_month": "2026-02",
+      "dominant_family": "Dota2 | 地图 1 独赢盘",
+      "core_only_roi": -0.12458,
+      "core_plus_football_roi": -0.073787,
+      "full_active_roi": 0.064494,
+      "football_helped": false,
+      "full_helped": true
+    },
+    {
+      "test_month": "2026-03",
+      "dominant_family": "Football | 让球盘",
+      "core_only_roi": 0.165633,
+      "core_plus_football_roi": 0.249874,
+      "full_active_roi": 0.129653,
+      "football_helped": true,
+      "full_helped": false
+    }
+  ]
+}

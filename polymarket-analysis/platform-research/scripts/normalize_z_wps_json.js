@@ -20,8 +20,14 @@ function firstNumber(value) {
 
 function normalizeTimestamp(detailText) {
   const lines = clean(detailText).split("\n").map(clean).filter(Boolean);
-  const timestamp = lines.find((line) => /\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}/.test(line));
-  return timestamp ? `${timestamp.replace(" ", "T")}Z` : null;
+  const timestamps = lines.filter((line) => /\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}/.test(line));
+  return timestamps[0] ? `${timestamps[0].replace(" ", "T")}Z` : null;
+}
+
+function normalizeClosedAt(detailText) {
+  const lines = clean(detailText).split("\n").map(clean).filter(Boolean);
+  const timestamps = lines.filter((line) => /\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}/.test(line));
+  return timestamps[1] ? `${timestamps[1].replace(" ", "T")}Z` : null;
 }
 
 function normalizeDateOnly(value) {
@@ -93,6 +99,11 @@ function normalizeRow(row, sourceFile) {
   const eventStart = normalizeDateOnly(parsedSelection.tournament || "");
   const amountRaw = clean(row["投注金额 (CNY)"]);
   const amount = firstNumber(amountRaw);
+  const closedAt = normalizeClosedAt(row["详细信息"]);
+  const winLoss = firstNumber(row["输赢"]);
+  const statusText = clean(row["状态"]);
+  const result =
+    /输/.test(statusText) ? "loss" : /赢|预期盈利/.test(statusText) ? "win" : /走/.test(statusText) ? "push" : null;
 
   return {
     platform: "z",
@@ -108,10 +119,10 @@ function normalizeRow(row, sourceFile) {
     category: inferCategory(sport, row["选择队伍"]),
     event_start_time: eventStart,
     transaction_hash: null,
-    result: null,
-    realized_pnl: null,
+    result,
+    realized_pnl: winLoss,
     unrealized_pnl: null,
-    closed_at: null,
+    closed_at: closedAt,
     source_file: sourceFile,
     notes: [
       detailLines[0] ? `bet_id=${detailLines[0]}` : null,
@@ -122,7 +133,8 @@ function normalizeRow(row, sourceFile) {
       parsedSelection.totalValue !== null ? `total_value=${parsedSelection.totalValue}` : null,
       parsedSelection.matchup ? `matchup=${parsedSelection.matchup}` : null,
       row["预期盈利"] ? `expected_profit=${clean(row["预期盈利"])}` : null,
-      row["状态"] ? `status=${clean(row["状态"])}` : null,
+      row["输赢"] ? `win_loss=${clean(row["输赢"])}` : null,
+      row["状态"] ? `status=${statusText}` : null,
     ]
       .filter(Boolean)
       .join("; "),

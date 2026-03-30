@@ -1,0 +1,1745 @@
+{
+  "generated_at": "2026-03-29T22:06:06.001Z",
+  "input": "D:\\gpt\\polymarket-analysis\\platform-research\\normalized\\z\\z_merged.yearly.current.json",
+  "sample": {
+    "count": 28037,
+    "pnl_sum": -243712.83000000063,
+    "pnl_avg": -8.69254306808862,
+    "positive": 12237,
+    "negative": 14959,
+    "flat": 841,
+    "win_rate": 0.4364589649391875
+  },
+  "by_market_type": [
+    {
+      "label": "独赢盘",
+      "count": 4258,
+      "pnl_sum": 194542.63999999998,
+      "pnl_avg": 45.688736496007515,
+      "positive": 1912,
+      "negative": 2241,
+      "flat": 105,
+      "win_rate": 0.44903710662282764
+    },
+    {
+      "label": "unknown",
+      "count": 3936,
+      "pnl_sum": -54712.9199999999,
+      "pnl_avg": -13.900640243902412,
+      "positive": 1680,
+      "negative": 2168,
+      "flat": 88,
+      "win_rate": 0.4268292682926829
+    },
+    {
+      "label": "让球盘",
+      "count": 3600,
+      "pnl_sum": -98608.33999999963,
+      "pnl_avg": -27.391205555555455,
+      "positive": 1481,
+      "negative": 1907,
+      "flat": 212,
+      "win_rate": 0.4113888888888889
+    },
+    {
+      "label": "地图 1 让球盘",
+      "count": 3359,
+      "pnl_sum": -99993.68999999958,
+      "pnl_avg": -29.768886573384812,
+      "positive": 1486,
+      "negative": 1852,
+      "flat": 21,
+      "win_rate": 0.4423935695147365
+    },
+    {
+      "label": "地图 1 大小盘",
+      "count": 2331,
+      "pnl_sum": 7.1399999999705415,
+      "pnl_avg": 0.0030630630630504255,
+      "positive": 1097,
+      "negative": 1223,
+      "flat": 11,
+      "win_rate": 0.4706134706134706
+    },
+    {
+      "label": "地图2 独赢盘",
+      "count": 1602,
+      "pnl_sum": 122344.51999999995,
+      "pnl_avg": 76.36986267166039,
+      "positive": 722,
+      "negative": 868,
+      "flat": 12,
+      "win_rate": 0.45068664169787764
+    },
+    {
+      "label": "地图2 让球盘",
+      "count": 1568,
+      "pnl_sum": 47004.449999999975,
+      "pnl_avg": 29.97732780612243,
+      "positive": 742,
+      "negative": 810,
+      "flat": 16,
+      "win_rate": 0.4732142857142857
+    },
+    {
+      "label": "地图 1 独赢盘",
+      "count": 1343,
+      "pnl_sum": -132368.77999999994,
+      "pnl_avg": -98.5620104244229,
+      "positive": 575,
+      "negative": 757,
+      "flat": 11,
+      "win_rate": 0.42814594192107225
+    },
+    {
+      "label": "大小盘",
+      "count": 994,
+      "pnl_sum": -25802.290000000005,
+      "pnl_avg": -25.95803822937626,
+      "positive": 418,
+      "negative": 478,
+      "flat": 98,
+      "win_rate": 0.42052313883299797
+    },
+    {
+      "label": "地图2 大小盘",
+      "count": 881,
+      "pnl_sum": -1981.379999999987,
+      "pnl_avg": -2.249012485811563,
+      "positive": 405,
+      "negative": 470,
+      "flat": 6,
+      "win_rate": 0.45970488081725314
+    },
+    {
+      "label": "地图3 让球盘",
+      "count": 562,
+      "pnl_sum": -2947.2199999999793,
+      "pnl_avg": -5.244163701067579,
+      "positive": 215,
+      "negative": 255,
+      "flat": 92,
+      "win_rate": 0.38256227758007116
+    },
+    {
+      "label": "地图3 大小盘",
+      "count": 396,
+      "pnl_sum": -8816.190000000002,
+      "pnl_avg": -22.263106060606066,
+      "positive": 173,
+      "negative": 220,
+      "flat": 3,
+      "win_rate": 0.43686868686868685
+    },
+    {
+      "label": "赛局 让球盘",
+      "count": 353,
+      "pnl_sum": -43593.80000000001,
+      "pnl_avg": -123.49518413597737,
+      "positive": 154,
+      "negative": 196,
+      "flat": 3,
+      "win_rate": 0.43626062322946174
+    },
+    {
+      "label": "地图3 独赢盘",
+      "count": 321,
+      "pnl_sum": -49357.99000000001,
+      "pnl_avg": -153.76320872274147,
+      "positive": 147,
+      "negative": 174,
+      "flat": 0,
+      "win_rate": 0.45794392523364486
+    },
+    {
+      "label": "赛局 独赢盘",
+      "count": 307,
+      "pnl_sum": 12053.990000000003,
+      "pnl_avg": 39.26381107491858,
+      "positive": 128,
+      "negative": 179,
+      "flat": 0,
+      "win_rate": 0.4169381107491857
+    },
+    {
+      "label": "上半场 让球盘",
+      "count": 255,
+      "pnl_sum": -10292.55,
+      "pnl_avg": -40.362941176470585,
+      "positive": 81,
+      "negative": 81,
+      "flat": 93,
+      "win_rate": 0.3176470588235294
+    },
+    {
+      "label": "上半场 大小盘",
+      "count": 236,
+      "pnl_sum": 7982.5400000000045,
+      "pnl_avg": 33.824322033898326,
+      "positive": 97,
+      "negative": 91,
+      "flat": 48,
+      "win_rate": 0.4110169491525424
+    },
+    {
+      "label": "格斗 独赢盘",
+      "count": 230,
+      "pnl_sum": -23556.729999999992,
+      "pnl_avg": -102.42056521739127,
+      "positive": 78,
+      "negative": 140,
+      "flat": 12,
+      "win_rate": 0.3391304347826087
+    },
+    {
+      "label": "滚球盘 地图 1 让球盘",
+      "count": 198,
+      "pnl_sum": -14578.16,
+      "pnl_avg": -73.6270707070707,
+      "positive": 99,
+      "negative": 99,
+      "flat": 0,
+      "win_rate": 0.5
+    },
+    {
+      "label": "赛局 大小盘",
+      "count": 141,
+      "pnl_sum": -29492.070000000003,
+      "pnl_avg": -209.16361702127662,
+      "positive": 59,
+      "negative": 82,
+      "flat": 0,
+      "win_rate": 0.41843971631205673
+    },
+    {
+      "label": "上半场 独赢盘",
+      "count": 124,
+      "pnl_sum": 19180.24,
+      "pnl_avg": 154.67935483870968,
+      "positive": 58,
+      "negative": 66,
+      "flat": 0,
+      "win_rate": 0.46774193548387094
+    },
+    {
+      "label": "滚球盘 地图2 让球盘",
+      "count": 117,
+      "pnl_sum": 16427.73,
+      "pnl_avg": 140.40794871794873,
+      "positive": 57,
+      "negative": 60,
+      "flat": 0,
+      "win_rate": 0.48717948717948717
+    },
+    {
+      "label": "滚球盘 地图2 独赢盘",
+      "count": 114,
+      "pnl_sum": -3807.7699999999973,
+      "pnl_avg": -33.40149122807015,
+      "positive": 50,
+      "negative": 64,
+      "flat": 0,
+      "win_rate": 0.43859649122807015
+    },
+    {
+      "label": "地图4 独赢盘",
+      "count": 92,
+      "pnl_sum": 2788.13000000001,
+      "pnl_avg": 30.305760869565326,
+      "positive": 33,
+      "negative": 57,
+      "flat": 2,
+      "win_rate": 0.358695652173913
+    },
+    {
+      "label": "第一节 让球盘",
+      "count": 83,
+      "pnl_sum": -27127.559999999998,
+      "pnl_avg": -326.83807228915657,
+      "positive": 27,
+      "negative": 56,
+      "flat": 0,
+      "win_rate": 0.3253012048192771
+    },
+    {
+      "label": "滚球盘 地图 1 独赢盘",
+      "count": 65,
+      "pnl_sum": -28808.55,
+      "pnl_avg": -443.2084615384615,
+      "positive": 24,
+      "negative": 41,
+      "flat": 0,
+      "win_rate": 0.36923076923076925
+    },
+    {
+      "label": "地图4 让球盘",
+      "count": 63,
+      "pnl_sum": -31805.960000000003,
+      "pnl_avg": -504.85650793650797,
+      "positive": 16,
+      "negative": 47,
+      "flat": 0,
+      "win_rate": 0.25396825396825395
+    },
+    {
+      "label": "地图4 大小盘",
+      "count": 62,
+      "pnl_sum": -9926.160000000002,
+      "pnl_avg": -160.0993548387097,
+      "positive": 25,
+      "negative": 37,
+      "flat": 0,
+      "win_rate": 0.4032258064516129
+    },
+    {
+      "label": "滚球盘 地图3 让球盘",
+      "count": 56,
+      "pnl_sum": 13812.169999999998,
+      "pnl_avg": 246.64589285714283,
+      "positive": 34,
+      "negative": 22,
+      "flat": 0,
+      "win_rate": 0.6071428571428571
+    },
+    {
+      "label": "让球盘 [0-0]",
+      "count": 49,
+      "pnl_sum": -2932.640000000001,
+      "pnl_avg": -59.84979591836736,
+      "positive": 14,
+      "negative": 34,
+      "flat": 1,
+      "win_rate": 0.2857142857142857
+    },
+    {
+      "label": "滚球盘 地图 1 大小盘",
+      "count": 45,
+      "pnl_sum": 6602.670000000001,
+      "pnl_avg": 146.72600000000003,
+      "positive": 16,
+      "negative": 29,
+      "flat": 0,
+      "win_rate": 0.35555555555555557
+    },
+    {
+      "label": "地图5 大小盘",
+      "count": 32,
+      "pnl_sum": -7136.880000000001,
+      "pnl_avg": -223.02750000000003,
+      "positive": 9,
+      "negative": 23,
+      "flat": 0,
+      "win_rate": 0.28125
+    },
+    {
+      "label": "第一节 大小盘",
+      "count": 31,
+      "pnl_sum": 4301.350000000001,
+      "pnl_avg": 138.75322580645167,
+      "positive": 17,
+      "negative": 14,
+      "flat": 0,
+      "win_rate": 0.5483870967741935
+    },
+    {
+      "label": "第一节 独赢盘",
+      "count": 31,
+      "pnl_sum": -11793.45,
+      "pnl_avg": -380.43387096774194,
+      "positive": 8,
+      "negative": 19,
+      "flat": 4,
+      "win_rate": 0.25806451612903225
+    },
+    {
+      "label": "滚球盘 地图2 大小盘",
+      "count": 27,
+      "pnl_sum": 833.28,
+      "pnl_avg": 30.862222222222222,
+      "positive": 15,
+      "negative": 12,
+      "flat": 0,
+      "win_rate": 0.5555555555555556
+    },
+    {
+      "label": "地图5 独赢盘",
+      "count": 27,
+      "pnl_sum": 30489.139999999996,
+      "pnl_avg": 1129.2274074074073,
+      "positive": 18,
+      "negative": 9,
+      "flat": 0,
+      "win_rate": 0.6666666666666666
+    },
+    {
+      "label": "滚球盘 地图3 独赢盘",
+      "count": 26,
+      "pnl_sum": 4993.349999999999,
+      "pnl_avg": 192.05192307692306,
+      "positive": 10,
+      "negative": 16,
+      "flat": 0,
+      "win_rate": 0.38461538461538464
+    },
+    {
+      "label": "滚球盘 地图3 大小盘",
+      "count": 23,
+      "pnl_sum": 2173.8699999999994,
+      "pnl_avg": 94.51608695652172,
+      "positive": 13,
+      "negative": 10,
+      "flat": 0,
+      "win_rate": 0.5652173913043478
+    },
+    {
+      "label": "大小盘 [0-0]",
+      "count": 17,
+      "pnl_sum": 599.7,
+      "pnl_avg": 35.2764705882353,
+      "positive": 8,
+      "negative": 7,
+      "flat": 2,
+      "win_rate": 0.47058823529411764
+    },
+    {
+      "label": "地图5 让球盘",
+      "count": 16,
+      "pnl_sum": -5663.41,
+      "pnl_avg": -353.963125,
+      "positive": 5,
+      "negative": 11,
+      "flat": 0,
+      "win_rate": 0.3125
+    },
+    {
+      "label": "独赢盘 [0-0]",
+      "count": 14,
+      "pnl_sum": 60.72000000000001,
+      "pnl_avg": 4.337142857142858,
+      "positive": 6,
+      "negative": 8,
+      "flat": 0,
+      "win_rate": 0.42857142857142855
+    },
+    {
+      "label": "滚球盘 地图4 独赢盘",
+      "count": 9,
+      "pnl_sum": 304.53000000000003,
+      "pnl_avg": 33.83666666666667,
+      "positive": 6,
+      "negative": 3,
+      "flat": 0,
+      "win_rate": 0.6666666666666666
+    },
+    {
+      "label": "滚球盘 赛局 独赢盘",
+      "count": 7,
+      "pnl_sum": -789.97,
+      "pnl_avg": -112.85285714285715,
+      "positive": 4,
+      "negative": 3,
+      "flat": 0,
+      "win_rate": 0.5714285714285714
+    },
+    {
+      "label": "让球盘 [1-0]",
+      "count": 4,
+      "pnl_sum": 2217.7200000000003,
+      "pnl_avg": 554.4300000000001,
+      "positive": 3,
+      "negative": 1,
+      "flat": 0,
+      "win_rate": 0.75
+    },
+    {
+      "label": "滚球盘 地图4 让球盘",
+      "count": 4,
+      "pnl_sum": 153.94,
+      "pnl_avg": 38.485,
+      "positive": 2,
+      "negative": 2,
+      "flat": 0,
+      "win_rate": 0.5
+    },
+    {
+      "label": "滚球盘 上半场 大小盘 [0-0]",
+      "count": 3,
+      "pnl_sum": -1169.13,
+      "pnl_avg": -389.71000000000004,
+      "positive": 2,
+      "negative": 1,
+      "flat": 0,
+      "win_rate": 0.6666666666666666
+    },
+    {
+      "label": "独赢盘 [1-0]",
+      "count": 3,
+      "pnl_sum": 123.27000000000001,
+      "pnl_avg": 41.09,
+      "positive": 3,
+      "negative": 0,
+      "flat": 0,
+      "win_rate": 1
+    },
+    {
+      "label": "滚球盘 上半场 独赢盘 [0-0]",
+      "count": 3,
+      "pnl_sum": -8.91,
+      "pnl_avg": -2.97,
+      "positive": 1,
+      "negative": 2,
+      "flat": 0,
+      "win_rate": 0.3333333333333333
+    },
+    {
+      "label": "滚球盘 地图4 大小盘",
+      "count": 3,
+      "pnl_sum": -30.809999999999995,
+      "pnl_avg": -10.269999999999998,
+      "positive": 1,
+      "negative": 2,
+      "flat": 0,
+      "win_rate": 0.3333333333333333
+    },
+    {
+      "label": "滚球盘 地图5 大小盘",
+      "count": 2,
+      "pnl_sum": -105,
+      "pnl_avg": -52.5,
+      "positive": 0,
+      "negative": 2,
+      "flat": 0,
+      "win_rate": 0
+    },
+    {
+      "label": "滚球盘 上半场 独赢盘",
+      "count": 2,
+      "pnl_sum": -158,
+      "pnl_avg": -79,
+      "positive": 0,
+      "negative": 2,
+      "flat": 0,
+      "win_rate": 0
+    },
+    {
+      "label": "让球盘 [0-3]",
+      "count": 2,
+      "pnl_sum": 111.38,
+      "pnl_avg": 55.69,
+      "positive": 1,
+      "negative": 1,
+      "flat": 0,
+      "win_rate": 0.5
+    },
+    {
+      "label": "让球盘 [2-0]",
+      "count": 2,
+      "pnl_sum": -37.38,
+      "pnl_avg": -18.69,
+      "positive": 1,
+      "negative": 1,
+      "flat": 0,
+      "win_rate": 0.5
+    },
+    {
+      "label": "滚球盘 赛局 大小盘",
+      "count": 2,
+      "pnl_sum": 173,
+      "pnl_avg": 86.5,
+      "positive": 1,
+      "negative": 1,
+      "flat": 0,
+      "win_rate": 0.5
+    },
+    {
+      "label": "滚球盘 上半场 大小盘",
+      "count": 1,
+      "pnl_sum": -26,
+      "pnl_avg": -26,
+      "positive": 0,
+      "negative": 1,
+      "flat": 0,
+      "win_rate": 0
+    },
+    {
+      "label": "滚球盘 上半场 独赢盘 [1-0]",
+      "count": 1,
+      "pnl_sum": -23.5,
+      "pnl_avg": -23.5,
+      "positive": 0,
+      "negative": 1,
+      "flat": 0,
+      "win_rate": 0
+    },
+    {
+      "label": "滚球盘 地图5 让球盘",
+      "count": 1,
+      "pnl_sum": -3530.11,
+      "pnl_avg": -3530.11,
+      "positive": 0,
+      "negative": 1,
+      "flat": 0,
+      "win_rate": 0
+    },
+    {
+      "label": "滚球盘 赛局 让球盘",
+      "count": 1,
+      "pnl_sum": -2000,
+      "pnl_avg": -2000,
+      "positive": 0,
+      "negative": 1,
+      "flat": 0,
+      "win_rate": 0
+    },
+    {
+      "label": "独赢盘 [0-1]",
+      "count": 1,
+      "pnl_sum": -11,
+      "pnl_avg": -11,
+      "positive": 0,
+      "negative": 1,
+      "flat": 0,
+      "win_rate": 0
+    },
+    {
+      "label": "让球盘 [0-1]",
+      "count": 1,
+      "pnl_sum": 0,
+      "pnl_avg": 0,
+      "positive": 0,
+      "negative": 0,
+      "flat": 1,
+      "win_rate": 0
+    }
+  ],
+  "by_price_bucket": [
+    {
+      "label": "2.1-2.49",
+      "count": 10409,
+      "pnl_sum": -268886.4499999996,
+      "pnl_avg": -25.832111634162708,
+      "positive": 4291,
+      "negative": 5722,
+      "flat": 396,
+      "win_rate": 0.41223940820443844
+    },
+    {
+      "label": "1.8-2.09",
+      "count": 9012,
+      "pnl_sum": -106855.65000000014,
+      "pnl_avg": -11.85704061251666,
+      "positive": 4376,
+      "negative": 4411,
+      "flat": 225,
+      "win_rate": 0.4855747891699956
+    },
+    {
+      "label": "2.5-2.99",
+      "count": 2802,
+      "pnl_sum": 19572.980000000014,
+      "pnl_avg": 6.985360456816565,
+      "positive": 1008,
+      "negative": 1677,
+      "flat": 117,
+      "win_rate": 0.35974304068522484
+    },
+    {
+      "label": "1.5-1.79",
+      "count": 1972,
+      "pnl_sum": 32300.690000000017,
+      "pnl_avg": 16.379660243407717,
+      "positive": 1134,
+      "negative": 795,
+      "flat": 43,
+      "win_rate": 0.5750507099391481
+    },
+    {
+      "label": "3.0-3.99",
+      "count": 1728,
+      "pnl_sum": 62389.900000000016,
+      "pnl_avg": 36.105266203703714,
+      "positive": 536,
+      "negative": 1178,
+      "flat": 14,
+      "win_rate": 0.3101851851851852
+    },
+    {
+      "label": "<1.5",
+      "count": 1067,
+      "pnl_sum": 67720.83000000016,
+      "pnl_avg": 63.468444236176346,
+      "positive": 734,
+      "negative": 304,
+      "flat": 29,
+      "win_rate": 0.6879100281162137
+    },
+    {
+      "label": "4.0+",
+      "count": 1047,
+      "pnl_sum": -49955.130000000034,
+      "pnl_avg": -47.712636103151894,
+      "positive": 158,
+      "negative": 872,
+      "flat": 17,
+      "win_rate": 0.15090735434574976
+    }
+  ],
+  "highlights": {
+    "best_market_types": [
+      {
+        "label": "上半场 独赢盘",
+        "count": 124,
+        "pnl_sum": 19180.24,
+        "pnl_avg": 154.67935483870968,
+        "positive": 58,
+        "negative": 66,
+        "flat": 0,
+        "win_rate": 0.46774193548387094
+      },
+      {
+        "label": "滚球盘 地图2 让球盘",
+        "count": 117,
+        "pnl_sum": 16427.73,
+        "pnl_avg": 140.40794871794873,
+        "positive": 57,
+        "negative": 60,
+        "flat": 0,
+        "win_rate": 0.48717948717948717
+      },
+      {
+        "label": "地图2 独赢盘",
+        "count": 1602,
+        "pnl_sum": 122344.51999999995,
+        "pnl_avg": 76.36986267166039,
+        "positive": 722,
+        "negative": 868,
+        "flat": 12,
+        "win_rate": 0.45068664169787764
+      },
+      {
+        "label": "独赢盘",
+        "count": 4258,
+        "pnl_sum": 194542.63999999998,
+        "pnl_avg": 45.688736496007515,
+        "positive": 1912,
+        "negative": 2241,
+        "flat": 105,
+        "win_rate": 0.44903710662282764
+      },
+      {
+        "label": "赛局 独赢盘",
+        "count": 307,
+        "pnl_sum": 12053.990000000003,
+        "pnl_avg": 39.26381107491858,
+        "positive": 128,
+        "negative": 179,
+        "flat": 0,
+        "win_rate": 0.4169381107491857
+      },
+      {
+        "label": "上半场 大小盘",
+        "count": 236,
+        "pnl_sum": 7982.5400000000045,
+        "pnl_avg": 33.824322033898326,
+        "positive": 97,
+        "negative": 91,
+        "flat": 48,
+        "win_rate": 0.4110169491525424
+      },
+      {
+        "label": "地图4 独赢盘",
+        "count": 92,
+        "pnl_sum": 2788.13000000001,
+        "pnl_avg": 30.305760869565326,
+        "positive": 33,
+        "negative": 57,
+        "flat": 2,
+        "win_rate": 0.358695652173913
+      },
+      {
+        "label": "地图2 让球盘",
+        "count": 1568,
+        "pnl_sum": 47004.449999999975,
+        "pnl_avg": 29.97732780612243,
+        "positive": 742,
+        "negative": 810,
+        "flat": 16,
+        "win_rate": 0.4732142857142857
+      },
+      {
+        "label": "地图 1 大小盘",
+        "count": 2331,
+        "pnl_sum": 7.1399999999705415,
+        "pnl_avg": 0.0030630630630504255,
+        "positive": 1097,
+        "negative": 1223,
+        "flat": 11,
+        "win_rate": 0.4706134706134706
+      },
+      {
+        "label": "地图2 大小盘",
+        "count": 881,
+        "pnl_sum": -1981.379999999987,
+        "pnl_avg": -2.249012485811563,
+        "positive": 405,
+        "negative": 470,
+        "flat": 6,
+        "win_rate": 0.45970488081725314
+      }
+    ],
+    "worst_market_types": [
+      {
+        "label": "第一节 让球盘",
+        "count": 83,
+        "pnl_sum": -27127.559999999998,
+        "pnl_avg": -326.83807228915657,
+        "positive": 27,
+        "negative": 56,
+        "flat": 0,
+        "win_rate": 0.3253012048192771
+      },
+      {
+        "label": "赛局 大小盘",
+        "count": 141,
+        "pnl_sum": -29492.070000000003,
+        "pnl_avg": -209.16361702127662,
+        "positive": 59,
+        "negative": 82,
+        "flat": 0,
+        "win_rate": 0.41843971631205673
+      },
+      {
+        "label": "地图3 独赢盘",
+        "count": 321,
+        "pnl_sum": -49357.99000000001,
+        "pnl_avg": -153.76320872274147,
+        "positive": 147,
+        "negative": 174,
+        "flat": 0,
+        "win_rate": 0.45794392523364486
+      },
+      {
+        "label": "赛局 让球盘",
+        "count": 353,
+        "pnl_sum": -43593.80000000001,
+        "pnl_avg": -123.49518413597737,
+        "positive": 154,
+        "negative": 196,
+        "flat": 3,
+        "win_rate": 0.43626062322946174
+      },
+      {
+        "label": "格斗 独赢盘",
+        "count": 230,
+        "pnl_sum": -23556.729999999992,
+        "pnl_avg": -102.42056521739127,
+        "positive": 78,
+        "negative": 140,
+        "flat": 12,
+        "win_rate": 0.3391304347826087
+      },
+      {
+        "label": "地图 1 独赢盘",
+        "count": 1343,
+        "pnl_sum": -132368.77999999994,
+        "pnl_avg": -98.5620104244229,
+        "positive": 575,
+        "negative": 757,
+        "flat": 11,
+        "win_rate": 0.42814594192107225
+      },
+      {
+        "label": "滚球盘 地图 1 让球盘",
+        "count": 198,
+        "pnl_sum": -14578.16,
+        "pnl_avg": -73.6270707070707,
+        "positive": 99,
+        "negative": 99,
+        "flat": 0,
+        "win_rate": 0.5
+      },
+      {
+        "label": "上半场 让球盘",
+        "count": 255,
+        "pnl_sum": -10292.55,
+        "pnl_avg": -40.362941176470585,
+        "positive": 81,
+        "negative": 81,
+        "flat": 93,
+        "win_rate": 0.3176470588235294
+      },
+      {
+        "label": "滚球盘 地图2 独赢盘",
+        "count": 114,
+        "pnl_sum": -3807.7699999999973,
+        "pnl_avg": -33.40149122807015,
+        "positive": 50,
+        "negative": 64,
+        "flat": 0,
+        "win_rate": 0.43859649122807015
+      },
+      {
+        "label": "地图 1 让球盘",
+        "count": 3359,
+        "pnl_sum": -99993.68999999958,
+        "pnl_avg": -29.768886573384812,
+        "positive": 1486,
+        "negative": 1852,
+        "flat": 21,
+        "win_rate": 0.4423935695147365
+      }
+    ],
+    "best_price_buckets": [
+      {
+        "label": "<1.5",
+        "count": 1067,
+        "pnl_sum": 67720.83000000016,
+        "pnl_avg": 63.468444236176346,
+        "positive": 734,
+        "negative": 304,
+        "flat": 29,
+        "win_rate": 0.6879100281162137
+      },
+      {
+        "label": "3.0-3.99",
+        "count": 1728,
+        "pnl_sum": 62389.900000000016,
+        "pnl_avg": 36.105266203703714,
+        "positive": 536,
+        "negative": 1178,
+        "flat": 14,
+        "win_rate": 0.3101851851851852
+      },
+      {
+        "label": "1.5-1.79",
+        "count": 1972,
+        "pnl_sum": 32300.690000000017,
+        "pnl_avg": 16.379660243407717,
+        "positive": 1134,
+        "negative": 795,
+        "flat": 43,
+        "win_rate": 0.5750507099391481
+      },
+      {
+        "label": "2.5-2.99",
+        "count": 2802,
+        "pnl_sum": 19572.980000000014,
+        "pnl_avg": 6.985360456816565,
+        "positive": 1008,
+        "negative": 1677,
+        "flat": 117,
+        "win_rate": 0.35974304068522484
+      },
+      {
+        "label": "1.8-2.09",
+        "count": 9012,
+        "pnl_sum": -106855.65000000014,
+        "pnl_avg": -11.85704061251666,
+        "positive": 4376,
+        "negative": 4411,
+        "flat": 225,
+        "win_rate": 0.4855747891699956
+      },
+      {
+        "label": "2.1-2.49",
+        "count": 10409,
+        "pnl_sum": -268886.4499999996,
+        "pnl_avg": -25.832111634162708,
+        "positive": 4291,
+        "negative": 5722,
+        "flat": 396,
+        "win_rate": 0.41223940820443844
+      },
+      {
+        "label": "4.0+",
+        "count": 1047,
+        "pnl_sum": -49955.130000000034,
+        "pnl_avg": -47.712636103151894,
+        "positive": 158,
+        "negative": 872,
+        "flat": 17,
+        "win_rate": 0.15090735434574976
+      }
+    ],
+    "worst_price_buckets": [
+      {
+        "label": "4.0+",
+        "count": 1047,
+        "pnl_sum": -49955.130000000034,
+        "pnl_avg": -47.712636103151894,
+        "positive": 158,
+        "negative": 872,
+        "flat": 17,
+        "win_rate": 0.15090735434574976
+      },
+      {
+        "label": "2.1-2.49",
+        "count": 10409,
+        "pnl_sum": -268886.4499999996,
+        "pnl_avg": -25.832111634162708,
+        "positive": 4291,
+        "negative": 5722,
+        "flat": 396,
+        "win_rate": 0.41223940820443844
+      },
+      {
+        "label": "1.8-2.09",
+        "count": 9012,
+        "pnl_sum": -106855.65000000014,
+        "pnl_avg": -11.85704061251666,
+        "positive": 4376,
+        "negative": 4411,
+        "flat": 225,
+        "win_rate": 0.4855747891699956
+      },
+      {
+        "label": "2.5-2.99",
+        "count": 2802,
+        "pnl_sum": 19572.980000000014,
+        "pnl_avg": 6.985360456816565,
+        "positive": 1008,
+        "negative": 1677,
+        "flat": 117,
+        "win_rate": 0.35974304068522484
+      },
+      {
+        "label": "1.5-1.79",
+        "count": 1972,
+        "pnl_sum": 32300.690000000017,
+        "pnl_avg": 16.379660243407717,
+        "positive": 1134,
+        "negative": 795,
+        "flat": 43,
+        "win_rate": 0.5750507099391481
+      },
+      {
+        "label": "3.0-3.99",
+        "count": 1728,
+        "pnl_sum": 62389.900000000016,
+        "pnl_avg": 36.105266203703714,
+        "positive": 536,
+        "negative": 1178,
+        "flat": 14,
+        "win_rate": 0.3101851851851852
+      },
+      {
+        "label": "<1.5",
+        "count": 1067,
+        "pnl_sum": 67720.83000000016,
+        "pnl_avg": 63.468444236176346,
+        "positive": 734,
+        "negative": 304,
+        "flat": 29,
+        "win_rate": 0.6879100281162137
+      }
+    ],
+    "best_market_price_combos": [
+      {
+        "label": "地图2 独赢盘 | 1.5-1.79",
+        "count": 167,
+        "pnl_sum": 75004.47000000002,
+        "pnl_avg": 449.1285628742516,
+        "positive": 110,
+        "negative": 55,
+        "flat": 2,
+        "win_rate": 0.6586826347305389
+      },
+      {
+        "label": "地图 1 独赢盘 | 2.5-2.99",
+        "count": 186,
+        "pnl_sum": 54438.459999999985,
+        "pnl_avg": 292.6798924731182,
+        "positive": 87,
+        "negative": 97,
+        "flat": 2,
+        "win_rate": 0.46774193548387094
+      },
+      {
+        "label": "滚球盘 地图2 让球盘 | 1.8-2.09",
+        "count": 62,
+        "pnl_sum": 15354.830000000002,
+        "pnl_avg": 247.6585483870968,
+        "positive": 33,
+        "negative": 29,
+        "flat": 0,
+        "win_rate": 0.532258064516129
+      },
+      {
+        "label": "赛局 独赢盘 | 3.0-3.99",
+        "count": 69,
+        "pnl_sum": 14506.30000000002,
+        "pnl_avg": 210.23623188405824,
+        "positive": 22,
+        "negative": 47,
+        "flat": 0,
+        "win_rate": 0.3188405797101449
+      },
+      {
+        "label": "地图2 独赢盘 | <1.5",
+        "count": 145,
+        "pnl_sum": 28384.340000000004,
+        "pnl_avg": 195.75406896551726,
+        "positive": 110,
+        "negative": 33,
+        "flat": 2,
+        "win_rate": 0.7586206896551724
+      },
+      {
+        "label": "独赢盘 | 3.0-3.99",
+        "count": 610,
+        "pnl_sum": 79305.20999999996,
+        "pnl_avg": 130.0085409836065,
+        "positive": 219,
+        "negative": 384,
+        "flat": 7,
+        "win_rate": 0.3590163934426229
+      },
+      {
+        "label": "让球盘 | <1.5",
+        "count": 87,
+        "pnl_sum": 10843.939999999995,
+        "pnl_avg": 124.64298850574707,
+        "positive": 61,
+        "negative": 24,
+        "flat": 2,
+        "win_rate": 0.7011494252873564
+      },
+      {
+        "label": "地图3 独赢盘 | 1.8-2.09",
+        "count": 68,
+        "pnl_sum": 8211.39,
+        "pnl_avg": 120.75573529411764,
+        "positive": 39,
+        "negative": 29,
+        "flat": 0,
+        "win_rate": 0.5735294117647058
+      },
+      {
+        "label": "地图2 独赢盘 | 3.0-3.99",
+        "count": 242,
+        "pnl_sum": 26216.85999999999,
+        "pnl_avg": 108.33413223140492,
+        "positive": 81,
+        "negative": 161,
+        "flat": 0,
+        "win_rate": 0.3347107438016529
+      },
+      {
+        "label": "地图3 大小盘 | 1.8-2.09",
+        "count": 193,
+        "pnl_sum": 18666.280000000002,
+        "pnl_avg": 96.71647668393784,
+        "positive": 101,
+        "negative": 92,
+        "flat": 0,
+        "win_rate": 0.5233160621761658
+      },
+      {
+        "label": "独赢盘 | 1.5-1.79",
+        "count": 627,
+        "pnl_sum": 50928.420000000006,
+        "pnl_avg": 81.22555023923447,
+        "positive": 366,
+        "negative": 246,
+        "flat": 15,
+        "win_rate": 0.583732057416268
+      },
+      {
+        "label": "独赢盘 | 2.5-2.99",
+        "count": 578,
+        "pnl_sum": 41188.06000000002,
+        "pnl_avg": 71.25961937716266,
+        "positive": 227,
+        "negative": 337,
+        "flat": 14,
+        "win_rate": 0.39273356401384085
+      },
+      {
+        "label": "地图2 让球盘 | 1.8-2.09",
+        "count": 651,
+        "pnl_sum": 42498.22000000002,
+        "pnl_avg": 65.2814439324117,
+        "positive": 350,
+        "negative": 298,
+        "flat": 3,
+        "win_rate": 0.5376344086021505
+      },
+      {
+        "label": "赛局 独赢盘 | 4.0+",
+        "count": 69,
+        "pnl_sum": 4494.590000000001,
+        "pnl_avg": 65.13898550724639,
+        "positive": 16,
+        "negative": 53,
+        "flat": 0,
+        "win_rate": 0.2318840579710145
+      },
+      {
+        "label": "地图 1 独赢盘 | <1.5",
+        "count": 139,
+        "pnl_sum": 8658.779999999995,
+        "pnl_avg": 62.29338129496399,
+        "positive": 100,
+        "negative": 39,
+        "flat": 0,
+        "win_rate": 0.7194244604316546
+      }
+    ],
+    "worst_market_price_combos": [
+      {
+        "label": "格斗 独赢盘 | 2.1-2.49",
+        "count": 62,
+        "pnl_sum": -20615.2,
+        "pnl_avg": -332.5032258064516,
+        "positive": 16,
+        "negative": 46,
+        "flat": 0,
+        "win_rate": 0.25806451612903225
+      },
+      {
+        "label": "地图 1 独赢盘 | 1.8-2.09",
+        "count": 240,
+        "pnl_sum": -67819.37,
+        "pnl_avg": -282.5807083333333,
+        "positive": 101,
+        "negative": 135,
+        "flat": 4,
+        "win_rate": 0.42083333333333334
+      },
+      {
+        "label": "地图 1 独赢盘 | 2.1-2.49",
+        "count": 358,
+        "pnl_sum": -89900.55999999994,
+        "pnl_avg": -251.1188826815641,
+        "positive": 129,
+        "negative": 226,
+        "flat": 3,
+        "win_rate": 0.36033519553072624
+      },
+      {
+        "label": "上半场 让球盘 | 1.8-2.09",
+        "count": 62,
+        "pnl_sum": -15556.339999999998,
+        "pnl_avg": -250.90870967741932,
+        "positive": 22,
+        "negative": 28,
+        "flat": 12,
+        "win_rate": 0.3548387096774194
+      },
+      {
+        "label": "第一节 让球盘 | 2.1-2.49",
+        "count": 67,
+        "pnl_sum": -16255.919999999998,
+        "pnl_avg": -242.62567164179103,
+        "positive": 23,
+        "negative": 44,
+        "flat": 0,
+        "win_rate": 0.34328358208955223
+      },
+      {
+        "label": "赛局 让球盘 | 1.8-2.09",
+        "count": 135,
+        "pnl_sum": -27888.229999999996,
+        "pnl_avg": -206.57948148148145,
+        "positive": 59,
+        "negative": 75,
+        "flat": 1,
+        "win_rate": 0.43703703703703706
+      },
+      {
+        "label": "滚球盘 地图 1 让球盘 | 1.8-2.09",
+        "count": 107,
+        "pnl_sum": -21865.48,
+        "pnl_avg": -204.35028037383177,
+        "positive": 50,
+        "negative": 57,
+        "flat": 0,
+        "win_rate": 0.4672897196261682
+      },
+      {
+        "label": "地图 1 让球盘 | 2.5-2.99",
+        "count": 108,
+        "pnl_sum": -21061.710000000006,
+        "pnl_avg": -195.0158333333334,
+        "positive": 38,
+        "negative": 66,
+        "flat": 4,
+        "win_rate": 0.35185185185185186
+      },
+      {
+        "label": "unknown | <1.5",
+        "count": 125,
+        "pnl_sum": -24140.01000000001,
+        "pnl_avg": -193.1200800000001,
+        "positive": 75,
+        "negative": 40,
+        "flat": 10,
+        "win_rate": 0.6
+      },
+      {
+        "label": "赛局 大小盘 | 1.8-2.09",
+        "count": 104,
+        "pnl_sum": -17849.53999999999,
+        "pnl_avg": -171.6301923076922,
+        "positive": 48,
+        "negative": 56,
+        "flat": 0,
+        "win_rate": 0.46153846153846156
+      },
+      {
+        "label": "地图 1 独赢盘 | 4.0+",
+        "count": 85,
+        "pnl_sum": -12666.2,
+        "pnl_avg": -149.01411764705884,
+        "positive": 11,
+        "negative": 72,
+        "flat": 2,
+        "win_rate": 0.12941176470588237
+      },
+      {
+        "label": "地图3 独赢盘 | 2.1-2.49",
+        "count": 93,
+        "pnl_sum": -9462.90000000001,
+        "pnl_avg": -101.75161290322592,
+        "positive": 42,
+        "negative": 51,
+        "flat": 0,
+        "win_rate": 0.45161290322580644
+      },
+      {
+        "label": "unknown | 4.0+",
+        "count": 191,
+        "pnl_sum": -18977.409999999996,
+        "pnl_avg": -99.358167539267,
+        "positive": 26,
+        "negative": 162,
+        "flat": 3,
+        "win_rate": 0.13612565445026178
+      },
+      {
+        "label": "地图 1 独赢盘 | 3.0-3.99",
+        "count": 160,
+        "pnl_sum": -12760.36,
+        "pnl_avg": -79.75225,
+        "positive": 40,
+        "negative": 120,
+        "flat": 0,
+        "win_rate": 0.25
+      },
+      {
+        "label": "让球盘 | 1.5-1.79",
+        "count": 267,
+        "pnl_sum": -20976.78000000001,
+        "pnl_avg": -78.56471910112363,
+        "positive": 134,
+        "negative": 131,
+        "flat": 2,
+        "win_rate": 0.50187265917603
+      }
+    ],
+    "best_focus_category_combos": [
+      {
+        "label": "Dota2 | 地图2 独赢盘 | 1.5-1.79",
+        "count": 41,
+        "pnl_sum": 31640.800000000007,
+        "pnl_avg": 771.7268292682928,
+        "positive": 33,
+        "negative": 8,
+        "flat": 0,
+        "win_rate": 0.8048780487804879
+      },
+      {
+        "label": "Dota2 | 地图 1 独赢盘 | <1.5",
+        "count": 32,
+        "pnl_sum": 24400.14,
+        "pnl_avg": 762.504375,
+        "positive": 27,
+        "negative": 5,
+        "flat": 0,
+        "win_rate": 0.84375
+      },
+      {
+        "label": "Dota2 | 地图 1 独赢盘 | 1.5-1.79",
+        "count": 33,
+        "pnl_sum": 24331.789999999997,
+        "pnl_avg": 737.3269696969696,
+        "positive": 28,
+        "negative": 5,
+        "flat": 0,
+        "win_rate": 0.8484848484848485
+      },
+      {
+        "label": "Basketball | 赛局 独赢盘 | <1.5",
+        "count": 31,
+        "pnl_sum": 20607.359999999997,
+        "pnl_avg": 664.7535483870967,
+        "positive": 26,
+        "negative": 5,
+        "flat": 0,
+        "win_rate": 0.8387096774193549
+      },
+      {
+        "label": "Dota2 | 地图 1 独赢盘 | 2.5-2.99",
+        "count": 48,
+        "pnl_sum": 24231.730000000003,
+        "pnl_avg": 504.8277083333334,
+        "positive": 24,
+        "negative": 24,
+        "flat": 0,
+        "win_rate": 0.5
+      },
+      {
+        "label": "Dota2 | 独赢盘 | 2.5-2.99",
+        "count": 72,
+        "pnl_sum": 30947.110000000004,
+        "pnl_avg": 429.8209722222223,
+        "positive": 44,
+        "negative": 28,
+        "flat": 0,
+        "win_rate": 0.6111111111111112
+      },
+      {
+        "label": "Dota2 | 地图2 独赢盘 | <1.5",
+        "count": 40,
+        "pnl_sum": 17055.289999999997,
+        "pnl_avg": 426.38224999999994,
+        "positive": 34,
+        "negative": 6,
+        "flat": 0,
+        "win_rate": 0.85
+      },
+      {
+        "label": "Dota2 | 独赢盘 | 2.1-2.49",
+        "count": 94,
+        "pnl_sum": 39468.8,
+        "pnl_avg": 419.8808510638298,
+        "positive": 58,
+        "negative": 36,
+        "flat": 0,
+        "win_rate": 0.6170212765957447
+      },
+      {
+        "label": "Dota2 | 独赢盘 | 1.5-1.79",
+        "count": 67,
+        "pnl_sum": 27794.41,
+        "pnl_avg": 414.84194029850744,
+        "positive": 44,
+        "negative": 23,
+        "flat": 0,
+        "win_rate": 0.6567164179104478
+      },
+      {
+        "label": "Dota2 | 地图2 独赢盘 | 2.5-2.99",
+        "count": 72,
+        "pnl_sum": 29048.029999999995,
+        "pnl_avg": 403.44486111111104,
+        "positive": 42,
+        "negative": 30,
+        "flat": 0,
+        "win_rate": 0.5833333333333334
+      },
+      {
+        "label": "Dota2 | 地图3 让球盘 | 1.8-2.09",
+        "count": 31,
+        "pnl_sum": 12473.75,
+        "pnl_avg": 402.3790322580645,
+        "positive": 18,
+        "negative": 12,
+        "flat": 1,
+        "win_rate": 0.5806451612903226
+      },
+      {
+        "label": "Dota2 | 地图2 独赢盘 | 2.1-2.49",
+        "count": 77,
+        "pnl_sum": 27376.43,
+        "pnl_avg": 355.53805194805193,
+        "positive": 44,
+        "negative": 33,
+        "flat": 0,
+        "win_rate": 0.5714285714285714
+      },
+      {
+        "label": "CS2 | 独赢盘 | 2.1-2.49",
+        "count": 33,
+        "pnl_sum": 7656.18,
+        "pnl_avg": 232.00545454545454,
+        "positive": 19,
+        "negative": 14,
+        "flat": 0,
+        "win_rate": 0.5757575757575758
+      },
+      {
+        "label": "Football | 让球盘 | 1.5-1.79",
+        "count": 36,
+        "pnl_sum": 8003.720000000001,
+        "pnl_avg": 222.32555555555558,
+        "positive": 23,
+        "negative": 11,
+        "flat": 2,
+        "win_rate": 0.6388888888888888
+      },
+      {
+        "label": "LoL | 地图 1 让球盘 | 2.1-2.49",
+        "count": 32,
+        "pnl_sum": 6152.5599999999995,
+        "pnl_avg": 192.26749999999998,
+        "positive": 20,
+        "negative": 12,
+        "flat": 0,
+        "win_rate": 0.625
+      },
+      {
+        "label": "Basketball | 赛局 独赢盘 | 1.8-2.09",
+        "count": 34,
+        "pnl_sum": 6446.210000000001,
+        "pnl_avg": 189.5944117647059,
+        "positive": 19,
+        "negative": 15,
+        "flat": 0,
+        "win_rate": 0.5588235294117647
+      },
+      {
+        "label": "Basketball | 赛局 独赢盘 | 3.0-3.99",
+        "count": 65,
+        "pnl_sum": 8383.820000000012,
+        "pnl_avg": 128.98184615384633,
+        "positive": 18,
+        "negative": 47,
+        "flat": 0,
+        "win_rate": 0.27692307692307694
+      },
+      {
+        "label": "Dota2 | 独赢盘 | 3.0-3.99",
+        "count": 93,
+        "pnl_sum": 11552.28,
+        "pnl_avg": 124.21806451612903,
+        "positive": 35,
+        "negative": 52,
+        "flat": 6,
+        "win_rate": 0.3763440860215054
+      },
+      {
+        "label": "Dota2 | 地图 1 让球盘 | 2.1-2.49",
+        "count": 217,
+        "pnl_sum": 26752.399999999976,
+        "pnl_avg": 123.28294930875565,
+        "positive": 112,
+        "negative": 105,
+        "flat": 0,
+        "win_rate": 0.5161290322580645
+      },
+      {
+        "label": "Basketball | 上半场 大小盘 | 1.8-2.09",
+        "count": 37,
+        "pnl_sum": 4535.560000000001,
+        "pnl_avg": 122.58270270270273,
+        "positive": 21,
+        "negative": 16,
+        "flat": 0,
+        "win_rate": 0.5675675675675675
+      }
+    ],
+    "worst_focus_category_combos": [
+      {
+        "label": "Dota2 | 地图 1 独赢盘 | 1.8-2.09",
+        "count": 76,
+        "pnl_sum": -55256.94000000001,
+        "pnl_avg": -727.0650000000002,
+        "positive": 30,
+        "negative": 46,
+        "flat": 0,
+        "win_rate": 0.39473684210526316
+      },
+      {
+        "label": "Basketball | 赛局 独赢盘 | 2.1-2.49",
+        "count": 53,
+        "pnl_sum": -28984.799999999996,
+        "pnl_avg": -546.8830188679244,
+        "positive": 23,
+        "negative": 30,
+        "flat": 0,
+        "win_rate": 0.4339622641509434
+      },
+      {
+        "label": "Football | unknown | <1.5",
+        "count": 32,
+        "pnl_sum": -15128.03,
+        "pnl_avg": -472.7509375,
+        "positive": 26,
+        "negative": 6,
+        "flat": 0,
+        "win_rate": 0.8125
+      },
+      {
+        "label": "Dota2 | 地图 1 独赢盘 | 2.1-2.49",
+        "count": 95,
+        "pnl_sum": -35339.560000000005,
+        "pnl_avg": -371.99536842105266,
+        "positive": 36,
+        "negative": 59,
+        "flat": 0,
+        "win_rate": 0.37894736842105264
+      },
+      {
+        "label": "Basketball | 赛局 让球盘 | 1.5-1.79",
+        "count": 40,
+        "pnl_sum": -13916.299999999997,
+        "pnl_avg": -347.9074999999999,
+        "positive": 19,
+        "negative": 21,
+        "flat": 0,
+        "win_rate": 0.475
+      },
+      {
+        "label": "LoL | 地图2 独赢盘 | 2.1-2.49",
+        "count": 30,
+        "pnl_sum": -9646.02,
+        "pnl_avg": -321.534,
+        "positive": 4,
+        "negative": 26,
+        "flat": 0,
+        "win_rate": 0.13333333333333333
+      },
+      {
+        "label": "Basketball | 赛局 大小盘 | 2.1-2.49",
+        "count": 37,
+        "pnl_sum": -11642.529999999999,
+        "pnl_avg": -314.66297297297297,
+        "positive": 11,
+        "negative": 26,
+        "flat": 0,
+        "win_rate": 0.2972972972972973
+      },
+      {
+        "label": "Basketball | 赛局 独赢盘 | 2.5-2.99",
+        "count": 32,
+        "pnl_sum": -8503.509999999998,
+        "pnl_avg": -265.73468749999995,
+        "positive": 8,
+        "negative": 24,
+        "flat": 0,
+        "win_rate": 0.25
+      },
+      {
+        "label": "Basketball | 第一节 让球盘 | 2.1-2.49",
+        "count": 67,
+        "pnl_sum": -16255.919999999998,
+        "pnl_avg": -242.62567164179103,
+        "positive": 23,
+        "negative": 44,
+        "flat": 0,
+        "win_rate": 0.34328358208955223
+      },
+      {
+        "label": "Basketball | 赛局 让球盘 | 1.8-2.09",
+        "count": 134,
+        "pnl_sum": -30878.229999999996,
+        "pnl_avg": -230.43455223880594,
+        "positive": 58,
+        "negative": 75,
+        "flat": 1,
+        "win_rate": 0.43283582089552236
+      },
+      {
+        "label": "CS2 | 独赢盘 | 1.5-1.79",
+        "count": 32,
+        "pnl_sum": -7344.660000000002,
+        "pnl_avg": -229.52062500000005,
+        "positive": 17,
+        "negative": 15,
+        "flat": 0,
+        "win_rate": 0.53125
+      },
+      {
+        "label": "Dota2 | unknown | 2.1-2.49",
+        "count": 51,
+        "pnl_sum": -10985.249999999998,
+        "pnl_avg": -215.39705882352936,
+        "positive": 8,
+        "negative": 36,
+        "flat": 7,
+        "win_rate": 0.1568627450980392
+      },
+      {
+        "label": "CS2 | 地图3 让球盘 | 1.8-2.09",
+        "count": 30,
+        "pnl_sum": -6222.550000000001,
+        "pnl_avg": -207.41833333333338,
+        "positive": 10,
+        "negative": 14,
+        "flat": 6,
+        "win_rate": 0.3333333333333333
+      },
+      {
+        "label": "Dota2 | 地图2 让球盘 | 2.1-2.49",
+        "count": 59,
+        "pnl_sum": -12097.230000000001,
+        "pnl_avg": -205.03779661016952,
+        "positive": 27,
+        "negative": 32,
+        "flat": 0,
+        "win_rate": 0.4576271186440678
+      },
+      {
+        "label": "Football | 独赢盘 | 4.0+",
+        "count": 33,
+        "pnl_sum": -6086.540000000003,
+        "pnl_avg": -184.44060606060614,
+        "positive": 5,
+        "negative": 28,
+        "flat": 0,
+        "win_rate": 0.15151515151515152
+      },
+      {
+        "label": "Basketball | 赛局 大小盘 | 1.8-2.09",
+        "count": 104,
+        "pnl_sum": -17849.53999999999,
+        "pnl_avg": -171.6301923076922,
+        "positive": 48,
+        "negative": 56,
+        "flat": 0,
+        "win_rate": 0.46153846153846156
+      },
+      {
+        "label": "Dota2 | 地图3 大小盘 | 1.8-2.09",
+        "count": 66,
+        "pnl_sum": -8259.359999999999,
+        "pnl_avg": -125.14181818181817,
+        "positive": 24,
+        "negative": 42,
+        "flat": 0,
+        "win_rate": 0.36363636363636365
+      },
+      {
+        "label": "Dota2 | 独赢盘 | <1.5",
+        "count": 51,
+        "pnl_sum": -6051.270000000001,
+        "pnl_avg": -118.6523529411765,
+        "positive": 29,
+        "negative": 21,
+        "flat": 1,
+        "win_rate": 0.5686274509803921
+      },
+      {
+        "label": "Football | 让球盘 | 1.8-2.09",
+        "count": 711,
+        "pnl_sum": -73675.82999999993,
+        "pnl_avg": -103.6228270042193,
+        "positive": 271,
+        "negative": 371,
+        "flat": 69,
+        "win_rate": 0.38115330520393814
+      },
+      {
+        "label": "CS2 | 地图 1 让球盘 | 2.1-2.49",
+        "count": 102,
+        "pnl_sum": -9816.630000000001,
+        "pnl_avg": -96.2414705882353,
+        "positive": 31,
+        "negative": 71,
+        "flat": 0,
+        "win_rate": 0.30392156862745096
+      }
+    ]
+  }
+}

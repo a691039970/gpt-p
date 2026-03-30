@@ -1,0 +1,5039 @@
+{
+  "generated_at": "2026-03-29T17:50:39.547Z",
+  "input": "D:\\gpt\\polymarket-analysis\\platform-research\\normalized\\z\\z_merged.yearly.current.json",
+  "timezone": "Asia/Shanghai",
+  "sample": {
+    "row_count": 28061,
+    "realized_row_count": 28037,
+    "first_timestamp": "2025-01-01T11:28:04Z",
+    "last_timestamp": "2026-03-29T10:17:51Z"
+  },
+  "by_hour": [
+    {
+      "label": "00",
+      "count": 1368,
+      "pnl_sum": 145293.06000000003,
+      "pnl_avg": 106.20837719298248,
+      "positive": 698,
+      "flat": 47,
+      "negative": 623,
+      "win_rate": 0.5102339181286549
+    },
+    {
+      "label": "01",
+      "count": 1397,
+      "pnl_sum": -43780.40000000008,
+      "pnl_avg": -31.338869005010796,
+      "positive": 593,
+      "flat": 44,
+      "negative": 760,
+      "win_rate": 0.42448103078024335
+    },
+    {
+      "label": "02",
+      "count": 1480,
+      "pnl_sum": -177071.29,
+      "pnl_avg": -119.64276351351351,
+      "positive": 561,
+      "flat": 34,
+      "negative": 885,
+      "win_rate": 0.37905405405405407
+    },
+    {
+      "label": "03",
+      "count": 1205,
+      "pnl_sum": 37120.12,
+      "pnl_avg": 30.805078838174275,
+      "positive": 528,
+      "flat": 33,
+      "negative": 644,
+      "win_rate": 0.43817427385892116
+    },
+    {
+      "label": "04",
+      "count": 993,
+      "pnl_sum": 59696.81999999998,
+      "pnl_avg": 60.1176435045317,
+      "positive": 451,
+      "flat": 18,
+      "negative": 524,
+      "win_rate": 0.45417925478348437
+    },
+    {
+      "label": "05",
+      "count": 756,
+      "pnl_sum": 47340.909999999996,
+      "pnl_avg": 62.620251322751315,
+      "positive": 346,
+      "flat": 6,
+      "negative": 404,
+      "win_rate": 0.4576719576719577
+    },
+    {
+      "label": "06",
+      "count": 585,
+      "pnl_sum": -14801.770000000006,
+      "pnl_avg": -25.30217094017095,
+      "positive": 268,
+      "flat": 21,
+      "negative": 296,
+      "win_rate": 0.4581196581196581
+    },
+    {
+      "label": "07",
+      "count": 587,
+      "pnl_sum": -851.1200000000026,
+      "pnl_avg": -1.4499488926746211,
+      "positive": 263,
+      "flat": 14,
+      "negative": 310,
+      "win_rate": 0.44804088586030666
+    },
+    {
+      "label": "08",
+      "count": 737,
+      "pnl_sum": 13367.400000000007,
+      "pnl_avg": 18.137584803256456,
+      "positive": 336,
+      "flat": 38,
+      "negative": 363,
+      "win_rate": 0.4559023066485753
+    },
+    {
+      "label": "09",
+      "count": 559,
+      "pnl_sum": 12428.85000000002,
+      "pnl_avg": 22.234078711985724,
+      "positive": 242,
+      "flat": 24,
+      "negative": 293,
+      "win_rate": 0.4329159212880143
+    },
+    {
+      "label": "10",
+      "count": 741,
+      "pnl_sum": 70.36999999998265,
+      "pnl_avg": 0.09496626180834367,
+      "positive": 330,
+      "flat": 25,
+      "negative": 386,
+      "win_rate": 0.44534412955465585
+    },
+    {
+      "label": "11",
+      "count": 934,
+      "pnl_sum": 20919.519999999993,
+      "pnl_avg": 22.39777301927194,
+      "positive": 427,
+      "flat": 18,
+      "negative": 489,
+      "win_rate": 0.45717344753747324
+    },
+    {
+      "label": "12",
+      "count": 802,
+      "pnl_sum": -11734.889999999985,
+      "pnl_avg": -14.6320324189526,
+      "positive": 330,
+      "flat": 27,
+      "negative": 445,
+      "win_rate": 0.4114713216957606
+    },
+    {
+      "label": "13",
+      "count": 848,
+      "pnl_sum": -23175.94000000001,
+      "pnl_avg": -27.330117924528313,
+      "positive": 347,
+      "flat": 27,
+      "negative": 474,
+      "win_rate": 0.4091981132075472
+    },
+    {
+      "label": "14",
+      "count": 1109,
+      "pnl_sum": -35853.05,
+      "pnl_avg": -32.32917042380523,
+      "positive": 453,
+      "flat": 40,
+      "negative": 616,
+      "win_rate": 0.4084761045987376
+    },
+    {
+      "label": "15",
+      "count": 1142,
+      "pnl_sum": -43877.84999999993,
+      "pnl_avg": -38.42193520140099,
+      "positive": 500,
+      "flat": 38,
+      "negative": 604,
+      "win_rate": 0.43782837127845886
+    },
+    {
+      "label": "16",
+      "count": 1289,
+      "pnl_sum": -19178.769999999975,
+      "pnl_avg": -14.878797517455371,
+      "positive": 550,
+      "flat": 44,
+      "negative": 695,
+      "win_rate": 0.42668735453840184
+    },
+    {
+      "label": "17",
+      "count": 1367,
+      "pnl_sum": -36648.27999999996,
+      "pnl_avg": -26.809275786393535,
+      "positive": 588,
+      "flat": 27,
+      "negative": 752,
+      "win_rate": 0.4301389904901244
+    },
+    {
+      "label": "18",
+      "count": 1686,
+      "pnl_sum": -73957.6699999999,
+      "pnl_avg": -43.86575919335699,
+      "positive": 700,
+      "flat": 60,
+      "negative": 926,
+      "win_rate": 0.4151838671411625
+    },
+    {
+      "label": "19",
+      "count": 1949,
+      "pnl_sum": -48601.84000000004,
+      "pnl_avg": -24.93680861980505,
+      "positive": 842,
+      "flat": 56,
+      "negative": 1051,
+      "win_rate": 0.43201641867624424
+    },
+    {
+      "label": "20",
+      "count": 1622,
+      "pnl_sum": -116508.50999999997,
+      "pnl_avg": -71.83015413070281,
+      "positive": 652,
+      "flat": 43,
+      "negative": 927,
+      "win_rate": 0.40197287299630086
+    },
+    {
+      "label": "21",
+      "count": 1568,
+      "pnl_sum": 81029.58000000006,
+      "pnl_avg": 51.677028061224526,
+      "positive": 728,
+      "flat": 53,
+      "negative": 787,
+      "win_rate": 0.4642857142857143
+    },
+    {
+      "label": "22",
+      "count": 1594,
+      "pnl_sum": -44778.8999999999,
+      "pnl_avg": -28.092158092848116,
+      "positive": 707,
+      "flat": 46,
+      "negative": 841,
+      "win_rate": 0.44353826850690087
+    },
+    {
+      "label": "23",
+      "count": 1719,
+      "pnl_sum": 29840.820000000134,
+      "pnl_avg": 17.35940663176273,
+      "positive": 797,
+      "flat": 58,
+      "negative": 864,
+      "win_rate": 0.46364165212332753
+    }
+  ],
+  "by_weekday": [
+    {
+      "label": "Mon",
+      "count": 3583,
+      "pnl_sum": -14487.03000000004,
+      "pnl_avg": -4.043268210996383,
+      "positive": 1568,
+      "flat": 153,
+      "negative": 1862,
+      "win_rate": 0.43762210438180293
+    },
+    {
+      "label": "Tue",
+      "count": 3551,
+      "pnl_sum": 8835.229999999938,
+      "pnl_avg": 2.488096310898321,
+      "positive": 1554,
+      "flat": 128,
+      "negative": 1869,
+      "win_rate": 0.4376232047310617
+    },
+    {
+      "label": "Wed",
+      "count": 3993,
+      "pnl_sum": -177665.61999999982,
+      "pnl_avg": -44.49426997245175,
+      "positive": 1746,
+      "flat": 103,
+      "negative": 2144,
+      "win_rate": 0.43726521412471825
+    },
+    {
+      "label": "Thu",
+      "count": 3646,
+      "pnl_sum": 73498.22999999991,
+      "pnl_avg": 20.158592978606666,
+      "positive": 1660,
+      "flat": 83,
+      "negative": 1903,
+      "win_rate": 0.4552934722984092
+    },
+    {
+      "label": "Fri",
+      "count": 3808,
+      "pnl_sum": -4239.5899999998965,
+      "pnl_avg": -1.1133377100840065,
+      "positive": 1651,
+      "flat": 120,
+      "negative": 2037,
+      "win_rate": 0.4335609243697479
+    },
+    {
+      "label": "Sat",
+      "count": 4653,
+      "pnl_sum": -137843.1699999996,
+      "pnl_avg": -29.624579840962735,
+      "positive": 1974,
+      "flat": 138,
+      "negative": 2541,
+      "win_rate": 0.42424242424242425
+    },
+    {
+      "label": "Sun",
+      "count": 4803,
+      "pnl_sum": 8189.120000000257,
+      "pnl_avg": 1.7050010410160852,
+      "positive": 2084,
+      "flat": 116,
+      "negative": 2603,
+      "win_rate": 0.43389548199042266
+    }
+  ],
+  "by_category": [
+    {
+      "label": "Esports",
+      "count": 17019,
+      "pnl_sum": -147721.5299999998,
+      "pnl_avg": -8.67980081085844,
+      "positive": 7461,
+      "flat": 318,
+      "negative": 9240,
+      "win_rate": 0.4383923849814913
+    },
+    {
+      "label": "Dota2",
+      "count": 4478,
+      "pnl_sum": 145301.84999999998,
+      "pnl_avg": 32.44793434569004,
+      "positive": 2182,
+      "flat": 48,
+      "negative": 2248,
+      "win_rate": 0.4872711031710585
+    },
+    {
+      "label": "Football",
+      "count": 3359,
+      "pnl_sum": -113331.5299999998,
+      "pnl_avg": -33.73966359035421,
+      "positive": 1243,
+      "flat": 420,
+      "negative": 1696,
+      "win_rate": 0.3700506103006847
+    },
+    {
+      "label": "Basketball",
+      "count": 1137,
+      "pnl_sum": -96916.30999999997,
+      "pnl_avg": -85.23861917326295,
+      "positive": 490,
+      "flat": 7,
+      "negative": 640,
+      "win_rate": 0.4309586631486368
+    },
+    {
+      "label": "CS2",
+      "count": 1120,
+      "pnl_sum": -15882.289999999986,
+      "pnl_avg": -14.18061607142856,
+      "positive": 472,
+      "flat": 31,
+      "negative": 617,
+      "win_rate": 0.42142857142857143
+    },
+    {
+      "label": "LoL",
+      "count": 566,
+      "pnl_sum": 19842.739999999983,
+      "pnl_avg": 35.05784452296817,
+      "positive": 264,
+      "flat": 5,
+      "negative": 297,
+      "win_rate": 0.4664310954063604
+    },
+    {
+      "label": "Other",
+      "count": 230,
+      "pnl_sum": -23556.729999999992,
+      "pnl_avg": -102.42056521739127,
+      "positive": 78,
+      "flat": 12,
+      "negative": 140,
+      "win_rate": 0.3391304347826087
+    },
+    {
+      "label": "Valorant",
+      "count": 128,
+      "pnl_sum": -11449.030000000013,
+      "pnl_avg": -89.4455468750001,
+      "positive": 47,
+      "flat": 0,
+      "negative": 81,
+      "win_rate": 0.3671875
+    }
+  ],
+  "by_day": [
+    {
+      "date": "2025-01-01",
+      "count": 5,
+      "pnl_sum": 331.82,
+      "positive": 4,
+      "flat": 0,
+      "negative": 1,
+      "win_rate": 0.8
+    },
+    {
+      "date": "2025-01-02",
+      "count": 2,
+      "pnl_sum": 1001.5,
+      "positive": 2,
+      "flat": 0,
+      "negative": 0,
+      "win_rate": 1
+    },
+    {
+      "date": "2025-01-03",
+      "count": 2,
+      "pnl_sum": -865.7800000000001,
+      "positive": 0,
+      "flat": 0,
+      "negative": 2,
+      "win_rate": 0
+    },
+    {
+      "date": "2025-01-04",
+      "count": 16,
+      "pnl_sum": -3160.48,
+      "positive": 3,
+      "flat": 3,
+      "negative": 10,
+      "win_rate": 0.1875
+    },
+    {
+      "date": "2025-01-05",
+      "count": 16,
+      "pnl_sum": -653.1,
+      "positive": 6,
+      "flat": 0,
+      "negative": 10,
+      "win_rate": 0.375
+    },
+    {
+      "date": "2025-01-06",
+      "count": 1,
+      "pnl_sum": -1089.11,
+      "positive": 0,
+      "flat": 0,
+      "negative": 1,
+      "win_rate": 0
+    },
+    {
+      "date": "2025-01-07",
+      "count": 7,
+      "pnl_sum": -2110.1400000000003,
+      "positive": 0,
+      "flat": 0,
+      "negative": 7,
+      "win_rate": 0
+    },
+    {
+      "date": "2025-01-08",
+      "count": 4,
+      "pnl_sum": -2138.0199999999995,
+      "positive": 0,
+      "flat": 0,
+      "negative": 4,
+      "win_rate": 0
+    },
+    {
+      "date": "2025-01-09",
+      "count": 23,
+      "pnl_sum": 5279.490000000001,
+      "positive": 11,
+      "flat": 0,
+      "negative": 12,
+      "win_rate": 0.4782608695652174
+    },
+    {
+      "date": "2025-01-10",
+      "count": 40,
+      "pnl_sum": 1022.9699999999996,
+      "positive": 21,
+      "flat": 2,
+      "negative": 17,
+      "win_rate": 0.525
+    },
+    {
+      "date": "2025-01-11",
+      "count": 86,
+      "pnl_sum": -1050.019999999999,
+      "positive": 29,
+      "flat": 2,
+      "negative": 55,
+      "win_rate": 0.3372093023255814
+    },
+    {
+      "date": "2025-01-12",
+      "count": 84,
+      "pnl_sum": 5450.24,
+      "positive": 38,
+      "flat": 2,
+      "negative": 44,
+      "win_rate": 0.4523809523809524
+    },
+    {
+      "date": "2025-01-13",
+      "count": 60,
+      "pnl_sum": -13393.58,
+      "positive": 21,
+      "flat": 6,
+      "negative": 33,
+      "win_rate": 0.35
+    },
+    {
+      "date": "2025-01-14",
+      "count": 81,
+      "pnl_sum": 14167.1,
+      "positive": 47,
+      "flat": 0,
+      "negative": 34,
+      "win_rate": 0.5802469135802469
+    },
+    {
+      "date": "2025-01-15",
+      "count": 58,
+      "pnl_sum": -1447.0200000000016,
+      "positive": 26,
+      "flat": 5,
+      "negative": 27,
+      "win_rate": 0.4482758620689655
+    },
+    {
+      "date": "2025-01-16",
+      "count": 73,
+      "pnl_sum": -11182.410000000003,
+      "positive": 24,
+      "flat": 2,
+      "negative": 47,
+      "win_rate": 0.3287671232876712
+    },
+    {
+      "date": "2025-01-17",
+      "count": 95,
+      "pnl_sum": -11910.59,
+      "positive": 36,
+      "flat": 9,
+      "negative": 50,
+      "win_rate": 0.37894736842105264
+    },
+    {
+      "date": "2025-01-18",
+      "count": 80,
+      "pnl_sum": 4223.0599999999995,
+      "positive": 42,
+      "flat": 0,
+      "negative": 38,
+      "win_rate": 0.525
+    },
+    {
+      "date": "2025-01-19",
+      "count": 140,
+      "pnl_sum": -7535.8099999999995,
+      "positive": 53,
+      "flat": 0,
+      "negative": 87,
+      "win_rate": 0.37857142857142856
+    },
+    {
+      "date": "2025-01-20",
+      "count": 111,
+      "pnl_sum": 1074.02,
+      "positive": 49,
+      "flat": 4,
+      "negative": 58,
+      "win_rate": 0.44144144144144143
+    },
+    {
+      "date": "2025-01-21",
+      "count": 57,
+      "pnl_sum": 3148.659999999999,
+      "positive": 25,
+      "flat": 2,
+      "negative": 30,
+      "win_rate": 0.43859649122807015
+    },
+    {
+      "date": "2025-01-22",
+      "count": 99,
+      "pnl_sum": -11376.800000000001,
+      "positive": 35,
+      "flat": 9,
+      "negative": 55,
+      "win_rate": 0.35353535353535354
+    },
+    {
+      "date": "2025-01-23",
+      "count": 82,
+      "pnl_sum": 18833,
+      "positive": 38,
+      "flat": 2,
+      "negative": 42,
+      "win_rate": 0.4634146341463415
+    },
+    {
+      "date": "2025-01-24",
+      "count": 90,
+      "pnl_sum": 8193.340000000004,
+      "positive": 47,
+      "flat": 2,
+      "negative": 41,
+      "win_rate": 0.5222222222222223
+    },
+    {
+      "date": "2025-01-25",
+      "count": 73,
+      "pnl_sum": 2037.1799999999998,
+      "positive": 33,
+      "flat": 2,
+      "negative": 38,
+      "win_rate": 0.4520547945205479
+    },
+    {
+      "date": "2025-01-26",
+      "count": 84,
+      "pnl_sum": -1956.1199999999967,
+      "positive": 38,
+      "flat": 0,
+      "negative": 46,
+      "win_rate": 0.4523809523809524
+    },
+    {
+      "date": "2025-01-27",
+      "count": 65,
+      "pnl_sum": -8273.5,
+      "positive": 27,
+      "flat": 3,
+      "negative": 35,
+      "win_rate": 0.4153846153846154
+    },
+    {
+      "date": "2025-01-28",
+      "count": 63,
+      "pnl_sum": 19601.109999999997,
+      "positive": 46,
+      "flat": 2,
+      "negative": 15,
+      "win_rate": 0.7301587301587301
+    },
+    {
+      "date": "2025-01-29",
+      "count": 67,
+      "pnl_sum": -6159.610000000001,
+      "positive": 30,
+      "flat": 4,
+      "negative": 33,
+      "win_rate": 0.44776119402985076
+    },
+    {
+      "date": "2025-01-30",
+      "count": 33,
+      "pnl_sum": 2711.12,
+      "positive": 19,
+      "flat": 0,
+      "negative": 14,
+      "win_rate": 0.5757575757575758
+    },
+    {
+      "date": "2025-01-31",
+      "count": 42,
+      "pnl_sum": -8320.429999999997,
+      "positive": 13,
+      "flat": 0,
+      "negative": 29,
+      "win_rate": 0.30952380952380953
+    },
+    {
+      "date": "2025-02-01",
+      "count": 77,
+      "pnl_sum": 4373.09,
+      "positive": 30,
+      "flat": 6,
+      "negative": 41,
+      "win_rate": 0.38961038961038963
+    },
+    {
+      "date": "2025-02-02",
+      "count": 81,
+      "pnl_sum": -5572.730000000002,
+      "positive": 26,
+      "flat": 10,
+      "negative": 45,
+      "win_rate": 0.32098765432098764
+    },
+    {
+      "date": "2025-02-03",
+      "count": 60,
+      "pnl_sum": -11340.270000000004,
+      "positive": 19,
+      "flat": 0,
+      "negative": 41,
+      "win_rate": 0.31666666666666665
+    },
+    {
+      "date": "2025-02-04",
+      "count": 59,
+      "pnl_sum": 11473.21,
+      "positive": 31,
+      "flat": 0,
+      "negative": 28,
+      "win_rate": 0.5254237288135594
+    },
+    {
+      "date": "2025-02-05",
+      "count": 45,
+      "pnl_sum": 2672.48,
+      "positive": 23,
+      "flat": 0,
+      "negative": 22,
+      "win_rate": 0.5111111111111111
+    },
+    {
+      "date": "2025-02-06",
+      "count": 32,
+      "pnl_sum": -2013.51,
+      "positive": 12,
+      "flat": 0,
+      "negative": 20,
+      "win_rate": 0.375
+    },
+    {
+      "date": "2025-02-07",
+      "count": 67,
+      "pnl_sum": 2783.62,
+      "positive": 29,
+      "flat": 2,
+      "negative": 36,
+      "win_rate": 0.43283582089552236
+    },
+    {
+      "date": "2025-02-08",
+      "count": 67,
+      "pnl_sum": 1226.8500000000017,
+      "positive": 23,
+      "flat": 2,
+      "negative": 42,
+      "win_rate": 0.34328358208955223
+    },
+    {
+      "date": "2025-02-09",
+      "count": 79,
+      "pnl_sum": -2431.4500000000007,
+      "positive": 37,
+      "flat": 0,
+      "negative": 42,
+      "win_rate": 0.46835443037974683
+    },
+    {
+      "date": "2025-02-10",
+      "count": 97,
+      "pnl_sum": -15321.719999999998,
+      "positive": 29,
+      "flat": 0,
+      "negative": 68,
+      "win_rate": 0.29896907216494845
+    },
+    {
+      "date": "2025-02-11",
+      "count": 59,
+      "pnl_sum": 5932.719999999999,
+      "positive": 28,
+      "flat": 0,
+      "negative": 31,
+      "win_rate": 0.4745762711864407
+    },
+    {
+      "date": "2025-02-12",
+      "count": 41,
+      "pnl_sum": 2575.9700000000007,
+      "positive": 17,
+      "flat": 0,
+      "negative": 24,
+      "win_rate": 0.4146341463414634
+    },
+    {
+      "date": "2025-02-13",
+      "count": 77,
+      "pnl_sum": 4551.069999999999,
+      "positive": 37,
+      "flat": 0,
+      "negative": 40,
+      "win_rate": 0.4805194805194805
+    },
+    {
+      "date": "2025-02-14",
+      "count": 63,
+      "pnl_sum": 7243.440000000002,
+      "positive": 29,
+      "flat": 2,
+      "negative": 32,
+      "win_rate": 0.4603174603174603
+    },
+    {
+      "date": "2025-02-15",
+      "count": 51,
+      "pnl_sum": 2718.0800000000013,
+      "positive": 20,
+      "flat": 2,
+      "negative": 29,
+      "win_rate": 0.39215686274509803
+    },
+    {
+      "date": "2025-02-16",
+      "count": 22,
+      "pnl_sum": 2984.6499999999996,
+      "positive": 11,
+      "flat": 0,
+      "negative": 11,
+      "win_rate": 0.5
+    },
+    {
+      "date": "2025-02-17",
+      "count": 3,
+      "pnl_sum": 2161,
+      "positive": 2,
+      "flat": 0,
+      "negative": 1,
+      "win_rate": 0.6666666666666666
+    },
+    {
+      "date": "2025-02-18",
+      "count": 25,
+      "pnl_sum": -7878.64,
+      "positive": 4,
+      "flat": 0,
+      "negative": 21,
+      "win_rate": 0.16
+    },
+    {
+      "date": "2025-02-19",
+      "count": 43,
+      "pnl_sum": -4943.230000000001,
+      "positive": 17,
+      "flat": 4,
+      "negative": 22,
+      "win_rate": 0.3953488372093023
+    },
+    {
+      "date": "2025-02-20",
+      "count": 48,
+      "pnl_sum": 666.2299999999999,
+      "positive": 23,
+      "flat": 0,
+      "negative": 25,
+      "win_rate": 0.4791666666666667
+    },
+    {
+      "date": "2025-02-21",
+      "count": 60,
+      "pnl_sum": 3055.2100000000005,
+      "positive": 30,
+      "flat": 0,
+      "negative": 30,
+      "win_rate": 0.5
+    },
+    {
+      "date": "2025-02-22",
+      "count": 123,
+      "pnl_sum": 897.4900000000016,
+      "positive": 53,
+      "flat": 5,
+      "negative": 65,
+      "win_rate": 0.43089430894308944
+    },
+    {
+      "date": "2025-02-23",
+      "count": 101,
+      "pnl_sum": -13610.240000000003,
+      "positive": 41,
+      "flat": 2,
+      "negative": 58,
+      "win_rate": 0.40594059405940597
+    },
+    {
+      "date": "2025-02-24",
+      "count": 46,
+      "pnl_sum": 16079.43,
+      "positive": 30,
+      "flat": 2,
+      "negative": 14,
+      "win_rate": 0.6521739130434783
+    },
+    {
+      "date": "2025-02-25",
+      "count": 38,
+      "pnl_sum": 2134.520000000001,
+      "positive": 16,
+      "flat": 0,
+      "negative": 22,
+      "win_rate": 0.42105263157894735
+    },
+    {
+      "date": "2025-02-26",
+      "count": 103,
+      "pnl_sum": 5126.959999999999,
+      "positive": 51,
+      "flat": 3,
+      "negative": 49,
+      "win_rate": 0.49514563106796117
+    },
+    {
+      "date": "2025-02-27",
+      "count": 74,
+      "pnl_sum": 11265.57,
+      "positive": 48,
+      "flat": 0,
+      "negative": 26,
+      "win_rate": 0.6486486486486487
+    },
+    {
+      "date": "2025-02-28",
+      "count": 27,
+      "pnl_sum": 9484.81,
+      "positive": 16,
+      "flat": 2,
+      "negative": 9,
+      "win_rate": 0.5925925925925926
+    },
+    {
+      "date": "2025-03-01",
+      "count": 46,
+      "pnl_sum": -9692.83,
+      "positive": 14,
+      "flat": 7,
+      "negative": 25,
+      "win_rate": 0.30434782608695654
+    },
+    {
+      "date": "2025-03-02",
+      "count": 41,
+      "pnl_sum": 9839.919999999998,
+      "positive": 26,
+      "flat": 6,
+      "negative": 9,
+      "win_rate": 0.6341463414634146
+    },
+    {
+      "date": "2025-03-03",
+      "count": 31,
+      "pnl_sum": -6104.61,
+      "positive": 7,
+      "flat": 4,
+      "negative": 20,
+      "win_rate": 0.22580645161290322
+    },
+    {
+      "date": "2025-03-04",
+      "count": 45,
+      "pnl_sum": 10365.800000000003,
+      "positive": 26,
+      "flat": 2,
+      "negative": 17,
+      "win_rate": 0.5777777777777777
+    },
+    {
+      "date": "2025-03-05",
+      "count": 26,
+      "pnl_sum": 11217.79,
+      "positive": 18,
+      "flat": 0,
+      "negative": 8,
+      "win_rate": 0.6923076923076923
+    },
+    {
+      "date": "2025-03-06",
+      "count": 37,
+      "pnl_sum": -4308.87,
+      "positive": 12,
+      "flat": 2,
+      "negative": 23,
+      "win_rate": 0.32432432432432434
+    },
+    {
+      "date": "2025-03-07",
+      "count": 22,
+      "pnl_sum": 787.2900000000001,
+      "positive": 10,
+      "flat": 2,
+      "negative": 10,
+      "win_rate": 0.45454545454545453
+    },
+    {
+      "date": "2025-03-08",
+      "count": 45,
+      "pnl_sum": -11160.35,
+      "positive": 10,
+      "flat": 8,
+      "negative": 27,
+      "win_rate": 0.2222222222222222
+    },
+    {
+      "date": "2025-03-09",
+      "count": 43,
+      "pnl_sum": 1553.4499999999998,
+      "positive": 21,
+      "flat": 3,
+      "negative": 19,
+      "win_rate": 0.4883720930232558
+    },
+    {
+      "date": "2025-03-10",
+      "count": 55,
+      "pnl_sum": 1602.6099999999988,
+      "positive": 24,
+      "flat": 6,
+      "negative": 25,
+      "win_rate": 0.43636363636363634
+    },
+    {
+      "date": "2025-03-11",
+      "count": 40,
+      "pnl_sum": -12809.92,
+      "positive": 9,
+      "flat": 0,
+      "negative": 31,
+      "win_rate": 0.225
+    },
+    {
+      "date": "2025-03-12",
+      "count": 31,
+      "pnl_sum": -528.9299999999996,
+      "positive": 16,
+      "flat": 2,
+      "negative": 13,
+      "win_rate": 0.5161290322580645
+    },
+    {
+      "date": "2025-03-13",
+      "count": 24,
+      "pnl_sum": -277.55000000000064,
+      "positive": 5,
+      "flat": 3,
+      "negative": 16,
+      "win_rate": 0.20833333333333334
+    },
+    {
+      "date": "2025-03-14",
+      "count": 38,
+      "pnl_sum": 3413.56,
+      "positive": 23,
+      "flat": 0,
+      "negative": 15,
+      "win_rate": 0.6052631578947368
+    },
+    {
+      "date": "2025-03-15",
+      "count": 29,
+      "pnl_sum": -427.3599999999997,
+      "positive": 13,
+      "flat": 0,
+      "negative": 16,
+      "win_rate": 0.4482758620689655
+    },
+    {
+      "date": "2025-03-16",
+      "count": 65,
+      "pnl_sum": 922.8699999999997,
+      "positive": 22,
+      "flat": 6,
+      "negative": 37,
+      "win_rate": 0.3384615384615385
+    },
+    {
+      "date": "2025-03-17",
+      "count": 57,
+      "pnl_sum": -3128.0900000000042,
+      "positive": 25,
+      "flat": 0,
+      "negative": 32,
+      "win_rate": 0.43859649122807015
+    },
+    {
+      "date": "2025-03-18",
+      "count": 31,
+      "pnl_sum": 380.7399999999999,
+      "positive": 16,
+      "flat": 3,
+      "negative": 12,
+      "win_rate": 0.5161290322580645
+    },
+    {
+      "date": "2025-03-19",
+      "count": 61,
+      "pnl_sum": 9312.49,
+      "positive": 37,
+      "flat": 2,
+      "negative": 22,
+      "win_rate": 0.6065573770491803
+    },
+    {
+      "date": "2025-03-20",
+      "count": 77,
+      "pnl_sum": 11743.54,
+      "positive": 34,
+      "flat": 3,
+      "negative": 40,
+      "win_rate": 0.44155844155844154
+    },
+    {
+      "date": "2025-03-21",
+      "count": 60,
+      "pnl_sum": 3291.16,
+      "positive": 30,
+      "flat": 3,
+      "negative": 27,
+      "win_rate": 0.5
+    },
+    {
+      "date": "2025-03-22",
+      "count": 106,
+      "pnl_sum": 19265.999999999996,
+      "positive": 65,
+      "flat": 0,
+      "negative": 41,
+      "win_rate": 0.6132075471698113
+    },
+    {
+      "date": "2025-03-23",
+      "count": 75,
+      "pnl_sum": -3936.6399999999976,
+      "positive": 35,
+      "flat": 0,
+      "negative": 40,
+      "win_rate": 0.4666666666666667
+    },
+    {
+      "date": "2025-03-24",
+      "count": 124,
+      "pnl_sum": -10604.340000000006,
+      "positive": 53,
+      "flat": 5,
+      "negative": 66,
+      "win_rate": 0.4274193548387097
+    },
+    {
+      "date": "2025-03-25",
+      "count": 86,
+      "pnl_sum": 146.3699999999999,
+      "positive": 33,
+      "flat": 2,
+      "negative": 51,
+      "win_rate": 0.38372093023255816
+    },
+    {
+      "date": "2025-03-26",
+      "count": 58,
+      "pnl_sum": -16402.08,
+      "positive": 20,
+      "flat": 5,
+      "negative": 33,
+      "win_rate": 0.3448275862068966
+    },
+    {
+      "date": "2025-03-27",
+      "count": 31,
+      "pnl_sum": 13901.08,
+      "positive": 20,
+      "flat": 0,
+      "negative": 11,
+      "win_rate": 0.6451612903225806
+    },
+    {
+      "date": "2025-03-28",
+      "count": 111,
+      "pnl_sum": -14994.780000000006,
+      "positive": 52,
+      "flat": 2,
+      "negative": 57,
+      "win_rate": 0.46846846846846846
+    },
+    {
+      "date": "2025-03-29",
+      "count": 82,
+      "pnl_sum": -4869.340000000001,
+      "positive": 25,
+      "flat": 13,
+      "negative": 44,
+      "win_rate": 0.3048780487804878
+    },
+    {
+      "date": "2025-03-30",
+      "count": 61,
+      "pnl_sum": -22273.51,
+      "positive": 12,
+      "flat": 5,
+      "negative": 44,
+      "win_rate": 0.19672131147540983
+    },
+    {
+      "date": "2025-03-31",
+      "count": 38,
+      "pnl_sum": -7966.48,
+      "positive": 15,
+      "flat": 2,
+      "negative": 21,
+      "win_rate": 0.39473684210526316
+    },
+    {
+      "date": "2025-04-01",
+      "count": 96,
+      "pnl_sum": 10441.359999999999,
+      "positive": 45,
+      "flat": 7,
+      "negative": 44,
+      "win_rate": 0.46875
+    },
+    {
+      "date": "2025-04-02",
+      "count": 91,
+      "pnl_sum": -4796.979999999999,
+      "positive": 48,
+      "flat": 2,
+      "negative": 41,
+      "win_rate": 0.5274725274725275
+    },
+    {
+      "date": "2025-04-03",
+      "count": 81,
+      "pnl_sum": 10012.699999999997,
+      "positive": 47,
+      "flat": 4,
+      "negative": 30,
+      "win_rate": 0.5802469135802469
+    },
+    {
+      "date": "2025-04-04",
+      "count": 35,
+      "pnl_sum": 9492.12,
+      "positive": 21,
+      "flat": 5,
+      "negative": 9,
+      "win_rate": 0.6
+    },
+    {
+      "date": "2025-04-05",
+      "count": 102,
+      "pnl_sum": -12656.179999999997,
+      "positive": 39,
+      "flat": 2,
+      "negative": 61,
+      "win_rate": 0.38235294117647056
+    },
+    {
+      "date": "2025-04-06",
+      "count": 161,
+      "pnl_sum": 1125.900000000002,
+      "positive": 70,
+      "flat": 11,
+      "negative": 80,
+      "win_rate": 0.43478260869565216
+    },
+    {
+      "date": "2025-04-07",
+      "count": 102,
+      "pnl_sum": -2483.5399999999972,
+      "positive": 41,
+      "flat": 5,
+      "negative": 56,
+      "win_rate": 0.4019607843137255
+    },
+    {
+      "date": "2025-04-08",
+      "count": 78,
+      "pnl_sum": -19868.709999999995,
+      "positive": 26,
+      "flat": 0,
+      "negative": 52,
+      "win_rate": 0.3333333333333333
+    },
+    {
+      "date": "2025-04-09",
+      "count": 122,
+      "pnl_sum": -7490.869999999999,
+      "positive": 49,
+      "flat": 4,
+      "negative": 69,
+      "win_rate": 0.4016393442622951
+    },
+    {
+      "date": "2025-04-10",
+      "count": 77,
+      "pnl_sum": -105.45000000000236,
+      "positive": 34,
+      "flat": 0,
+      "negative": 43,
+      "win_rate": 0.44155844155844154
+    },
+    {
+      "date": "2025-04-11",
+      "count": 48,
+      "pnl_sum": 144.06999999999857,
+      "positive": 26,
+      "flat": 3,
+      "negative": 19,
+      "win_rate": 0.5416666666666666
+    },
+    {
+      "date": "2025-04-12",
+      "count": 93,
+      "pnl_sum": -24136.709999999992,
+      "positive": 26,
+      "flat": 2,
+      "negative": 65,
+      "win_rate": 0.27956989247311825
+    },
+    {
+      "date": "2025-04-13",
+      "count": 147,
+      "pnl_sum": 1532.3299999999974,
+      "positive": 63,
+      "flat": 8,
+      "negative": 76,
+      "win_rate": 0.42857142857142855
+    },
+    {
+      "date": "2025-04-14",
+      "count": 68,
+      "pnl_sum": 4595.460000000001,
+      "positive": 33,
+      "flat": 0,
+      "negative": 35,
+      "win_rate": 0.4852941176470588
+    },
+    {
+      "date": "2025-04-15",
+      "count": 53,
+      "pnl_sum": 2596.1399999999994,
+      "positive": 21,
+      "flat": 3,
+      "negative": 29,
+      "win_rate": 0.39622641509433965
+    },
+    {
+      "date": "2025-04-16",
+      "count": 98,
+      "pnl_sum": -5223.210000000002,
+      "positive": 40,
+      "flat": 2,
+      "negative": 56,
+      "win_rate": 0.40816326530612246
+    },
+    {
+      "date": "2025-04-17",
+      "count": 62,
+      "pnl_sum": -13413.289999999999,
+      "positive": 22,
+      "flat": 0,
+      "negative": 40,
+      "win_rate": 0.3548387096774194
+    },
+    {
+      "date": "2025-04-18",
+      "count": 99,
+      "pnl_sum": -3405.9099999999994,
+      "positive": 38,
+      "flat": 5,
+      "negative": 56,
+      "win_rate": 0.3838383838383838
+    },
+    {
+      "date": "2025-04-19",
+      "count": 69,
+      "pnl_sum": -13003.339999999998,
+      "positive": 35,
+      "flat": 0,
+      "negative": 34,
+      "win_rate": 0.5072463768115942
+    },
+    {
+      "date": "2025-04-20",
+      "count": 106,
+      "pnl_sum": 18672.760000000002,
+      "positive": 59,
+      "flat": 0,
+      "negative": 47,
+      "win_rate": 0.5566037735849056
+    },
+    {
+      "date": "2025-04-21",
+      "count": 137,
+      "pnl_sum": 5234.290000000001,
+      "positive": 65,
+      "flat": 16,
+      "negative": 56,
+      "win_rate": 0.4744525547445255
+    },
+    {
+      "date": "2025-04-22",
+      "count": 76,
+      "pnl_sum": 5441.91,
+      "positive": 45,
+      "flat": 11,
+      "negative": 20,
+      "win_rate": 0.5921052631578947
+    },
+    {
+      "date": "2025-04-23",
+      "count": 79,
+      "pnl_sum": 7870.519999999998,
+      "positive": 36,
+      "flat": 11,
+      "negative": 32,
+      "win_rate": 0.45569620253164556
+    },
+    {
+      "date": "2025-04-24",
+      "count": 60,
+      "pnl_sum": -5933.41,
+      "positive": 19,
+      "flat": 4,
+      "negative": 37,
+      "win_rate": 0.31666666666666665
+    },
+    {
+      "date": "2025-04-25",
+      "count": 76,
+      "pnl_sum": 3907.1800000000017,
+      "positive": 28,
+      "flat": 12,
+      "negative": 36,
+      "win_rate": 0.3684210526315789
+    },
+    {
+      "date": "2025-04-26",
+      "count": 71,
+      "pnl_sum": 3930.3399999999992,
+      "positive": 38,
+      "flat": 1,
+      "negative": 32,
+      "win_rate": 0.5352112676056338
+    },
+    {
+      "date": "2025-04-27",
+      "count": 124,
+      "pnl_sum": -27289.979999999996,
+      "positive": 40,
+      "flat": 8,
+      "negative": 76,
+      "win_rate": 0.3225806451612903
+    },
+    {
+      "date": "2025-04-28",
+      "count": 92,
+      "pnl_sum": -796.2299999999959,
+      "positive": 43,
+      "flat": 3,
+      "negative": 46,
+      "win_rate": 0.4673913043478261
+    },
+    {
+      "date": "2025-04-29",
+      "count": 73,
+      "pnl_sum": -1783.140000000002,
+      "positive": 40,
+      "flat": 4,
+      "negative": 29,
+      "win_rate": 0.547945205479452
+    },
+    {
+      "date": "2025-04-30",
+      "count": 78,
+      "pnl_sum": 2118.4800000000005,
+      "positive": 32,
+      "flat": 3,
+      "negative": 43,
+      "win_rate": 0.41025641025641024
+    },
+    {
+      "date": "2025-05-01",
+      "count": 89,
+      "pnl_sum": 10891.180000000002,
+      "positive": 48,
+      "flat": 0,
+      "negative": 41,
+      "win_rate": 0.5393258426966292
+    },
+    {
+      "date": "2025-05-02",
+      "count": 101,
+      "pnl_sum": -13996.820000000002,
+      "positive": 39,
+      "flat": 3,
+      "negative": 59,
+      "win_rate": 0.38613861386138615
+    },
+    {
+      "date": "2025-05-03",
+      "count": 74,
+      "pnl_sum": -3265.9499999999994,
+      "positive": 25,
+      "flat": 5,
+      "negative": 44,
+      "win_rate": 0.33783783783783783
+    },
+    {
+      "date": "2025-05-04",
+      "count": 63,
+      "pnl_sum": -3981.2000000000003,
+      "positive": 25,
+      "flat": 2,
+      "negative": 36,
+      "win_rate": 0.3968253968253968
+    },
+    {
+      "date": "2025-05-05",
+      "count": 51,
+      "pnl_sum": -6133.249999999997,
+      "positive": 23,
+      "flat": 3,
+      "negative": 25,
+      "win_rate": 0.45098039215686275
+    },
+    {
+      "date": "2025-05-06",
+      "count": 68,
+      "pnl_sum": -7301.6399999999985,
+      "positive": 24,
+      "flat": 9,
+      "negative": 35,
+      "win_rate": 0.35294117647058826
+    },
+    {
+      "date": "2025-05-07",
+      "count": 57,
+      "pnl_sum": -7488.519999999997,
+      "positive": 19,
+      "flat": 2,
+      "negative": 36,
+      "win_rate": 0.3333333333333333
+    },
+    {
+      "date": "2025-05-08",
+      "count": 84,
+      "pnl_sum": -6009.669999999998,
+      "positive": 33,
+      "flat": 0,
+      "negative": 51,
+      "win_rate": 0.39285714285714285
+    },
+    {
+      "date": "2025-05-09",
+      "count": 77,
+      "pnl_sum": -7241.34,
+      "positive": 34,
+      "flat": 0,
+      "negative": 43,
+      "win_rate": 0.44155844155844154
+    },
+    {
+      "date": "2025-05-10",
+      "count": 107,
+      "pnl_sum": 4806.4000000000015,
+      "positive": 51,
+      "flat": 2,
+      "negative": 54,
+      "win_rate": 0.4766355140186916
+    },
+    {
+      "date": "2025-05-11",
+      "count": 170,
+      "pnl_sum": -24083.11,
+      "positive": 63,
+      "flat": 8,
+      "negative": 99,
+      "win_rate": 0.37058823529411766
+    },
+    {
+      "date": "2025-05-12",
+      "count": 152,
+      "pnl_sum": -4698.0300000000025,
+      "positive": 72,
+      "flat": 8,
+      "negative": 72,
+      "win_rate": 0.47368421052631576
+    },
+    {
+      "date": "2025-05-13",
+      "count": 115,
+      "pnl_sum": -19598.490000000005,
+      "positive": 34,
+      "flat": 2,
+      "negative": 79,
+      "win_rate": 0.2956521739130435
+    },
+    {
+      "date": "2025-05-14",
+      "count": 146,
+      "pnl_sum": -6558.36,
+      "positive": 57,
+      "flat": 0,
+      "negative": 89,
+      "win_rate": 0.3904109589041096
+    },
+    {
+      "date": "2025-05-15",
+      "count": 133,
+      "pnl_sum": -2351.659999999996,
+      "positive": 67,
+      "flat": 4,
+      "negative": 62,
+      "win_rate": 0.5037593984962406
+    },
+    {
+      "date": "2025-05-16",
+      "count": 149,
+      "pnl_sum": 3536.6499999999974,
+      "positive": 59,
+      "flat": 4,
+      "negative": 86,
+      "win_rate": 0.3959731543624161
+    },
+    {
+      "date": "2025-05-17",
+      "count": 82,
+      "pnl_sum": -5857.310000000003,
+      "positive": 30,
+      "flat": 3,
+      "negative": 49,
+      "win_rate": 0.36585365853658536
+    },
+    {
+      "date": "2025-05-18",
+      "count": 98,
+      "pnl_sum": -15648.36,
+      "positive": 35,
+      "flat": 2,
+      "negative": 61,
+      "win_rate": 0.35714285714285715
+    },
+    {
+      "date": "2025-05-19",
+      "count": 46,
+      "pnl_sum": 6554.840000000001,
+      "positive": 24,
+      "flat": 2,
+      "negative": 20,
+      "win_rate": 0.5217391304347826
+    },
+    {
+      "date": "2025-05-20",
+      "count": 90,
+      "pnl_sum": 8051.8099999999995,
+      "positive": 51,
+      "flat": 2,
+      "negative": 37,
+      "win_rate": 0.5666666666666667
+    },
+    {
+      "date": "2025-05-21",
+      "count": 100,
+      "pnl_sum": 11905.309999999992,
+      "positive": 47,
+      "flat": 2,
+      "negative": 51,
+      "win_rate": 0.47
+    },
+    {
+      "date": "2025-05-22",
+      "count": 85,
+      "pnl_sum": 5588.420000000002,
+      "positive": 47,
+      "flat": 4,
+      "negative": 34,
+      "win_rate": 0.5529411764705883
+    },
+    {
+      "date": "2025-05-23",
+      "count": 109,
+      "pnl_sum": 31314.949999999993,
+      "positive": 63,
+      "flat": 0,
+      "negative": 46,
+      "win_rate": 0.5779816513761468
+    },
+    {
+      "date": "2025-05-24",
+      "count": 98,
+      "pnl_sum": 471.0099999999997,
+      "positive": 45,
+      "flat": 0,
+      "negative": 53,
+      "win_rate": 0.45918367346938777
+    },
+    {
+      "date": "2025-05-25",
+      "count": 86,
+      "pnl_sum": 7414.460000000002,
+      "positive": 49,
+      "flat": 0,
+      "negative": 37,
+      "win_rate": 0.5697674418604651
+    },
+    {
+      "date": "2025-05-26",
+      "count": 33,
+      "pnl_sum": 248.59999999999997,
+      "positive": 10,
+      "flat": 0,
+      "negative": 23,
+      "win_rate": 0.30303030303030304
+    },
+    {
+      "date": "2025-05-27",
+      "count": 40,
+      "pnl_sum": -14406.329999999998,
+      "positive": 18,
+      "flat": 0,
+      "negative": 22,
+      "win_rate": 0.45
+    },
+    {
+      "date": "2025-05-28",
+      "count": 34,
+      "pnl_sum": -19627.379999999994,
+      "positive": 11,
+      "flat": 0,
+      "negative": 23,
+      "win_rate": 0.3235294117647059
+    },
+    {
+      "date": "2025-05-29",
+      "count": 42,
+      "pnl_sum": -13902.639999999996,
+      "positive": 13,
+      "flat": 0,
+      "negative": 29,
+      "win_rate": 0.30952380952380953
+    },
+    {
+      "date": "2025-05-30",
+      "count": 79,
+      "pnl_sum": 847.1400000000008,
+      "positive": 39,
+      "flat": 4,
+      "negative": 36,
+      "win_rate": 0.4936708860759494
+    },
+    {
+      "date": "2025-05-31",
+      "count": 40,
+      "pnl_sum": -7740.019999999999,
+      "positive": 15,
+      "flat": 0,
+      "negative": 25,
+      "win_rate": 0.375
+    },
+    {
+      "date": "2025-06-01",
+      "count": 53,
+      "pnl_sum": 43994.579999999994,
+      "positive": 43,
+      "flat": 0,
+      "negative": 10,
+      "win_rate": 0.8113207547169812
+    },
+    {
+      "date": "2025-06-02",
+      "count": 30,
+      "pnl_sum": -15516.63,
+      "positive": 8,
+      "flat": 0,
+      "negative": 22,
+      "win_rate": 0.26666666666666666
+    },
+    {
+      "date": "2025-06-03",
+      "count": 51,
+      "pnl_sum": -1550.6600000000008,
+      "positive": 26,
+      "flat": 0,
+      "negative": 25,
+      "win_rate": 0.5098039215686274
+    },
+    {
+      "date": "2025-06-04",
+      "count": 79,
+      "pnl_sum": -12530.709999999995,
+      "positive": 25,
+      "flat": 1,
+      "negative": 53,
+      "win_rate": 0.31645569620253167
+    },
+    {
+      "date": "2025-06-05",
+      "count": 63,
+      "pnl_sum": 5135.64,
+      "positive": 37,
+      "flat": 2,
+      "negative": 24,
+      "win_rate": 0.5873015873015873
+    },
+    {
+      "date": "2025-06-06",
+      "count": 32,
+      "pnl_sum": -13524.880000000003,
+      "positive": 12,
+      "flat": 0,
+      "negative": 20,
+      "win_rate": 0.375
+    },
+    {
+      "date": "2025-06-07",
+      "count": 58,
+      "pnl_sum": 13043.24,
+      "positive": 36,
+      "flat": 0,
+      "negative": 22,
+      "win_rate": 0.6206896551724138
+    },
+    {
+      "date": "2025-06-08",
+      "count": 53,
+      "pnl_sum": -595.4700000000003,
+      "positive": 22,
+      "flat": 0,
+      "negative": 31,
+      "win_rate": 0.41509433962264153
+    },
+    {
+      "date": "2025-06-09",
+      "count": 54,
+      "pnl_sum": 6236.370000000001,
+      "positive": 21,
+      "flat": 0,
+      "negative": 33,
+      "win_rate": 0.3888888888888889
+    },
+    {
+      "date": "2025-06-10",
+      "count": 40,
+      "pnl_sum": 13426.339999999997,
+      "positive": 16,
+      "flat": 0,
+      "negative": 24,
+      "win_rate": 0.4
+    },
+    {
+      "date": "2025-06-11",
+      "count": 52,
+      "pnl_sum": -32655.44,
+      "positive": 11,
+      "flat": 0,
+      "negative": 41,
+      "win_rate": 0.21153846153846154
+    },
+    {
+      "date": "2025-06-12",
+      "count": 20,
+      "pnl_sum": -6930.919999999999,
+      "positive": 5,
+      "flat": 0,
+      "negative": 15,
+      "win_rate": 0.25
+    },
+    {
+      "date": "2025-06-13",
+      "count": 61,
+      "pnl_sum": 22507.89,
+      "positive": 33,
+      "flat": 0,
+      "negative": 28,
+      "win_rate": 0.5409836065573771
+    },
+    {
+      "date": "2025-06-14",
+      "count": 74,
+      "pnl_sum": 5367.129999999998,
+      "positive": 28,
+      "flat": 0,
+      "negative": 46,
+      "win_rate": 0.3783783783783784
+    },
+    {
+      "date": "2025-06-15",
+      "count": 81,
+      "pnl_sum": -6886.7800000000025,
+      "positive": 41,
+      "flat": 1,
+      "negative": 39,
+      "win_rate": 0.5061728395061729
+    },
+    {
+      "date": "2025-06-16",
+      "count": 77,
+      "pnl_sum": 1147.5600000000009,
+      "positive": 37,
+      "flat": 3,
+      "negative": 37,
+      "win_rate": 0.4805194805194805
+    },
+    {
+      "date": "2025-06-17",
+      "count": 58,
+      "pnl_sum": -8893.839999999998,
+      "positive": 17,
+      "flat": 4,
+      "negative": 37,
+      "win_rate": 0.29310344827586204
+    },
+    {
+      "date": "2025-06-18",
+      "count": 37,
+      "pnl_sum": 9179.830000000002,
+      "positive": 15,
+      "flat": 4,
+      "negative": 18,
+      "win_rate": 0.40540540540540543
+    },
+    {
+      "date": "2025-06-19",
+      "count": 23,
+      "pnl_sum": -3329.45,
+      "positive": 10,
+      "flat": 3,
+      "negative": 10,
+      "win_rate": 0.43478260869565216
+    },
+    {
+      "date": "2025-06-20",
+      "count": 46,
+      "pnl_sum": -857.919999999999,
+      "positive": 16,
+      "flat": 0,
+      "negative": 30,
+      "win_rate": 0.34782608695652173
+    },
+    {
+      "date": "2025-06-21",
+      "count": 71,
+      "pnl_sum": 1756.9799999999952,
+      "positive": 33,
+      "flat": 10,
+      "negative": 28,
+      "win_rate": 0.4647887323943662
+    },
+    {
+      "date": "2025-06-22",
+      "count": 54,
+      "pnl_sum": -15217,
+      "positive": 15,
+      "flat": 2,
+      "negative": 37,
+      "win_rate": 0.2777777777777778
+    },
+    {
+      "date": "2025-06-23",
+      "count": 29,
+      "pnl_sum": -8626.650000000001,
+      "positive": 7,
+      "flat": 1,
+      "negative": 21,
+      "win_rate": 0.2413793103448276
+    },
+    {
+      "date": "2025-06-24",
+      "count": 15,
+      "pnl_sum": -1130.54,
+      "positive": 9,
+      "flat": 0,
+      "negative": 6,
+      "win_rate": 0.6
+    },
+    {
+      "date": "2025-06-25",
+      "count": 29,
+      "pnl_sum": -29911.88,
+      "positive": 8,
+      "flat": 4,
+      "negative": 17,
+      "win_rate": 0.27586206896551724
+    },
+    {
+      "date": "2025-06-26",
+      "count": 4,
+      "pnl_sum": -2529.27,
+      "positive": 0,
+      "flat": 0,
+      "negative": 4,
+      "win_rate": 0
+    },
+    {
+      "date": "2025-06-27",
+      "count": 29,
+      "pnl_sum": 15154.300000000001,
+      "positive": 26,
+      "flat": 0,
+      "negative": 3,
+      "win_rate": 0.896551724137931
+    },
+    {
+      "date": "2025-06-28",
+      "count": 15,
+      "pnl_sum": -2565.5099999999998,
+      "positive": 4,
+      "flat": 0,
+      "negative": 11,
+      "win_rate": 0.26666666666666666
+    },
+    {
+      "date": "2025-06-29",
+      "count": 16,
+      "pnl_sum": 8841.78,
+      "positive": 13,
+      "flat": 0,
+      "negative": 3,
+      "win_rate": 0.8125
+    },
+    {
+      "date": "2025-06-30",
+      "count": 26,
+      "pnl_sum": -9085.19,
+      "positive": 4,
+      "flat": 2,
+      "negative": 20,
+      "win_rate": 0.15384615384615385
+    },
+    {
+      "date": "2025-07-01",
+      "count": 62,
+      "pnl_sum": -5679.829999999999,
+      "positive": 27,
+      "flat": 0,
+      "negative": 35,
+      "win_rate": 0.43548387096774194
+    },
+    {
+      "date": "2025-07-02",
+      "count": 65,
+      "pnl_sum": 166.10999999999922,
+      "positive": 30,
+      "flat": 2,
+      "negative": 33,
+      "win_rate": 0.46153846153846156
+    },
+    {
+      "date": "2025-07-03",
+      "count": 43,
+      "pnl_sum": -826.5399999999998,
+      "positive": 23,
+      "flat": 2,
+      "negative": 18,
+      "win_rate": 0.5348837209302325
+    },
+    {
+      "date": "2025-07-04",
+      "count": 20,
+      "pnl_sum": -5609.219999999999,
+      "positive": 6,
+      "flat": 0,
+      "negative": 14,
+      "win_rate": 0.3
+    },
+    {
+      "date": "2025-07-05",
+      "count": 23,
+      "pnl_sum": -12267.759999999998,
+      "positive": 8,
+      "flat": 0,
+      "negative": 15,
+      "win_rate": 0.34782608695652173
+    },
+    {
+      "date": "2025-07-06",
+      "count": 11,
+      "pnl_sum": 1373.76,
+      "positive": 8,
+      "flat": 0,
+      "negative": 3,
+      "win_rate": 0.7272727272727273
+    },
+    {
+      "date": "2025-07-07",
+      "count": 14,
+      "pnl_sum": 9778.11,
+      "positive": 8,
+      "flat": 0,
+      "negative": 6,
+      "win_rate": 0.5714285714285714
+    },
+    {
+      "date": "2025-07-08",
+      "count": 30,
+      "pnl_sum": -12395.65,
+      "positive": 7,
+      "flat": 0,
+      "negative": 23,
+      "win_rate": 0.23333333333333334
+    },
+    {
+      "date": "2025-07-09",
+      "count": 29,
+      "pnl_sum": -1832.249999999999,
+      "positive": 12,
+      "flat": 0,
+      "negative": 17,
+      "win_rate": 0.41379310344827586
+    },
+    {
+      "date": "2025-07-10",
+      "count": 23,
+      "pnl_sum": -4586.25,
+      "positive": 10,
+      "flat": 0,
+      "negative": 13,
+      "win_rate": 0.43478260869565216
+    },
+    {
+      "date": "2025-07-11",
+      "count": 66,
+      "pnl_sum": 8529.279999999999,
+      "positive": 39,
+      "flat": 0,
+      "negative": 27,
+      "win_rate": 0.5909090909090909
+    },
+    {
+      "date": "2025-07-12",
+      "count": 35,
+      "pnl_sum": 13613.910000000002,
+      "positive": 27,
+      "flat": 0,
+      "negative": 8,
+      "win_rate": 0.7714285714285715
+    },
+    {
+      "date": "2025-07-13",
+      "count": 52,
+      "pnl_sum": -30376.889999999996,
+      "positive": 8,
+      "flat": 0,
+      "negative": 44,
+      "win_rate": 0.15384615384615385
+    },
+    {
+      "date": "2025-07-14",
+      "count": 10,
+      "pnl_sum": -2379.66,
+      "positive": 2,
+      "flat": 0,
+      "negative": 8,
+      "win_rate": 0.2
+    },
+    {
+      "date": "2025-07-15",
+      "count": 123,
+      "pnl_sum": -17688.11999999999,
+      "positive": 45,
+      "flat": 0,
+      "negative": 78,
+      "win_rate": 0.36585365853658536
+    },
+    {
+      "date": "2025-07-16",
+      "count": 118,
+      "pnl_sum": -50296.62000000001,
+      "positive": 35,
+      "flat": 0,
+      "negative": 83,
+      "win_rate": 0.2966101694915254
+    },
+    {
+      "date": "2025-07-17",
+      "count": 137,
+      "pnl_sum": 37002.47,
+      "positive": 66,
+      "flat": 0,
+      "negative": 71,
+      "win_rate": 0.48175182481751827
+    },
+    {
+      "date": "2025-07-18",
+      "count": 116,
+      "pnl_sum": 20409.389999999996,
+      "positive": 71,
+      "flat": 0,
+      "negative": 45,
+      "win_rate": 0.6120689655172413
+    },
+    {
+      "date": "2025-07-19",
+      "count": 109,
+      "pnl_sum": -10958.869999999992,
+      "positive": 35,
+      "flat": 0,
+      "negative": 74,
+      "win_rate": 0.3211009174311927
+    },
+    {
+      "date": "2025-07-20",
+      "count": 104,
+      "pnl_sum": 38167.04,
+      "positive": 61,
+      "flat": 0,
+      "negative": 43,
+      "win_rate": 0.5865384615384616
+    },
+    {
+      "date": "2025-07-21",
+      "count": 14,
+      "pnl_sum": -2359.5200000000004,
+      "positive": 5,
+      "flat": 0,
+      "negative": 9,
+      "win_rate": 0.35714285714285715
+    },
+    {
+      "date": "2025-07-22",
+      "count": 81,
+      "pnl_sum": 20628.890000000007,
+      "positive": 47,
+      "flat": 6,
+      "negative": 28,
+      "win_rate": 0.5802469135802469
+    },
+    {
+      "date": "2025-07-23",
+      "count": 100,
+      "pnl_sum": 19027.739999999994,
+      "positive": 54,
+      "flat": 0,
+      "negative": 46,
+      "win_rate": 0.54
+    },
+    {
+      "date": "2025-07-24",
+      "count": 110,
+      "pnl_sum": 24768.350000000002,
+      "positive": 57,
+      "flat": 0,
+      "negative": 53,
+      "win_rate": 0.5181818181818182
+    },
+    {
+      "date": "2025-07-25",
+      "count": 143,
+      "pnl_sum": -19234.38,
+      "positive": 55,
+      "flat": 0,
+      "negative": 88,
+      "win_rate": 0.38461538461538464
+    },
+    {
+      "date": "2025-07-26",
+      "count": 70,
+      "pnl_sum": -11184.249999999998,
+      "positive": 20,
+      "flat": 0,
+      "negative": 50,
+      "win_rate": 0.2857142857142857
+    },
+    {
+      "date": "2025-07-27",
+      "count": 82,
+      "pnl_sum": 12671.56,
+      "positive": 44,
+      "flat": 0,
+      "negative": 38,
+      "win_rate": 0.5365853658536586
+    },
+    {
+      "date": "2025-07-28",
+      "count": 59,
+      "pnl_sum": 592.9900000000006,
+      "positive": 24,
+      "flat": 2,
+      "negative": 33,
+      "win_rate": 0.4067796610169492
+    },
+    {
+      "date": "2025-07-29",
+      "count": 72,
+      "pnl_sum": -7462.989999999994,
+      "positive": 30,
+      "flat": 2,
+      "negative": 40,
+      "win_rate": 0.4166666666666667
+    },
+    {
+      "date": "2025-07-30",
+      "count": 65,
+      "pnl_sum": 12016.939999999999,
+      "positive": 34,
+      "flat": 4,
+      "negative": 27,
+      "win_rate": 0.5230769230769231
+    },
+    {
+      "date": "2025-07-31",
+      "count": 87,
+      "pnl_sum": -6603.689999999999,
+      "positive": 35,
+      "flat": 2,
+      "negative": 50,
+      "win_rate": 0.40229885057471265
+    },
+    {
+      "date": "2025-08-01",
+      "count": 75,
+      "pnl_sum": -26992.809999999994,
+      "positive": 25,
+      "flat": 0,
+      "negative": 50,
+      "win_rate": 0.3333333333333333
+    },
+    {
+      "date": "2025-08-02",
+      "count": 107,
+      "pnl_sum": -37125.66000000001,
+      "positive": 20,
+      "flat": 0,
+      "negative": 87,
+      "win_rate": 0.18691588785046728
+    },
+    {
+      "date": "2025-08-03",
+      "count": 67,
+      "pnl_sum": 5464.289999999994,
+      "positive": 29,
+      "flat": 0,
+      "negative": 38,
+      "win_rate": 0.43283582089552236
+    },
+    {
+      "date": "2025-08-04",
+      "count": 71,
+      "pnl_sum": 2763.7500000000005,
+      "positive": 34,
+      "flat": 6,
+      "negative": 31,
+      "win_rate": 0.4788732394366197
+    },
+    {
+      "date": "2025-08-05",
+      "count": 68,
+      "pnl_sum": 6663.090000000002,
+      "positive": 39,
+      "flat": 0,
+      "negative": 29,
+      "win_rate": 0.5735294117647058
+    },
+    {
+      "date": "2025-08-06",
+      "count": 90,
+      "pnl_sum": 22080.839999999997,
+      "positive": 64,
+      "flat": 0,
+      "negative": 26,
+      "win_rate": 0.7111111111111111
+    },
+    {
+      "date": "2025-08-07",
+      "count": 70,
+      "pnl_sum": -32966.770000000004,
+      "positive": 27,
+      "flat": 0,
+      "negative": 43,
+      "win_rate": 0.38571428571428573
+    },
+    {
+      "date": "2025-08-08",
+      "count": 49,
+      "pnl_sum": -9198.980000000001,
+      "positive": 13,
+      "flat": 2,
+      "negative": 34,
+      "win_rate": 0.2653061224489796
+    },
+    {
+      "date": "2025-08-09",
+      "count": 51,
+      "pnl_sum": 4695.33,
+      "positive": 25,
+      "flat": 0,
+      "negative": 26,
+      "win_rate": 0.49019607843137253
+    },
+    {
+      "date": "2025-08-10",
+      "count": 54,
+      "pnl_sum": 3012.010000000002,
+      "positive": 27,
+      "flat": 2,
+      "negative": 25,
+      "win_rate": 0.5
+    },
+    {
+      "date": "2025-08-11",
+      "count": 23,
+      "pnl_sum": 3249.490000000001,
+      "positive": 12,
+      "flat": 0,
+      "negative": 11,
+      "win_rate": 0.5217391304347826
+    },
+    {
+      "date": "2025-08-12",
+      "count": 34,
+      "pnl_sum": -5786.870000000001,
+      "positive": 14,
+      "flat": 0,
+      "negative": 20,
+      "win_rate": 0.4117647058823529
+    },
+    {
+      "date": "2025-08-13",
+      "count": 74,
+      "pnl_sum": 9811.47,
+      "positive": 37,
+      "flat": 0,
+      "negative": 37,
+      "win_rate": 0.5
+    },
+    {
+      "date": "2025-08-14",
+      "count": 45,
+      "pnl_sum": -259.53000000000037,
+      "positive": 25,
+      "flat": 2,
+      "negative": 18,
+      "win_rate": 0.5555555555555556
+    },
+    {
+      "date": "2025-08-15",
+      "count": 59,
+      "pnl_sum": 4925.389999999999,
+      "positive": 28,
+      "flat": 0,
+      "negative": 31,
+      "win_rate": 0.4745762711864407
+    },
+    {
+      "date": "2025-08-16",
+      "count": 70,
+      "pnl_sum": -12662.690000000002,
+      "positive": 17,
+      "flat": 0,
+      "negative": 53,
+      "win_rate": 0.24285714285714285
+    },
+    {
+      "date": "2025-08-17",
+      "count": 73,
+      "pnl_sum": -20018.81,
+      "positive": 18,
+      "flat": 0,
+      "negative": 55,
+      "win_rate": 0.2465753424657534
+    },
+    {
+      "date": "2025-08-18",
+      "count": 35,
+      "pnl_sum": 7511.43,
+      "positive": 25,
+      "flat": 0,
+      "negative": 10,
+      "win_rate": 0.7142857142857143
+    },
+    {
+      "date": "2025-08-19",
+      "count": 32,
+      "pnl_sum": 3302.73,
+      "positive": 17,
+      "flat": 2,
+      "negative": 13,
+      "win_rate": 0.53125
+    },
+    {
+      "date": "2025-08-20",
+      "count": 59,
+      "pnl_sum": 5759.219999999999,
+      "positive": 25,
+      "flat": 4,
+      "negative": 30,
+      "win_rate": 0.423728813559322
+    },
+    {
+      "date": "2025-08-21",
+      "count": 81,
+      "pnl_sum": 10877.960000000001,
+      "positive": 42,
+      "flat": 2,
+      "negative": 37,
+      "win_rate": 0.5185185185185185
+    },
+    {
+      "date": "2025-08-22",
+      "count": 71,
+      "pnl_sum": -16453.809999999998,
+      "positive": 24,
+      "flat": 0,
+      "negative": 47,
+      "win_rate": 0.3380281690140845
+    },
+    {
+      "date": "2025-08-23",
+      "count": 125,
+      "pnl_sum": 9729.39,
+      "positive": 41,
+      "flat": 8,
+      "negative": 76,
+      "win_rate": 0.328
+    },
+    {
+      "date": "2025-08-24",
+      "count": 100,
+      "pnl_sum": -14963.089999999993,
+      "positive": 31,
+      "flat": 0,
+      "negative": 69,
+      "win_rate": 0.31
+    },
+    {
+      "date": "2025-08-25",
+      "count": 65,
+      "pnl_sum": -1698.2700000000007,
+      "positive": 29,
+      "flat": 0,
+      "negative": 36,
+      "win_rate": 0.4461538461538462
+    },
+    {
+      "date": "2025-08-26",
+      "count": 30,
+      "pnl_sum": -6722.01,
+      "positive": 11,
+      "flat": 3,
+      "negative": 16,
+      "win_rate": 0.36666666666666664
+    },
+    {
+      "date": "2025-08-27",
+      "count": 44,
+      "pnl_sum": 22597.95,
+      "positive": 30,
+      "flat": 0,
+      "negative": 14,
+      "win_rate": 0.6818181818181818
+    },
+    {
+      "date": "2025-08-28",
+      "count": 105,
+      "pnl_sum": 31126.399999999998,
+      "positive": 57,
+      "flat": 0,
+      "negative": 48,
+      "win_rate": 0.5428571428571428
+    },
+    {
+      "date": "2025-08-29",
+      "count": 107,
+      "pnl_sum": -14007.650000000001,
+      "positive": 37,
+      "flat": 3,
+      "negative": 67,
+      "win_rate": 0.34579439252336447
+    },
+    {
+      "date": "2025-08-30",
+      "count": 140,
+      "pnl_sum": 22519.2,
+      "positive": 66,
+      "flat": 4,
+      "negative": 70,
+      "win_rate": 0.4714285714285714
+    },
+    {
+      "date": "2025-08-31",
+      "count": 160,
+      "pnl_sum": -59596.319999999985,
+      "positive": 45,
+      "flat": 6,
+      "negative": 109,
+      "win_rate": 0.28125
+    },
+    {
+      "date": "2025-09-01",
+      "count": 74,
+      "pnl_sum": -18143.599999999995,
+      "positive": 31,
+      "flat": 5,
+      "negative": 38,
+      "win_rate": 0.4189189189189189
+    },
+    {
+      "date": "2025-09-02",
+      "count": 32,
+      "pnl_sum": -7765.829999999999,
+      "positive": 4,
+      "flat": 4,
+      "negative": 24,
+      "win_rate": 0.125
+    },
+    {
+      "date": "2025-09-03",
+      "count": 53,
+      "pnl_sum": 3476.2400000000002,
+      "positive": 29,
+      "flat": 0,
+      "negative": 24,
+      "win_rate": 0.5471698113207547
+    },
+    {
+      "date": "2025-09-04",
+      "count": 48,
+      "pnl_sum": 11956.16,
+      "positive": 27,
+      "flat": 4,
+      "negative": 17,
+      "win_rate": 0.5625
+    },
+    {
+      "date": "2025-09-05",
+      "count": 94,
+      "pnl_sum": -35771.490000000005,
+      "positive": 32,
+      "flat": 2,
+      "negative": 60,
+      "win_rate": 0.3404255319148936
+    },
+    {
+      "date": "2025-09-06",
+      "count": 62,
+      "pnl_sum": -15621.67,
+      "positive": 21,
+      "flat": 0,
+      "negative": 41,
+      "win_rate": 0.3387096774193548
+    },
+    {
+      "date": "2025-09-07",
+      "count": 70,
+      "pnl_sum": -3098.0699999999993,
+      "positive": 31,
+      "flat": 0,
+      "negative": 39,
+      "win_rate": 0.44285714285714284
+    },
+    {
+      "date": "2025-09-08",
+      "count": 62,
+      "pnl_sum": -3216.7400000000016,
+      "positive": 17,
+      "flat": 13,
+      "negative": 32,
+      "win_rate": 0.27419354838709675
+    },
+    {
+      "date": "2025-09-09",
+      "count": 44,
+      "pnl_sum": -6056.8099999999995,
+      "positive": 20,
+      "flat": 0,
+      "negative": 24,
+      "win_rate": 0.45454545454545453
+    },
+    {
+      "date": "2025-09-10",
+      "count": 71,
+      "pnl_sum": 2636.229999999998,
+      "positive": 28,
+      "flat": 2,
+      "negative": 41,
+      "win_rate": 0.39436619718309857
+    },
+    {
+      "date": "2025-09-11",
+      "count": 90,
+      "pnl_sum": -16175.109999999999,
+      "positive": 35,
+      "flat": 0,
+      "negative": 55,
+      "win_rate": 0.3888888888888889
+    },
+    {
+      "date": "2025-09-12",
+      "count": 98,
+      "pnl_sum": 12173.519999999997,
+      "positive": 53,
+      "flat": 4,
+      "negative": 41,
+      "win_rate": 0.5408163265306123
+    },
+    {
+      "date": "2025-09-13",
+      "count": 91,
+      "pnl_sum": -2229.9100000000026,
+      "positive": 40,
+      "flat": 0,
+      "negative": 51,
+      "win_rate": 0.43956043956043955
+    },
+    {
+      "date": "2025-09-14",
+      "count": 133,
+      "pnl_sum": 32624.770000000022,
+      "positive": 74,
+      "flat": 0,
+      "negative": 59,
+      "win_rate": 0.556390977443609
+    },
+    {
+      "date": "2025-09-15",
+      "count": 94,
+      "pnl_sum": -8727.89,
+      "positive": 30,
+      "flat": 4,
+      "negative": 60,
+      "win_rate": 0.3191489361702128
+    },
+    {
+      "date": "2025-09-16",
+      "count": 57,
+      "pnl_sum": -16473.360000000004,
+      "positive": 14,
+      "flat": 2,
+      "negative": 41,
+      "win_rate": 0.24561403508771928
+    },
+    {
+      "date": "2025-09-17",
+      "count": 30,
+      "pnl_sum": 2168.3899999999994,
+      "positive": 14,
+      "flat": 0,
+      "negative": 16,
+      "win_rate": 0.4666666666666667
+    },
+    {
+      "date": "2025-09-18",
+      "count": 33,
+      "pnl_sum": 2236.83,
+      "positive": 16,
+      "flat": 2,
+      "negative": 15,
+      "win_rate": 0.48484848484848486
+    },
+    {
+      "date": "2025-09-19",
+      "count": 61,
+      "pnl_sum": 5318.209999999999,
+      "positive": 27,
+      "flat": 7,
+      "negative": 27,
+      "win_rate": 0.4426229508196721
+    },
+    {
+      "date": "2025-09-20",
+      "count": 106,
+      "pnl_sum": -1859.7299999999964,
+      "positive": 46,
+      "flat": 10,
+      "negative": 50,
+      "win_rate": 0.4339622641509434
+    },
+    {
+      "date": "2025-09-21",
+      "count": 74,
+      "pnl_sum": -17399.760000000002,
+      "positive": 18,
+      "flat": 2,
+      "negative": 54,
+      "win_rate": 0.24324324324324326
+    },
+    {
+      "date": "2025-09-22",
+      "count": 49,
+      "pnl_sum": -2430.94,
+      "positive": 22,
+      "flat": 2,
+      "negative": 25,
+      "win_rate": 0.4489795918367347
+    },
+    {
+      "date": "2025-09-23",
+      "count": 63,
+      "pnl_sum": -7104.100000000004,
+      "positive": 27,
+      "flat": 0,
+      "negative": 36,
+      "win_rate": 0.42857142857142855
+    },
+    {
+      "date": "2025-09-24",
+      "count": 79,
+      "pnl_sum": -469.0299999999956,
+      "positive": 30,
+      "flat": 4,
+      "negative": 45,
+      "win_rate": 0.379746835443038
+    },
+    {
+      "date": "2025-09-25",
+      "count": 54,
+      "pnl_sum": -6917.560000000001,
+      "positive": 26,
+      "flat": 4,
+      "negative": 24,
+      "win_rate": 0.48148148148148145
+    },
+    {
+      "date": "2025-09-26",
+      "count": 56,
+      "pnl_sum": 1801.1799999999987,
+      "positive": 22,
+      "flat": 2,
+      "negative": 32,
+      "win_rate": 0.39285714285714285
+    },
+    {
+      "date": "2025-09-27",
+      "count": 94,
+      "pnl_sum": -17208.72,
+      "positive": 24,
+      "flat": 4,
+      "negative": 66,
+      "win_rate": 0.2553191489361702
+    },
+    {
+      "date": "2025-09-28",
+      "count": 96,
+      "pnl_sum": 54337.509999999995,
+      "positive": 74,
+      "flat": 0,
+      "negative": 22,
+      "win_rate": 0.7708333333333334
+    },
+    {
+      "date": "2025-09-29",
+      "count": 111,
+      "pnl_sum": 6253.42,
+      "positive": 53,
+      "flat": 7,
+      "negative": 51,
+      "win_rate": 0.4774774774774775
+    },
+    {
+      "date": "2025-09-30",
+      "count": 148,
+      "pnl_sum": -6795.930000000001,
+      "positive": 55,
+      "flat": 6,
+      "negative": 87,
+      "win_rate": 0.3716216216216216
+    },
+    {
+      "date": "2025-10-01",
+      "count": 65,
+      "pnl_sum": 9378.169999999998,
+      "positive": 34,
+      "flat": 1,
+      "negative": 30,
+      "win_rate": 0.5230769230769231
+    },
+    {
+      "date": "2025-10-02",
+      "count": 78,
+      "pnl_sum": 3129.510000000001,
+      "positive": 36,
+      "flat": 3,
+      "negative": 39,
+      "win_rate": 0.46153846153846156
+    },
+    {
+      "date": "2025-10-03",
+      "count": 69,
+      "pnl_sum": -5485.209999999998,
+      "positive": 32,
+      "flat": 3,
+      "negative": 34,
+      "win_rate": 0.463768115942029
+    },
+    {
+      "date": "2025-10-04",
+      "count": 77,
+      "pnl_sum": 159.50999999999948,
+      "positive": 33,
+      "flat": 8,
+      "negative": 36,
+      "win_rate": 0.42857142857142855
+    },
+    {
+      "date": "2025-10-05",
+      "count": 117,
+      "pnl_sum": -30308.639999999996,
+      "positive": 33,
+      "flat": 4,
+      "negative": 80,
+      "win_rate": 0.28205128205128205
+    },
+    {
+      "date": "2025-10-06",
+      "count": 66,
+      "pnl_sum": -14189.27,
+      "positive": 23,
+      "flat": 1,
+      "negative": 42,
+      "win_rate": 0.3484848484848485
+    },
+    {
+      "date": "2025-10-07",
+      "count": 105,
+      "pnl_sum": 17104.490000000005,
+      "positive": 50,
+      "flat": 2,
+      "negative": 53,
+      "win_rate": 0.47619047619047616
+    },
+    {
+      "date": "2025-10-08",
+      "count": 173,
+      "pnl_sum": -52047.79000000001,
+      "positive": 67,
+      "flat": 2,
+      "negative": 104,
+      "win_rate": 0.3872832369942196
+    },
+    {
+      "date": "2025-10-09",
+      "count": 38,
+      "pnl_sum": -7695.950000000001,
+      "positive": 13,
+      "flat": 2,
+      "negative": 23,
+      "win_rate": 0.34210526315789475
+    },
+    {
+      "date": "2025-10-10",
+      "count": 46,
+      "pnl_sum": 16447.030000000002,
+      "positive": 31,
+      "flat": 0,
+      "negative": 15,
+      "win_rate": 0.6739130434782609
+    },
+    {
+      "date": "2025-10-11",
+      "count": 92,
+      "pnl_sum": -806.2700000000018,
+      "positive": 43,
+      "flat": 2,
+      "negative": 47,
+      "win_rate": 0.4673913043478261
+    },
+    {
+      "date": "2025-10-12",
+      "count": 76,
+      "pnl_sum": -16470.779999999995,
+      "positive": 31,
+      "flat": 0,
+      "negative": 45,
+      "win_rate": 0.40789473684210525
+    },
+    {
+      "date": "2025-10-13",
+      "count": 27,
+      "pnl_sum": -4383.630000000001,
+      "positive": 10,
+      "flat": 0,
+      "negative": 17,
+      "win_rate": 0.37037037037037035
+    },
+    {
+      "date": "2025-10-14",
+      "count": 33,
+      "pnl_sum": 2059.3600000000006,
+      "positive": 8,
+      "flat": 0,
+      "negative": 25,
+      "win_rate": 0.24242424242424243
+    },
+    {
+      "date": "2025-10-15",
+      "count": 100,
+      "pnl_sum": 12995.279999999997,
+      "positive": 39,
+      "flat": 2,
+      "negative": 59,
+      "win_rate": 0.39
+    },
+    {
+      "date": "2025-10-16",
+      "count": 63,
+      "pnl_sum": 9675.790000000005,
+      "positive": 22,
+      "flat": 6,
+      "negative": 35,
+      "win_rate": 0.3492063492063492
+    },
+    {
+      "date": "2025-10-17",
+      "count": 64,
+      "pnl_sum": 9340.380000000005,
+      "positive": 34,
+      "flat": 2,
+      "negative": 28,
+      "win_rate": 0.53125
+    },
+    {
+      "date": "2025-10-18",
+      "count": 75,
+      "pnl_sum": -18092.590000000004,
+      "positive": 27,
+      "flat": 0,
+      "negative": 48,
+      "win_rate": 0.36
+    },
+    {
+      "date": "2025-10-19",
+      "count": 55,
+      "pnl_sum": -23830.719999999998,
+      "positive": 14,
+      "flat": 0,
+      "negative": 41,
+      "win_rate": 0.2545454545454545
+    },
+    {
+      "date": "2025-10-20",
+      "count": 14,
+      "pnl_sum": 1349.1600000000003,
+      "positive": 8,
+      "flat": 0,
+      "negative": 6,
+      "win_rate": 0.5714285714285714
+    },
+    {
+      "date": "2025-10-21",
+      "count": 91,
+      "pnl_sum": -24971.660000000003,
+      "positive": 39,
+      "flat": 3,
+      "negative": 49,
+      "win_rate": 0.42857142857142855
+    },
+    {
+      "date": "2025-10-22",
+      "count": 4,
+      "pnl_sum": 1016,
+      "positive": 4,
+      "flat": 0,
+      "negative": 0,
+      "win_rate": 1
+    },
+    {
+      "date": "2025-10-26",
+      "count": 8,
+      "pnl_sum": 3055.24,
+      "positive": 6,
+      "flat": 0,
+      "negative": 2,
+      "win_rate": 0.75
+    },
+    {
+      "date": "2025-10-27",
+      "count": 58,
+      "pnl_sum": 3354.8400000000015,
+      "positive": 23,
+      "flat": 0,
+      "negative": 35,
+      "win_rate": 0.39655172413793105
+    },
+    {
+      "date": "2025-10-28",
+      "count": 74,
+      "pnl_sum": 28763.62,
+      "positive": 44,
+      "flat": 0,
+      "negative": 30,
+      "win_rate": 0.5945945945945946
+    },
+    {
+      "date": "2025-10-29",
+      "count": 87,
+      "pnl_sum": -8534.810000000001,
+      "positive": 38,
+      "flat": 0,
+      "negative": 49,
+      "win_rate": 0.4367816091954023
+    },
+    {
+      "date": "2025-10-30",
+      "count": 32,
+      "pnl_sum": 11525.03,
+      "positive": 19,
+      "flat": 0,
+      "negative": 13,
+      "win_rate": 0.59375
+    },
+    {
+      "date": "2025-10-31",
+      "count": 47,
+      "pnl_sum": 9850.230000000001,
+      "positive": 18,
+      "flat": 4,
+      "negative": 25,
+      "win_rate": 0.3829787234042553
+    },
+    {
+      "date": "2025-11-01",
+      "count": 27,
+      "pnl_sum": 3334.9799999999996,
+      "positive": 14,
+      "flat": 0,
+      "negative": 13,
+      "win_rate": 0.5185185185185185
+    },
+    {
+      "date": "2025-11-02",
+      "count": 24,
+      "pnl_sum": 8967.38,
+      "positive": 14,
+      "flat": 2,
+      "negative": 8,
+      "win_rate": 0.5833333333333334
+    },
+    {
+      "date": "2025-11-03",
+      "count": 87,
+      "pnl_sum": 17651.75,
+      "positive": 50,
+      "flat": 10,
+      "negative": 27,
+      "win_rate": 0.5747126436781609
+    },
+    {
+      "date": "2025-11-04",
+      "count": 54,
+      "pnl_sum": 1235.92,
+      "positive": 27,
+      "flat": 6,
+      "negative": 21,
+      "win_rate": 0.5
+    },
+    {
+      "date": "2025-11-05",
+      "count": 36,
+      "pnl_sum": -9757.039999999999,
+      "positive": 12,
+      "flat": 0,
+      "negative": 24,
+      "win_rate": 0.3333333333333333
+    },
+    {
+      "date": "2025-11-06",
+      "count": 22,
+      "pnl_sum": 614.5099999999996,
+      "positive": 9,
+      "flat": 0,
+      "negative": 13,
+      "win_rate": 0.4090909090909091
+    },
+    {
+      "date": "2025-11-07",
+      "count": 29,
+      "pnl_sum": 691.96,
+      "positive": 11,
+      "flat": 0,
+      "negative": 18,
+      "win_rate": 0.3793103448275862
+    },
+    {
+      "date": "2025-11-08",
+      "count": 86,
+      "pnl_sum": 1076.5900000000013,
+      "positive": 42,
+      "flat": 2,
+      "negative": 42,
+      "win_rate": 0.4883720930232558
+    },
+    {
+      "date": "2025-11-09",
+      "count": 65,
+      "pnl_sum": -13383.109999999999,
+      "positive": 35,
+      "flat": 0,
+      "negative": 30,
+      "win_rate": 0.5384615384615384
+    },
+    {
+      "date": "2025-11-10",
+      "count": 19,
+      "pnl_sum": 2550.6000000000004,
+      "positive": 10,
+      "flat": 2,
+      "negative": 7,
+      "win_rate": 0.5263157894736842
+    },
+    {
+      "date": "2025-11-11",
+      "count": 9,
+      "pnl_sum": 1677.19,
+      "positive": 7,
+      "flat": 0,
+      "negative": 2,
+      "win_rate": 0.7777777777777778
+    },
+    {
+      "date": "2025-11-12",
+      "count": 27,
+      "pnl_sum": -11236.429999999997,
+      "positive": 6,
+      "flat": 0,
+      "negative": 21,
+      "win_rate": 0.2222222222222222
+    },
+    {
+      "date": "2025-11-13",
+      "count": 27,
+      "pnl_sum": 1128.7299999999996,
+      "positive": 17,
+      "flat": 0,
+      "negative": 10,
+      "win_rate": 0.6296296296296297
+    },
+    {
+      "date": "2025-11-14",
+      "count": 67,
+      "pnl_sum": -745.7200000000001,
+      "positive": 15,
+      "flat": 2,
+      "negative": 50,
+      "win_rate": 0.22388059701492538
+    },
+    {
+      "date": "2025-11-15",
+      "count": 66,
+      "pnl_sum": -3039.1100000000033,
+      "positive": 25,
+      "flat": 0,
+      "negative": 41,
+      "win_rate": 0.3787878787878788
+    },
+    {
+      "date": "2025-11-16",
+      "count": 30,
+      "pnl_sum": -4204.88,
+      "positive": 12,
+      "flat": 2,
+      "negative": 16,
+      "win_rate": 0.4
+    },
+    {
+      "date": "2025-11-17",
+      "count": 37,
+      "pnl_sum": -13642.569999999998,
+      "positive": 14,
+      "flat": 2,
+      "negative": 21,
+      "win_rate": 0.3783783783783784
+    },
+    {
+      "date": "2025-11-18",
+      "count": 35,
+      "pnl_sum": 10245.629999999997,
+      "positive": 21,
+      "flat": 0,
+      "negative": 14,
+      "win_rate": 0.6
+    },
+    {
+      "date": "2025-11-19",
+      "count": 16,
+      "pnl_sum": -11475.32,
+      "positive": 2,
+      "flat": 1,
+      "negative": 13,
+      "win_rate": 0.125
+    },
+    {
+      "date": "2025-11-20",
+      "count": 43,
+      "pnl_sum": 5980.580000000001,
+      "positive": 24,
+      "flat": 0,
+      "negative": 19,
+      "win_rate": 0.5581395348837209
+    },
+    {
+      "date": "2025-11-21",
+      "count": 34,
+      "pnl_sum": 930.3800000000002,
+      "positive": 14,
+      "flat": 6,
+      "negative": 14,
+      "win_rate": 0.4117647058823529
+    },
+    {
+      "date": "2025-11-22",
+      "count": 73,
+      "pnl_sum": -2010.350000000002,
+      "positive": 38,
+      "flat": 2,
+      "negative": 33,
+      "win_rate": 0.5205479452054794
+    },
+    {
+      "date": "2025-11-23",
+      "count": 51,
+      "pnl_sum": -6878.450000000001,
+      "positive": 17,
+      "flat": 4,
+      "negative": 30,
+      "win_rate": 0.3333333333333333
+    },
+    {
+      "date": "2025-11-24",
+      "count": 59,
+      "pnl_sum": 307.62999999999806,
+      "positive": 22,
+      "flat": 0,
+      "negative": 37,
+      "win_rate": 0.3728813559322034
+    },
+    {
+      "date": "2025-11-25",
+      "count": 68,
+      "pnl_sum": -1080.5299999999977,
+      "positive": 29,
+      "flat": 3,
+      "negative": 36,
+      "win_rate": 0.4264705882352941
+    },
+    {
+      "date": "2025-11-26",
+      "count": 57,
+      "pnl_sum": -3183.0300000000007,
+      "positive": 26,
+      "flat": 0,
+      "negative": 31,
+      "win_rate": 0.45614035087719296
+    },
+    {
+      "date": "2025-11-27",
+      "count": 58,
+      "pnl_sum": -827.4700000000004,
+      "positive": 23,
+      "flat": 0,
+      "negative": 35,
+      "win_rate": 0.39655172413793105
+    },
+    {
+      "date": "2025-11-28",
+      "count": 40,
+      "pnl_sum": 11377.810000000003,
+      "positive": 20,
+      "flat": 3,
+      "negative": 17,
+      "win_rate": 0.5
+    },
+    {
+      "date": "2025-11-29",
+      "count": 81,
+      "pnl_sum": -15915.619999999999,
+      "positive": 34,
+      "flat": 0,
+      "negative": 47,
+      "win_rate": 0.41975308641975306
+    },
+    {
+      "date": "2025-11-30",
+      "count": 72,
+      "pnl_sum": 5882.4000000000015,
+      "positive": 37,
+      "flat": 0,
+      "negative": 35,
+      "win_rate": 0.5138888888888888
+    },
+    {
+      "date": "2025-12-01",
+      "count": 16,
+      "pnl_sum": -11772.91,
+      "positive": 2,
+      "flat": 0,
+      "negative": 14,
+      "win_rate": 0.125
+    },
+    {
+      "date": "2025-12-02",
+      "count": 40,
+      "pnl_sum": -2762.6699999999964,
+      "positive": 12,
+      "flat": 2,
+      "negative": 26,
+      "win_rate": 0.3
+    },
+    {
+      "date": "2025-12-03",
+      "count": 36,
+      "pnl_sum": -1278.7100000000007,
+      "positive": 11,
+      "flat": 3,
+      "negative": 22,
+      "win_rate": 0.3055555555555556
+    },
+    {
+      "date": "2025-12-04",
+      "count": 17,
+      "pnl_sum": 1001.9800000000005,
+      "positive": 7,
+      "flat": 0,
+      "negative": 10,
+      "win_rate": 0.4117647058823529
+    },
+    {
+      "date": "2025-12-05",
+      "count": 44,
+      "pnl_sum": -941.8600000000006,
+      "positive": 19,
+      "flat": 0,
+      "negative": 25,
+      "win_rate": 0.4318181818181818
+    },
+    {
+      "date": "2025-12-06",
+      "count": 76,
+      "pnl_sum": -6558.0300000000025,
+      "positive": 30,
+      "flat": 4,
+      "negative": 42,
+      "win_rate": 0.39473684210526316
+    },
+    {
+      "date": "2025-12-07",
+      "count": 59,
+      "pnl_sum": 640.6300000000011,
+      "positive": 24,
+      "flat": 2,
+      "negative": 33,
+      "win_rate": 0.4067796610169492
+    },
+    {
+      "date": "2025-12-08",
+      "count": 70,
+      "pnl_sum": 27326.939999999995,
+      "positive": 43,
+      "flat": 2,
+      "negative": 25,
+      "win_rate": 0.6142857142857143
+    },
+    {
+      "date": "2025-12-09",
+      "count": 43,
+      "pnl_sum": 11027.33,
+      "positive": 20,
+      "flat": 2,
+      "negative": 21,
+      "win_rate": 0.46511627906976744
+    },
+    {
+      "date": "2025-12-10",
+      "count": 14,
+      "pnl_sum": 9403.650000000001,
+      "positive": 10,
+      "flat": 0,
+      "negative": 4,
+      "win_rate": 0.7142857142857143
+    },
+    {
+      "date": "2025-12-11",
+      "count": 8,
+      "pnl_sum": 3187.5600000000004,
+      "positive": 4,
+      "flat": 0,
+      "negative": 4,
+      "win_rate": 0.5
+    },
+    {
+      "date": "2025-12-12",
+      "count": 45,
+      "pnl_sum": -3464.9199999999987,
+      "positive": 15,
+      "flat": 0,
+      "negative": 30,
+      "win_rate": 0.3333333333333333
+    },
+    {
+      "date": "2025-12-13",
+      "count": 57,
+      "pnl_sum": -11155.630000000005,
+      "positive": 25,
+      "flat": 2,
+      "negative": 30,
+      "win_rate": 0.43859649122807015
+    },
+    {
+      "date": "2025-12-14",
+      "count": 35,
+      "pnl_sum": -1182.8899999999999,
+      "positive": 14,
+      "flat": 0,
+      "negative": 21,
+      "win_rate": 0.4
+    },
+    {
+      "date": "2025-12-15",
+      "count": 18,
+      "pnl_sum": 415.4699999999996,
+      "positive": 7,
+      "flat": 0,
+      "negative": 11,
+      "win_rate": 0.3888888888888889
+    },
+    {
+      "date": "2025-12-16",
+      "count": 6,
+      "pnl_sum": 1097.47,
+      "positive": 4,
+      "flat": 2,
+      "negative": 0,
+      "win_rate": 0.6666666666666666
+    },
+    {
+      "date": "2025-12-17",
+      "count": 2,
+      "pnl_sum": -2888.71,
+      "positive": 0,
+      "flat": 0,
+      "negative": 2,
+      "win_rate": 0
+    },
+    {
+      "date": "2025-12-18",
+      "count": 9,
+      "pnl_sum": 1834.73,
+      "positive": 6,
+      "flat": 0,
+      "negative": 3,
+      "win_rate": 0.6666666666666666
+    },
+    {
+      "date": "2025-12-19",
+      "count": 16,
+      "pnl_sum": 6590.24,
+      "positive": 12,
+      "flat": 0,
+      "negative": 4,
+      "win_rate": 0.75
+    },
+    {
+      "date": "2025-12-20",
+      "count": 36,
+      "pnl_sum": -4280.700000000001,
+      "positive": 11,
+      "flat": 2,
+      "negative": 23,
+      "win_rate": 0.3055555555555556
+    },
+    {
+      "date": "2025-12-21",
+      "count": 12,
+      "pnl_sum": -1351.3000000000004,
+      "positive": 4,
+      "flat": 0,
+      "negative": 8,
+      "win_rate": 0.3333333333333333
+    },
+    {
+      "date": "2025-12-22",
+      "count": 16,
+      "pnl_sum": -5574.46,
+      "positive": 7,
+      "flat": 0,
+      "negative": 9,
+      "win_rate": 0.4375
+    },
+    {
+      "date": "2025-12-23",
+      "count": 32,
+      "pnl_sum": 9780.159999999996,
+      "positive": 17,
+      "flat": 0,
+      "negative": 15,
+      "win_rate": 0.53125
+    },
+    {
+      "date": "2025-12-24",
+      "count": 2,
+      "pnl_sum": 2999,
+      "positive": 2,
+      "flat": 0,
+      "negative": 0,
+      "win_rate": 1
+    },
+    {
+      "date": "2025-12-25",
+      "count": 2,
+      "pnl_sum": -2941.0299999999997,
+      "positive": 0,
+      "flat": 0,
+      "negative": 2,
+      "win_rate": 0
+    },
+    {
+      "date": "2025-12-26",
+      "count": 6,
+      "pnl_sum": 1376.9500000000003,
+      "positive": 2,
+      "flat": 0,
+      "negative": 4,
+      "win_rate": 0.3333333333333333
+    },
+    {
+      "date": "2025-12-27",
+      "count": 6,
+      "pnl_sum": 2616.23,
+      "positive": 6,
+      "flat": 0,
+      "negative": 0,
+      "win_rate": 1
+    },
+    {
+      "date": "2025-12-28",
+      "count": 4,
+      "pnl_sum": 15.109999999999983,
+      "positive": 2,
+      "flat": 0,
+      "negative": 2,
+      "win_rate": 0.5
+    },
+    {
+      "date": "2025-12-29",
+      "count": 7,
+      "pnl_sum": 68.18999999999998,
+      "positive": 2,
+      "flat": 2,
+      "negative": 3,
+      "win_rate": 0.2857142857142857
+    },
+    {
+      "date": "2026-01-02",
+      "count": 4,
+      "pnl_sum": -52.73000000000002,
+      "positive": 2,
+      "flat": 0,
+      "negative": 2,
+      "win_rate": 0.5
+    },
+    {
+      "date": "2026-01-03",
+      "count": 1,
+      "pnl_sum": 990,
+      "positive": 1,
+      "flat": 0,
+      "negative": 0,
+      "win_rate": 1
+    },
+    {
+      "date": "2026-01-04",
+      "count": 24,
+      "pnl_sum": 6965.219999999998,
+      "positive": 12,
+      "flat": 3,
+      "negative": 9,
+      "win_rate": 0.5
+    },
+    {
+      "date": "2026-01-05",
+      "count": 31,
+      "pnl_sum": 6547.59,
+      "positive": 16,
+      "flat": 0,
+      "negative": 15,
+      "win_rate": 0.5161290322580645
+    },
+    {
+      "date": "2026-01-06",
+      "count": 9,
+      "pnl_sum": 465.02000000000015,
+      "positive": 3,
+      "flat": 2,
+      "negative": 4,
+      "win_rate": 0.3333333333333333
+    },
+    {
+      "date": "2026-01-07",
+      "count": 12,
+      "pnl_sum": 1451.6299999999999,
+      "positive": 7,
+      "flat": 0,
+      "negative": 5,
+      "win_rate": 0.5833333333333334
+    },
+    {
+      "date": "2026-01-08",
+      "count": 37,
+      "pnl_sum": 747.6500000000019,
+      "positive": 17,
+      "flat": 0,
+      "negative": 20,
+      "win_rate": 0.4594594594594595
+    },
+    {
+      "date": "2026-01-09",
+      "count": 74,
+      "pnl_sum": 1143.9199999999992,
+      "positive": 31,
+      "flat": 1,
+      "negative": 42,
+      "win_rate": 0.4189189189189189
+    },
+    {
+      "date": "2026-01-10",
+      "count": 47,
+      "pnl_sum": 5157.86,
+      "positive": 23,
+      "flat": 5,
+      "negative": 19,
+      "win_rate": 0.48936170212765956
+    },
+    {
+      "date": "2026-01-11",
+      "count": 59,
+      "pnl_sum": -8021.729999999999,
+      "positive": 16,
+      "flat": 2,
+      "negative": 41,
+      "win_rate": 0.2711864406779661
+    },
+    {
+      "date": "2026-01-12",
+      "count": 23,
+      "pnl_sum": 19285.000000000004,
+      "positive": 15,
+      "flat": 4,
+      "negative": 4,
+      "win_rate": 0.6521739130434783
+    },
+    {
+      "date": "2026-01-13",
+      "count": 28,
+      "pnl_sum": 5082.959999999996,
+      "positive": 9,
+      "flat": 2,
+      "negative": 17,
+      "win_rate": 0.32142857142857145
+    },
+    {
+      "date": "2026-01-14",
+      "count": 118,
+      "pnl_sum": 13680.62,
+      "positive": 54,
+      "flat": 0,
+      "negative": 64,
+      "win_rate": 0.4576271186440678
+    },
+    {
+      "date": "2026-01-15",
+      "count": 87,
+      "pnl_sum": -15344.909999999998,
+      "positive": 20,
+      "flat": 8,
+      "negative": 59,
+      "win_rate": 0.22988505747126436
+    },
+    {
+      "date": "2026-01-16",
+      "count": 68,
+      "pnl_sum": -6210.729999999998,
+      "positive": 23,
+      "flat": 2,
+      "negative": 43,
+      "win_rate": 0.3382352941176471
+    },
+    {
+      "date": "2026-01-17",
+      "count": 136,
+      "pnl_sum": 1690.6600000000044,
+      "positive": 71,
+      "flat": 0,
+      "negative": 65,
+      "win_rate": 0.5220588235294118
+    },
+    {
+      "date": "2026-01-18",
+      "count": 128,
+      "pnl_sum": 29496.079999999998,
+      "positive": 66,
+      "flat": 0,
+      "negative": 62,
+      "win_rate": 0.515625
+    },
+    {
+      "date": "2026-01-19",
+      "count": 115,
+      "pnl_sum": 12292.050000000007,
+      "positive": 59,
+      "flat": 4,
+      "negative": 52,
+      "win_rate": 0.5130434782608696
+    },
+    {
+      "date": "2026-01-20",
+      "count": 85,
+      "pnl_sum": -22645.16,
+      "positive": 25,
+      "flat": 4,
+      "negative": 56,
+      "win_rate": 0.29411764705882354
+    },
+    {
+      "date": "2026-01-21",
+      "count": 191,
+      "pnl_sum": -13486.749999999998,
+      "positive": 66,
+      "flat": 2,
+      "negative": 123,
+      "win_rate": 0.34554973821989526
+    },
+    {
+      "date": "2026-01-22",
+      "count": 239,
+      "pnl_sum": 55456.060000000005,
+      "positive": 140,
+      "flat": 9,
+      "negative": 90,
+      "win_rate": 0.5857740585774058
+    },
+    {
+      "date": "2026-01-23",
+      "count": 87,
+      "pnl_sum": 21874.850000000002,
+      "positive": 43,
+      "flat": 4,
+      "negative": 40,
+      "win_rate": 0.4942528735632184
+    },
+    {
+      "date": "2026-01-24",
+      "count": 185,
+      "pnl_sum": -2483.699999999996,
+      "positive": 80,
+      "flat": 0,
+      "negative": 105,
+      "win_rate": 0.43243243243243246
+    },
+    {
+      "date": "2026-01-25",
+      "count": 200,
+      "pnl_sum": 73432.34000000001,
+      "positive": 115,
+      "flat": 0,
+      "negative": 85,
+      "win_rate": 0.575
+    },
+    {
+      "date": "2026-01-26",
+      "count": 130,
+      "pnl_sum": 29639.699999999997,
+      "positive": 81,
+      "flat": 2,
+      "negative": 47,
+      "win_rate": 0.6230769230769231
+    },
+    {
+      "date": "2026-01-27",
+      "count": 127,
+      "pnl_sum": -24666.010000000002,
+      "positive": 42,
+      "flat": 10,
+      "negative": 75,
+      "win_rate": 0.33070866141732286
+    },
+    {
+      "date": "2026-01-28",
+      "count": 168,
+      "pnl_sum": -13815.78,
+      "positive": 83,
+      "flat": 1,
+      "negative": 84,
+      "win_rate": 0.49404761904761907
+    },
+    {
+      "date": "2026-01-29",
+      "count": 167,
+      "pnl_sum": -21180.19999999999,
+      "positive": 58,
+      "flat": 0,
+      "negative": 109,
+      "win_rate": 0.3473053892215569
+    },
+    {
+      "date": "2026-01-30",
+      "count": 87,
+      "pnl_sum": -3493.1699999999987,
+      "positive": 29,
+      "flat": 0,
+      "negative": 58,
+      "win_rate": 0.3333333333333333
+    },
+    {
+      "date": "2026-01-31",
+      "count": 133,
+      "pnl_sum": 24132.08,
+      "positive": 73,
+      "flat": 0,
+      "negative": 60,
+      "win_rate": 0.5488721804511278
+    },
+    {
+      "date": "2026-02-01",
+      "count": 181,
+      "pnl_sum": -12630.590000000006,
+      "positive": 66,
+      "flat": 1,
+      "negative": 114,
+      "win_rate": 0.36464088397790057
+    },
+    {
+      "date": "2026-02-02",
+      "count": 129,
+      "pnl_sum": -13309.479999999978,
+      "positive": 54,
+      "flat": 2,
+      "negative": 73,
+      "win_rate": 0.4186046511627907
+    },
+    {
+      "date": "2026-02-03",
+      "count": 80,
+      "pnl_sum": 5051.990000000001,
+      "positive": 32,
+      "flat": 2,
+      "negative": 46,
+      "win_rate": 0.4
+    },
+    {
+      "date": "2026-02-04",
+      "count": 94,
+      "pnl_sum": 3774.440000000012,
+      "positive": 39,
+      "flat": 2,
+      "negative": 53,
+      "win_rate": 0.4148936170212766
+    },
+    {
+      "date": "2026-02-05",
+      "count": 119,
+      "pnl_sum": -11791.349999999999,
+      "positive": 41,
+      "flat": 0,
+      "negative": 78,
+      "win_rate": 0.3445378151260504
+    },
+    {
+      "date": "2026-02-06",
+      "count": 76,
+      "pnl_sum": -20190.3,
+      "positive": 22,
+      "flat": 0,
+      "negative": 54,
+      "win_rate": 0.2894736842105263
+    },
+    {
+      "date": "2026-02-07",
+      "count": 196,
+      "pnl_sum": 33150.55,
+      "positive": 123,
+      "flat": 2,
+      "negative": 71,
+      "win_rate": 0.6275510204081632
+    },
+    {
+      "date": "2026-02-08",
+      "count": 149,
+      "pnl_sum": 54564.06000000002,
+      "positive": 81,
+      "flat": 2,
+      "negative": 66,
+      "win_rate": 0.5436241610738255
+    },
+    {
+      "date": "2026-02-09",
+      "count": 47,
+      "pnl_sum": -5124.710000000002,
+      "positive": 12,
+      "flat": 2,
+      "negative": 33,
+      "win_rate": 0.2553191489361702
+    },
+    {
+      "date": "2026-02-10",
+      "count": 22,
+      "pnl_sum": 9918.82,
+      "positive": 11,
+      "flat": 0,
+      "negative": 11,
+      "win_rate": 0.5
+    },
+    {
+      "date": "2026-02-11",
+      "count": 5,
+      "pnl_sum": -5482.72,
+      "positive": 0,
+      "flat": 0,
+      "negative": 5,
+      "win_rate": 0
+    },
+    {
+      "date": "2026-02-12",
+      "count": 12,
+      "pnl_sum": -10360.84,
+      "positive": 1,
+      "flat": 0,
+      "negative": 11,
+      "win_rate": 0.08333333333333333
+    },
+    {
+      "date": "2026-02-13",
+      "count": 34,
+      "pnl_sum": -2054.2800000000007,
+      "positive": 15,
+      "flat": 0,
+      "negative": 19,
+      "win_rate": 0.4411764705882353
+    },
+    {
+      "date": "2026-02-14",
+      "count": 40,
+      "pnl_sum": -16982.93,
+      "positive": 14,
+      "flat": 2,
+      "negative": 24,
+      "win_rate": 0.35
+    },
+    {
+      "date": "2026-02-15",
+      "count": 58,
+      "pnl_sum": 23082.550000000007,
+      "positive": 30,
+      "flat": 4,
+      "negative": 24,
+      "win_rate": 0.5172413793103449
+    },
+    {
+      "date": "2026-02-16",
+      "count": 19,
+      "pnl_sum": 3291.4100000000008,
+      "positive": 8,
+      "flat": 0,
+      "negative": 11,
+      "win_rate": 0.42105263157894735
+    },
+    {
+      "date": "2026-02-17",
+      "count": 57,
+      "pnl_sum": -2320.0699999999997,
+      "positive": 22,
+      "flat": 2,
+      "negative": 33,
+      "win_rate": 0.38596491228070173
+    },
+    {
+      "date": "2026-02-18",
+      "count": 15,
+      "pnl_sum": 2311.8900000000003,
+      "positive": 5,
+      "flat": 0,
+      "negative": 10,
+      "win_rate": 0.3333333333333333
+    },
+    {
+      "date": "2026-02-19",
+      "count": 6,
+      "pnl_sum": -1839.1800000000003,
+      "positive": 2,
+      "flat": 0,
+      "negative": 4,
+      "win_rate": 0.3333333333333333
+    },
+    {
+      "date": "2026-02-20",
+      "count": 4,
+      "pnl_sum": -287.26000000000005,
+      "positive": 0,
+      "flat": 2,
+      "negative": 2,
+      "win_rate": 0
+    },
+    {
+      "date": "2026-02-21",
+      "count": 45,
+      "pnl_sum": 2278.6999999999994,
+      "positive": 30,
+      "flat": 2,
+      "negative": 13,
+      "win_rate": 0.6666666666666666
+    },
+    {
+      "date": "2026-02-22",
+      "count": 15,
+      "pnl_sum": -16.110000000000127,
+      "positive": 8,
+      "flat": 0,
+      "negative": 7,
+      "win_rate": 0.5333333333333333
+    },
+    {
+      "date": "2026-02-23",
+      "count": 23,
+      "pnl_sum": 2229.2999999999997,
+      "positive": 16,
+      "flat": 1,
+      "negative": 6,
+      "win_rate": 0.6956521739130435
+    },
+    {
+      "date": "2026-02-24",
+      "count": 52,
+      "pnl_sum": -1122.9699999999991,
+      "positive": 26,
+      "flat": 4,
+      "negative": 22,
+      "win_rate": 0.5
+    },
+    {
+      "date": "2026-02-25",
+      "count": 95,
+      "pnl_sum": 1349.0799999999992,
+      "positive": 52,
+      "flat": 2,
+      "negative": 41,
+      "win_rate": 0.5473684210526316
+    },
+    {
+      "date": "2026-02-26",
+      "count": 54,
+      "pnl_sum": -19501.979999999996,
+      "positive": 16,
+      "flat": 0,
+      "negative": 38,
+      "win_rate": 0.2962962962962963
+    },
+    {
+      "date": "2026-02-27",
+      "count": 19,
+      "pnl_sum": 3622.6199999999994,
+      "positive": 11,
+      "flat": 0,
+      "negative": 8,
+      "win_rate": 0.5789473684210527
+    },
+    {
+      "date": "2026-02-28",
+      "count": 30,
+      "pnl_sum": -14673,
+      "positive": 7,
+      "flat": 0,
+      "negative": 23,
+      "win_rate": 0.23333333333333334
+    },
+    {
+      "date": "2026-03-01",
+      "count": 19,
+      "pnl_sum": -5296.459999999999,
+      "positive": 7,
+      "flat": 0,
+      "negative": 12,
+      "win_rate": 0.3684210526315789
+    },
+    {
+      "date": "2026-03-02",
+      "count": 23,
+      "pnl_sum": 6092.220000000001,
+      "positive": 8,
+      "flat": 0,
+      "negative": 15,
+      "win_rate": 0.34782608695652173
+    },
+    {
+      "date": "2026-03-03",
+      "count": 52,
+      "pnl_sum": -5849.640000000001,
+      "positive": 17,
+      "flat": 2,
+      "negative": 33,
+      "win_rate": 0.3269230769230769
+    },
+    {
+      "date": "2026-03-04",
+      "count": 34,
+      "pnl_sum": 8792.289999999999,
+      "positive": 24,
+      "flat": 0,
+      "negative": 10,
+      "win_rate": 0.7058823529411765
+    },
+    {
+      "date": "2026-03-05",
+      "count": 40,
+      "pnl_sum": -1452.210000000001,
+      "positive": 16,
+      "flat": 0,
+      "negative": 24,
+      "win_rate": 0.4
+    },
+    {
+      "date": "2026-03-06",
+      "count": 52,
+      "pnl_sum": -9507.140000000001,
+      "positive": 17,
+      "flat": 7,
+      "negative": 28,
+      "win_rate": 0.3269230769230769
+    },
+    {
+      "date": "2026-03-07",
+      "count": 38,
+      "pnl_sum": -1702.4399999999994,
+      "positive": 11,
+      "flat": 0,
+      "negative": 27,
+      "win_rate": 0.2894736842105263
+    },
+    {
+      "date": "2026-03-08",
+      "count": 34,
+      "pnl_sum": -16779.460000000003,
+      "positive": 7,
+      "flat": 2,
+      "negative": 25,
+      "win_rate": 0.20588235294117646
+    },
+    {
+      "date": "2026-03-09",
+      "count": 58,
+      "pnl_sum": -51.070000000000135,
+      "positive": 21,
+      "flat": 0,
+      "negative": 37,
+      "win_rate": 0.3620689655172414
+    },
+    {
+      "date": "2026-03-10",
+      "count": 39,
+      "pnl_sum": -856.9400000000002,
+      "positive": 18,
+      "flat": 2,
+      "negative": 19,
+      "win_rate": 0.46153846153846156
+    },
+    {
+      "date": "2026-03-11",
+      "count": 61,
+      "pnl_sum": -8811.220000000003,
+      "positive": 33,
+      "flat": 0,
+      "negative": 28,
+      "win_rate": 0.5409836065573771
+    },
+    {
+      "date": "2026-03-12",
+      "count": 60,
+      "pnl_sum": -174.56999999999925,
+      "positive": 27,
+      "flat": 0,
+      "negative": 33,
+      "win_rate": 0.45
+    },
+    {
+      "date": "2026-03-13",
+      "count": 30,
+      "pnl_sum": -15836.979999999998,
+      "positive": 2,
+      "flat": 2,
+      "negative": 26,
+      "win_rate": 0.06666666666666667
+    },
+    {
+      "date": "2026-03-14",
+      "count": 54,
+      "pnl_sum": -2663.8099999999986,
+      "positive": 22,
+      "flat": 0,
+      "negative": 32,
+      "win_rate": 0.4074074074074074
+    },
+    {
+      "date": "2026-03-15",
+      "count": 84,
+      "pnl_sum": -16227.369999999999,
+      "positive": 32,
+      "flat": 0,
+      "negative": 52,
+      "win_rate": 0.38095238095238093
+    },
+    {
+      "date": "2026-03-16",
+      "count": 53,
+      "pnl_sum": -6266.510000000001,
+      "positive": 21,
+      "flat": 5,
+      "negative": 27,
+      "win_rate": 0.39622641509433965
+    },
+    {
+      "date": "2026-03-17",
+      "count": 33,
+      "pnl_sum": 3208.0900000000006,
+      "positive": 18,
+      "flat": 0,
+      "negative": 15,
+      "win_rate": 0.5454545454545454
+    },
+    {
+      "date": "2026-03-18",
+      "count": 43,
+      "pnl_sum": -41959.53,
+      "positive": 10,
+      "flat": 2,
+      "negative": 31,
+      "win_rate": 0.23255813953488372
+    },
+    {
+      "date": "2026-03-19",
+      "count": 37,
+      "pnl_sum": 4514.150000000001,
+      "positive": 17,
+      "flat": 4,
+      "negative": 16,
+      "win_rate": 0.4594594594594595
+    },
+    {
+      "date": "2026-03-20",
+      "count": 43,
+      "pnl_sum": -11771.509999999997,
+      "positive": 10,
+      "flat": 0,
+      "negative": 33,
+      "win_rate": 0.23255813953488372
+    },
+    {
+      "date": "2026-03-21",
+      "count": 61,
+      "pnl_sum": -2596.0399999999986,
+      "positive": 27,
+      "flat": 4,
+      "negative": 30,
+      "win_rate": 0.4426229508196721
+    },
+    {
+      "date": "2026-03-22",
+      "count": 56,
+      "pnl_sum": 8511.859999999993,
+      "positive": 26,
+      "flat": 2,
+      "negative": 28,
+      "win_rate": 0.4642857142857143
+    },
+    {
+      "date": "2026-03-23",
+      "count": 112,
+      "pnl_sum": 15860.200000000004,
+      "positive": 55,
+      "flat": 0,
+      "negative": 57,
+      "win_rate": 0.49107142857142855
+    },
+    {
+      "date": "2026-03-24",
+      "count": 57,
+      "pnl_sum": 47753.87999999999,
+      "positive": 43,
+      "flat": 0,
+      "negative": 14,
+      "win_rate": 0.7543859649122807
+    },
+    {
+      "date": "2026-03-25",
+      "count": 18,
+      "pnl_sum": -1035.6699999999994,
+      "positive": 8,
+      "flat": 0,
+      "negative": 10,
+      "win_rate": 0.4444444444444444
+    },
+    {
+      "date": "2026-03-26",
+      "count": 29,
+      "pnl_sum": -11113.52,
+      "positive": 12,
+      "flat": 0,
+      "negative": 17,
+      "win_rate": 0.41379310344827586
+    },
+    {
+      "date": "2026-03-27",
+      "count": 50,
+      "pnl_sum": 15605.970000000003,
+      "positive": 21,
+      "flat": 0,
+      "negative": 29,
+      "win_rate": 0.42
+    },
+    {
+      "date": "2026-03-28",
+      "count": 17,
+      "pnl_sum": -3440.1299999999997,
+      "positive": 9,
+      "flat": 0,
+      "negative": 8,
+      "win_rate": 0.5294117647058824
+    },
+    {
+      "date": "2026-03-29",
+      "count": 8,
+      "pnl_sum": -2700.7000000000003,
+      "positive": 3,
+      "flat": 0,
+      "negative": 5,
+      "win_rate": 0.375
+    }
+  ],
+  "rolling_windows": [
+    {
+      "window_days": 3,
+      "best": {
+        "start_date": "2026-01-24",
+        "end_date": "2026-01-26",
+        "pnl_sum": 100588.34000000001,
+        "count": 515,
+        "win_rate": 0.5359223300970873
+      },
+      "worst": {
+        "start_date": "2025-08-31",
+        "end_date": "2025-09-02",
+        "pnl_sum": -85505.74999999999,
+        "count": 266,
+        "win_rate": 0.3007518796992481
+      }
+    },
+    {
+      "window_days": 5,
+      "best": {
+        "start_date": "2026-01-22",
+        "end_date": "2026-01-26",
+        "pnl_sum": 177919.25,
+        "count": 841,
+        "win_rate": 0.5457788347205708
+      },
+      "worst": {
+        "start_date": "2025-10-05",
+        "end_date": "2025-10-09",
+        "pnl_sum": -87137.15999999999,
+        "count": 499,
+        "win_rate": 0.3727454909819639
+      }
+    },
+    {
+      "window_days": 7,
+      "best": {
+        "start_date": "2026-01-20",
+        "end_date": "2026-01-26",
+        "pnl_sum": 141787.34000000003,
+        "count": 1117,
+        "win_rate": 0.4923903312444047
+      },
+      "worst": {
+        "start_date": "2025-08-31",
+        "end_date": "2025-09-06",
+        "pnl_sum": -121466.50999999998,
+        "count": 523,
+        "win_rate": 0.361376673040153
+      }
+    }
+  ],
+  "streaks": {
+    "longest_positive_streak": {
+      "sign": "positive",
+      "count": 34,
+      "pnl_sum": 25201.33,
+      "start_timestamp": "2025-08-06T10:43:56Z",
+      "end_timestamp": "2025-08-06T14:30:52Z"
+    },
+    "longest_negative_streak": {
+      "sign": "negative",
+      "count": 35,
+      "pnl_sum": -22378.489999999998,
+      "start_timestamp": "2025-08-23T23:25:55Z",
+      "end_timestamp": "2025-08-24T12:09:26Z"
+    }
+  },
+  "highlights": {
+    "best_hours_by_avg_pnl": [
+      {
+        "label": "00",
+        "count": 1368,
+        "pnl_sum": 145293.06000000003,
+        "pnl_avg": 106.20837719298248,
+        "positive": 698,
+        "flat": 47,
+        "negative": 623,
+        "win_rate": 0.5102339181286549
+      },
+      {
+        "label": "05",
+        "count": 756,
+        "pnl_sum": 47340.909999999996,
+        "pnl_avg": 62.620251322751315,
+        "positive": 346,
+        "flat": 6,
+        "negative": 404,
+        "win_rate": 0.4576719576719577
+      },
+      {
+        "label": "04",
+        "count": 993,
+        "pnl_sum": 59696.81999999998,
+        "pnl_avg": 60.1176435045317,
+        "positive": 451,
+        "flat": 18,
+        "negative": 524,
+        "win_rate": 0.45417925478348437
+      },
+      {
+        "label": "21",
+        "count": 1568,
+        "pnl_sum": 81029.58000000006,
+        "pnl_avg": 51.677028061224526,
+        "positive": 728,
+        "flat": 53,
+        "negative": 787,
+        "win_rate": 0.4642857142857143
+      },
+      {
+        "label": "03",
+        "count": 1205,
+        "pnl_sum": 37120.12,
+        "pnl_avg": 30.805078838174275,
+        "positive": 528,
+        "flat": 33,
+        "negative": 644,
+        "win_rate": 0.43817427385892116
+      }
+    ],
+    "worst_hours_by_avg_pnl": [
+      {
+        "label": "02",
+        "count": 1480,
+        "pnl_sum": -177071.29,
+        "pnl_avg": -119.64276351351351,
+        "positive": 561,
+        "flat": 34,
+        "negative": 885,
+        "win_rate": 0.37905405405405407
+      },
+      {
+        "label": "20",
+        "count": 1622,
+        "pnl_sum": -116508.50999999997,
+        "pnl_avg": -71.83015413070281,
+        "positive": 652,
+        "flat": 43,
+        "negative": 927,
+        "win_rate": 0.40197287299630086
+      },
+      {
+        "label": "18",
+        "count": 1686,
+        "pnl_sum": -73957.6699999999,
+        "pnl_avg": -43.86575919335699,
+        "positive": 700,
+        "flat": 60,
+        "negative": 926,
+        "win_rate": 0.4151838671411625
+      },
+      {
+        "label": "15",
+        "count": 1142,
+        "pnl_sum": -43877.84999999993,
+        "pnl_avg": -38.42193520140099,
+        "positive": 500,
+        "flat": 38,
+        "negative": 604,
+        "win_rate": 0.43782837127845886
+      },
+      {
+        "label": "14",
+        "count": 1109,
+        "pnl_sum": -35853.05,
+        "pnl_avg": -32.32917042380523,
+        "positive": 453,
+        "flat": 40,
+        "negative": 616,
+        "win_rate": 0.4084761045987376
+      }
+    ],
+    "best_weekdays_by_avg_pnl": [
+      {
+        "label": "Thu",
+        "count": 3646,
+        "pnl_sum": 73498.22999999991,
+        "pnl_avg": 20.158592978606666,
+        "positive": 1660,
+        "flat": 83,
+        "negative": 1903,
+        "win_rate": 0.4552934722984092
+      },
+      {
+        "label": "Tue",
+        "count": 3551,
+        "pnl_sum": 8835.229999999938,
+        "pnl_avg": 2.488096310898321,
+        "positive": 1554,
+        "flat": 128,
+        "negative": 1869,
+        "win_rate": 0.4376232047310617
+      },
+      {
+        "label": "Sun",
+        "count": 4803,
+        "pnl_sum": 8189.120000000257,
+        "pnl_avg": 1.7050010410160852,
+        "positive": 2084,
+        "flat": 116,
+        "negative": 2603,
+        "win_rate": 0.43389548199042266
+      },
+      {
+        "label": "Fri",
+        "count": 3808,
+        "pnl_sum": -4239.5899999998965,
+        "pnl_avg": -1.1133377100840065,
+        "positive": 1651,
+        "flat": 120,
+        "negative": 2037,
+        "win_rate": 0.4335609243697479
+      },
+      {
+        "label": "Mon",
+        "count": 3583,
+        "pnl_sum": -14487.03000000004,
+        "pnl_avg": -4.043268210996383,
+        "positive": 1568,
+        "flat": 153,
+        "negative": 1862,
+        "win_rate": 0.43762210438180293
+      },
+      {
+        "label": "Sat",
+        "count": 4653,
+        "pnl_sum": -137843.1699999996,
+        "pnl_avg": -29.624579840962735,
+        "positive": 1974,
+        "flat": 138,
+        "negative": 2541,
+        "win_rate": 0.42424242424242425
+      },
+      {
+        "label": "Wed",
+        "count": 3993,
+        "pnl_sum": -177665.61999999982,
+        "pnl_avg": -44.49426997245175,
+        "positive": 1746,
+        "flat": 103,
+        "negative": 2144,
+        "win_rate": 0.43726521412471825
+      }
+    ],
+    "worst_weekdays_by_avg_pnl": [
+      {
+        "label": "Wed",
+        "count": 3993,
+        "pnl_sum": -177665.61999999982,
+        "pnl_avg": -44.49426997245175,
+        "positive": 1746,
+        "flat": 103,
+        "negative": 2144,
+        "win_rate": 0.43726521412471825
+      },
+      {
+        "label": "Sat",
+        "count": 4653,
+        "pnl_sum": -137843.1699999996,
+        "pnl_avg": -29.624579840962735,
+        "positive": 1974,
+        "flat": 138,
+        "negative": 2541,
+        "win_rate": 0.42424242424242425
+      },
+      {
+        "label": "Mon",
+        "count": 3583,
+        "pnl_sum": -14487.03000000004,
+        "pnl_avg": -4.043268210996383,
+        "positive": 1568,
+        "flat": 153,
+        "negative": 1862,
+        "win_rate": 0.43762210438180293
+      },
+      {
+        "label": "Fri",
+        "count": 3808,
+        "pnl_sum": -4239.5899999998965,
+        "pnl_avg": -1.1133377100840065,
+        "positive": 1651,
+        "flat": 120,
+        "negative": 2037,
+        "win_rate": 0.4335609243697479
+      },
+      {
+        "label": "Sun",
+        "count": 4803,
+        "pnl_sum": 8189.120000000257,
+        "pnl_avg": 1.7050010410160852,
+        "positive": 2084,
+        "flat": 116,
+        "negative": 2603,
+        "win_rate": 0.43389548199042266
+      },
+      {
+        "label": "Tue",
+        "count": 3551,
+        "pnl_sum": 8835.229999999938,
+        "pnl_avg": 2.488096310898321,
+        "positive": 1554,
+        "flat": 128,
+        "negative": 1869,
+        "win_rate": 0.4376232047310617
+      },
+      {
+        "label": "Thu",
+        "count": 3646,
+        "pnl_sum": 73498.22999999991,
+        "pnl_avg": 20.158592978606666,
+        "positive": 1660,
+        "flat": 83,
+        "negative": 1903,
+        "win_rate": 0.4552934722984092
+      }
+    ],
+    "best_weekday_hours_by_avg_pnl": [
+      {
+        "label": "Sun-05",
+        "count": 122,
+        "pnl_sum": 49059.41000000002,
+        "pnl_avg": 402.12631147541,
+        "positive": 65,
+        "flat": 2,
+        "negative": 55,
+        "win_rate": 0.5327868852459017
+      },
+      {
+        "label": "Wed-00",
+        "count": 160,
+        "pnl_sum": 43527.74,
+        "pnl_avg": 272.04837499999996,
+        "positive": 95,
+        "flat": 10,
+        "negative": 55,
+        "win_rate": 0.59375
+      },
+      {
+        "label": "Tue-00",
+        "count": 128,
+        "pnl_sum": 34819.16,
+        "pnl_avg": 272.0246875,
+        "positive": 77,
+        "flat": 2,
+        "negative": 49,
+        "win_rate": 0.6015625
+      },
+      {
+        "label": "Sun-04",
+        "count": 277,
+        "pnl_sum": 71870.26000000002,
+        "pnl_avg": 259.45942238267156,
+        "positive": 150,
+        "flat": 2,
+        "negative": 125,
+        "win_rate": 0.5415162454873647
+      },
+      {
+        "label": "Tue-21",
+        "count": 269,
+        "pnl_sum": 64216.58999999997,
+        "pnl_avg": 238.72338289962812,
+        "positive": 152,
+        "flat": 10,
+        "negative": 107,
+        "win_rate": 0.5650557620817844
+      },
+      {
+        "label": "Sun-23",
+        "count": 241,
+        "pnl_sum": 55304.19000000001,
+        "pnl_avg": 229.4779668049793,
+        "positive": 139,
+        "flat": 11,
+        "negative": 91,
+        "win_rate": 0.5767634854771784
+      },
+      {
+        "label": "Sun-09",
+        "count": 98,
+        "pnl_sum": 22199.759999999995,
+        "pnl_avg": 226.52816326530606,
+        "positive": 47,
+        "flat": 3,
+        "negative": 48,
+        "win_rate": 0.47959183673469385
+      },
+      {
+        "label": "Sat-12",
+        "count": 117,
+        "pnl_sum": 24289.179999999997,
+        "pnl_avg": 207.59982905982903,
+        "positive": 62,
+        "flat": 3,
+        "negative": 52,
+        "win_rate": 0.5299145299145299
+      }
+    ],
+    "worst_weekday_hours_by_avg_pnl": [
+      {
+        "label": "Tue-09",
+        "count": 37,
+        "pnl_sum": -12547.719999999998,
+        "pnl_avg": -339.1275675675675,
+        "positive": 11,
+        "flat": 0,
+        "negative": 26,
+        "win_rate": 0.2972972972972973
+      },
+      {
+        "label": "Wed-04",
+        "count": 103,
+        "pnl_sum": -30252.280000000002,
+        "pnl_avg": -293.71145631067964,
+        "positive": 36,
+        "flat": 5,
+        "negative": 62,
+        "win_rate": 0.34951456310679613
+      },
+      {
+        "label": "Sat-00",
+        "count": 205,
+        "pnl_sum": -55339.82,
+        "pnl_avg": -269.95034146341465,
+        "positive": 69,
+        "flat": 5,
+        "negative": 131,
+        "win_rate": 0.33658536585365856
+      },
+      {
+        "label": "Tue-12",
+        "count": 97,
+        "pnl_sum": -22012.169999999995,
+        "pnl_avg": -226.92958762886593,
+        "positive": 28,
+        "flat": 0,
+        "negative": 69,
+        "win_rate": 0.28865979381443296
+      },
+      {
+        "label": "Sat-02",
+        "count": 301,
+        "pnl_sum": -60230.3,
+        "pnl_avg": -200.10066445182724,
+        "positive": 100,
+        "flat": 6,
+        "negative": 195,
+        "win_rate": 0.33222591362126247
+      },
+      {
+        "label": "Sun-11",
+        "count": 159,
+        "pnl_sum": -31403.5,
+        "pnl_avg": -197.5062893081761,
+        "positive": 60,
+        "flat": 8,
+        "negative": 91,
+        "win_rate": 0.37735849056603776
+      },
+      {
+        "label": "Sun-15",
+        "count": 222,
+        "pnl_sum": -41632.300000000025,
+        "pnl_avg": -187.532882882883,
+        "positive": 93,
+        "flat": 3,
+        "negative": 126,
+        "win_rate": 0.4189189189189189
+      },
+      {
+        "label": "Wed-02",
+        "count": 158,
+        "pnl_sum": -29441.770000000015,
+        "pnl_avg": -186.3403164556963,
+        "positive": 58,
+        "flat": 4,
+        "negative": 96,
+        "win_rate": 0.3670886075949367
+      }
+    ],
+    "best_categories_by_avg_pnl": [
+      {
+        "label": "LoL",
+        "count": 566,
+        "pnl_sum": 19842.739999999983,
+        "pnl_avg": 35.05784452296817,
+        "positive": 264,
+        "flat": 5,
+        "negative": 297,
+        "win_rate": 0.4664310954063604
+      },
+      {
+        "label": "Dota2",
+        "count": 4478,
+        "pnl_sum": 145301.84999999998,
+        "pnl_avg": 32.44793434569004,
+        "positive": 2182,
+        "flat": 48,
+        "negative": 2248,
+        "win_rate": 0.4872711031710585
+      },
+      {
+        "label": "Esports",
+        "count": 17019,
+        "pnl_sum": -147721.5299999998,
+        "pnl_avg": -8.67980081085844,
+        "positive": 7461,
+        "flat": 318,
+        "negative": 9240,
+        "win_rate": 0.4383923849814913
+      },
+      {
+        "label": "CS2",
+        "count": 1120,
+        "pnl_sum": -15882.289999999986,
+        "pnl_avg": -14.18061607142856,
+        "positive": 472,
+        "flat": 31,
+        "negative": 617,
+        "win_rate": 0.42142857142857143
+      },
+      {
+        "label": "Football",
+        "count": 3359,
+        "pnl_sum": -113331.5299999998,
+        "pnl_avg": -33.73966359035421,
+        "positive": 1243,
+        "flat": 420,
+        "negative": 1696,
+        "win_rate": 0.3700506103006847
+      },
+      {
+        "label": "Basketball",
+        "count": 1137,
+        "pnl_sum": -96916.30999999997,
+        "pnl_avg": -85.23861917326295,
+        "positive": 490,
+        "flat": 7,
+        "negative": 640,
+        "win_rate": 0.4309586631486368
+      }
+    ],
+    "worst_categories_by_avg_pnl": [
+      {
+        "label": "Other",
+        "count": 230,
+        "pnl_sum": -23556.729999999992,
+        "pnl_avg": -102.42056521739127,
+        "positive": 78,
+        "flat": 12,
+        "negative": 140,
+        "win_rate": 0.3391304347826087
+      },
+      {
+        "label": "Valorant",
+        "count": 128,
+        "pnl_sum": -11449.030000000013,
+        "pnl_avg": -89.4455468750001,
+        "positive": 47,
+        "flat": 0,
+        "negative": 81,
+        "win_rate": 0.3671875
+      },
+      {
+        "label": "Basketball",
+        "count": 1137,
+        "pnl_sum": -96916.30999999997,
+        "pnl_avg": -85.23861917326295,
+        "positive": 490,
+        "flat": 7,
+        "negative": 640,
+        "win_rate": 0.4309586631486368
+      },
+      {
+        "label": "Football",
+        "count": 3359,
+        "pnl_sum": -113331.5299999998,
+        "pnl_avg": -33.73966359035421,
+        "positive": 1243,
+        "flat": 420,
+        "negative": 1696,
+        "win_rate": 0.3700506103006847
+      },
+      {
+        "label": "CS2",
+        "count": 1120,
+        "pnl_sum": -15882.289999999986,
+        "pnl_avg": -14.18061607142856,
+        "positive": 472,
+        "flat": 31,
+        "negative": 617,
+        "win_rate": 0.42142857142857143
+      },
+      {
+        "label": "Esports",
+        "count": 17019,
+        "pnl_sum": -147721.5299999998,
+        "pnl_avg": -8.67980081085844,
+        "positive": 7461,
+        "flat": 318,
+        "negative": 9240,
+        "win_rate": 0.4383923849814913
+      }
+    ]
+  }
+}
